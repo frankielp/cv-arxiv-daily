@@ -25,12 +25,12 @@ keywords:
     "4D Generative":
         filters: ["Image-to-4D", "Text-to-4D", "4D Generation"]
     "3D Generative":
-        filters: ["Image-to-4D", "Text-to-3D", "3D Generation", "SDS"]
+        filters: ["Image-to-4D", "Text-to-3D", "3D Generation"]
     "3D Gaussian Splatting":
         filters: ["3D Gaussian Splatting", "GS3D"]
     "NeRF":
         filters: ["NeRF"]
-    "Text2Video":
+    "Text-to-Video":
         filters: ["Text2Video","Text-to-Video"]
     "3D Vision":
         filters: ["3D", "Mesh"]
