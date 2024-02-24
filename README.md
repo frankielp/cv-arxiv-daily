@@ -12,6 +12,7 @@
     <li><a href=#4d-generative>4D Generative</a></li>
     <li><a href=#3d-generative>3D Generative</a></li>
     <li><a href=#3d-gaussian-splatting>3D Gaussian Splatting</a></li>
+    <li><a href=#text-to-video>Text-to-Video</a></li>
   </ol>
 </details>
 
@@ -63,6 +64,23 @@
 |**2024-02-06**|**Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos**|Alfredo Rivero et.al.|[2402.03723](http://arxiv.org/abs/2402.03723)|null|
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
+
+<p align=right>(<a href=#updated-on-20240224>back to top</a>)</p>
+
+## Text-to-Video
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-02-22**|**Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis**|Willi Menapace et.al.|[2402.14797](http://arxiv.org/abs/2402.14797)|null|
+|**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/abs/2402.14780)|null|
+|**2024-02-21**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/abs/2402.13729)|null|
+|**2024-02-22**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185](http://arxiv.org/abs/2402.13185)|null|
+|**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
+|**2024-02-20**|**VGMShield: Mitigating Misuse of Video Generative Models**|Yan Pang et.al.|[2402.13126](http://arxiv.org/abs/2402.13126)|**[link](https://github.com/py85252876/mmvgm)**|
+|**2024-02-19**|**Dynamic and Super-Personalized Media Ecosystem Driven by Generative AI: Unpredictable Plays Never Repeating The Same**|Sungjun Ahn et.al.|[2402.12412](http://arxiv.org/abs/2402.12412)|null|
+|**2024-02-16**|**Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation**|Lanqing Guo et.al.|[2402.10491](http://arxiv.org/abs/2402.10491)|**[link](https://github.com/guolanqing/self-cascade)**|
+|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
+|**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
 <p align=right>(<a href=#updated-on-20240224>back to top</a>)</p>
 
