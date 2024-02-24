@@ -29,6 +29,6 @@ keywords:
     "3D Gaussian Splatting":
         filters: ["3D Gaussian Splatting", "GS3D"]
     "Text-to-Video":
-        filters: ["Text-to-Video"]
+        filters: ["Text-to-Video", "Video Generation"]
     "3D Vision":
         filters: ["3D", "NeRF"]
