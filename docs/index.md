@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.03
+## Updated on 2024.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -66,7 +66,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479](http://arxiv.org/abs/2402.19479)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/abs/2402.18092)|null|
-|**2024-02-27**|**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
+|**2024-02-27**|**EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
 |**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403](http://arxiv.org/abs/2402.17403)|null|
 |**2024-02-28**|**Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**|Yixin Liu et.al.|[2402.17177](http://arxiv.org/abs/2402.17177)|**[link](https://github.com/lichao-sun/sorareview)**|
 |**2024-02-27**|**Video as the New Language for Real-World Decision Making**|Sherry Yang et.al.|[2402.17139](http://arxiv.org/abs/2402.17139)|null|
