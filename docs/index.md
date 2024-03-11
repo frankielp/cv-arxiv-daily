@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -31,7 +31,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-04**|**3DTopia: Large Text-to-3D Generation Model with Hybrid Diffusion Priors**|Fangzhou Hong et.al.|[2403.02234](http://arxiv.org/abs/2403.02234)|**[link](https://github.com/3dtopia/3dtopia)**|
 |**2024-03-04**|**TripoSR: Fast 3D Object Reconstruction from a Single Image**|Dmitry Tochilkin et.al.|[2403.02151](http://arxiv.org/abs/2403.02151)|**[link](https://github.com/vast-ai-research/triposr)**|
-|**2024-03-01**|**G3DR: Generative 3D Reconstruction in ImageNet**|Pradyumna Reddy et.al.|[2403.00939](http://arxiv.org/abs/2403.00939)|null|
+|**2024-03-08**|**G3DR: Generative 3D Reconstruction in ImageNet**|Pradyumna Reddy et.al.|[2403.00939](http://arxiv.org/abs/2403.00939)|null|
 |**2024-02-28**|**The VOROS: Lifting ROC curves to 3D**|Christopher Ratigan et.al.|[2402.18689](http://arxiv.org/abs/2402.18689)|null|
 |**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292](http://arxiv.org/abs/2402.17292)|null|
 |**2024-02-22**|**Place Anything into Any Video**|Ziling Liu et.al.|[2402.14316](http://arxiv.org/abs/2402.14316)|null|
@@ -68,7 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-03-06**|**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control**|Xuweiyi Chen et.al.|[2403.02332](http://arxiv.org/abs/2403.02332)|**[link](https://github.com/XuweiyiChen/UniCtrl)**|
 |**2024-03-05**|**AtomoVideo: High Fidelity Image-to-Video Generation**|Litong Gong et.al.|[2403.01800](http://arxiv.org/abs/2403.01800)|null|
