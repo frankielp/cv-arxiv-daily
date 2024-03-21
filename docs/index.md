@@ -30,6 +30,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Compress3D: a Compressed Latent Space for 3D Generation from a Single Image**|Bowen Zhang et.al.|[2403.13524](http://arxiv.org/abs/2403.13524)|null|
+|**2024-03-17**|**General Line Coordinates in 3D**|Joshua Martinez et.al.|[2403.13014](http://arxiv.org/abs/2403.13014)|null|
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957](http://arxiv.org/abs/2403.12957)|null|
 |**2024-03-19**|**Precise-Physics Driven Text-to-3D Generation**|Qingshan Xu et.al.|[2403.12438](http://arxiv.org/abs/2403.12438)|null|
 |**2024-03-19**|**ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance**|Yongwei Chen et.al.|[2403.12409](http://arxiv.org/abs/2403.12409)|null|
@@ -73,7 +75,7 @@ layout: default
 |**2024-03-19**|**HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting**|Hongyu Zhou et.al.|[2403.12722](http://arxiv.org/abs/2403.12722)|null|
 |**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/abs/2403.12550)|null|
 |**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535](http://arxiv.org/abs/2403.12535)|null|
-|**2024-03-18**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868](http://arxiv.org/abs/2403.11868)|null|
+|**2024-03-20**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868](http://arxiv.org/abs/2403.11868)|null|
 |**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
 |**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679](http://arxiv.org/abs/2403.11679)|null|
 |**2024-03-20**|**GaussNav: Gaussian Splatting for Visual Navigation**|Xiaohan Lei et.al.|[2403.11625](http://arxiv.org/abs/2403.11625)|null|
@@ -116,13 +118,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**|Fu-Yun Wang et.al.|[2403.13745](http://arxiv.org/abs/2403.13745)|null|
+|**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408](http://arxiv.org/abs/2403.13408)|null|
+|**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248](http://arxiv.org/abs/2403.13248)|**[link](https://github.com/lichao-sun/mora)**|
 |**2024-03-19**|**AnimateDiff-Lightning: Cross-Model Diffusion Distillation**|Shanchuan Lin et.al.|[2403.12706](http://arxiv.org/abs/2403.12706)|null|
 |**2024-03-18**|**CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility**|Bojia Zi et.al.|[2403.12035](http://arxiv.org/abs/2403.12035)|null|
 |**2024-03-18**|**VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model**|Qi Zuo et.al.|[2403.12010](http://arxiv.org/abs/2403.12010)|null|
-|**2024-03-19**|**Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment**|Tengchuan Kou et.al.|[2403.11956](http://arxiv.org/abs/2403.11956)|null|
+|**2024-03-19**|**Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment**|Tengchuan Kou et.al.|[2403.11956](http://arxiv.org/abs/2403.11956)|**[link](https://github.com/qmme/t2vqa)**|
 |**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
 |**2024-03-17**|**Endora: Video Generation Models as Endoscopy Simulators**|Chenxin Li et.al.|[2403.11050](http://arxiv.org/abs/2403.11050)|null|
-|**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|null|
+|**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
 |**2024-03-15**|**Animate Your Motion: Turning Still Images into Dynamic Videos**|Mingxiao Li et.al.|[2403.10179](http://arxiv.org/abs/2403.10179)|null|
 |**2024-03-14**|**Video Editing via Factorized Diffusion Distillation**|Uriel Singer et.al.|[2403.09334](http://arxiv.org/abs/2403.09334)|null|
 |**2024-03-17**|**Intention-driven Ego-to-Exo Video Generation**|Hongchen Luo et.al.|[2403.09194](http://arxiv.org/abs/2403.09194)|null|
