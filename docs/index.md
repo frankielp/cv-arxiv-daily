@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.22
+## Updated on 2024.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -78,7 +78,7 @@ layout: default
 |**2024-03-21**|**Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering**|Yuanhao Gong et.al.|[2403.14244](http://arxiv.org/abs/2403.14244)|null|
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957](http://arxiv.org/abs/2403.12957)|null|
 |**2024-03-19**|**HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting**|Hongyu Zhou et.al.|[2403.12722](http://arxiv.org/abs/2403.12722)|null|
-|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/abs/2403.12550)|null|
+|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/abs/2403.12550)|**[link](https://github.com/lab-of-ai-and-robotics/gs_icp_slam)**|
 |**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535](http://arxiv.org/abs/2403.12535)|null|
 |**2024-03-20**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868](http://arxiv.org/abs/2403.11868)|null|
 |**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
