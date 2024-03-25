@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians**|Yifei Zeng et.al.|[2403.14939](http://arxiv.org/abs/2403.14939)|null|
 |**2024-03-19**|**GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation**|Quankai Gao et.al.|[2403.12365](http://arxiv.org/abs/2403.12365)|null|
 |**2024-03-17**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
 |**2023-12-29**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142](http://arxiv.org/abs/2312.17142)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
@@ -30,6 +31,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385](http://arxiv.org/abs/2403.15385)|null|
+|**2024-03-22**|**ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars**|Zhenwei Wang et.al.|[2403.15383](http://arxiv.org/abs/2403.15383)|null|
+|**2024-03-22**|**DreamFlow: High-Quality Text-to-3D Generation by Approximating Probability Flow**|Kyungmin Lee et.al.|[2403.14966](http://arxiv.org/abs/2403.14966)|null|
+|**2024-03-22**|**STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians**|Yifei Zeng et.al.|[2403.14939](http://arxiv.org/abs/2403.14939)|null|
 |**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
 |**2024-03-20**|**Compress3D: a Compressed Latent Space for 3D Generation from a Single Image**|Bowen Zhang et.al.|[2403.13524](http://arxiv.org/abs/2403.13524)|null|
 |**2024-03-17**|**General Line Coordinates in 3D**|Joshua Martinez et.al.|[2403.13014](http://arxiv.org/abs/2403.13014)|null|
@@ -72,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians**|Yifei Zeng et.al.|[2403.14939](http://arxiv.org/abs/2403.14939)|null|
 |**2024-03-21**|**MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**|Yuedong Chen et.al.|[2403.14627](http://arxiv.org/abs/2403.14627)|**[link](https://github.com/donydchen/mvsplat)**|
 |**2024-03-21**|**Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering**|Antoine Guédon et.al.|[2403.14554](http://arxiv.org/abs/2403.14554)|null|
 |**2024-03-21**|**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2403.14530](http://arxiv.org/abs/2403.14530)|**[link](https://github.com/yihangchen-ee/hac)**|
@@ -123,10 +129,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Spectral Motion Alignment for Video Motion Transfer using Diffusion Models**|Geon Yeong Park et.al.|[2403.15249](http://arxiv.org/abs/2403.15249)|null|
+|**2024-03-21**|**StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text**|Roberto Henschel et.al.|[2403.14773](http://arxiv.org/abs/2403.14773)|null|
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611](http://arxiv.org/abs/2403.14611)|null|
 |**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
 |**2024-03-21**|**Enabling Visual Composition and Animation in Unsupervised Video Generation**|Aram Davtyan et.al.|[2403.14368](http://arxiv.org/abs/2403.14368)|null|
-|**2024-03-21**|**StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN**|Jongwoo Choi et.al.|[2403.14186](http://arxiv.org/abs/2403.14186)|null|
+|**2024-03-21**|**StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN**|Jongwoo Choi et.al.|[2403.14186](http://arxiv.org/abs/2403.14186)|**[link](https://github.com/jeolpyeoni/StyleCineGAN)**|
 |**2024-03-21**|**Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition**|Sihyun Yu et.al.|[2403.14148](http://arxiv.org/abs/2403.14148)|null|
 |**2024-03-20**|**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**|Fu-Yun Wang et.al.|[2403.13745](http://arxiv.org/abs/2403.13745)|**[link](https://github.com/g-u-n/be-your-outpainter)**|
 |**2024-03-22**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408](http://arxiv.org/abs/2403.13408)|null|
