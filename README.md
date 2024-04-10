@@ -44,6 +44,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
+|**2024-04-09**|**DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation**|Junkai Yan et.al.|[2404.06119](http://arxiv.org/abs/2404.06119)|**[link](https://github.com/isee-laboratory/dreamview)**|
+|**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091](http://arxiv.org/abs/2404.06091)|**[link](https://github.com/Adamdad/hash3D)**|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
 |**2024-04-06**|**Diffusion Time-step Curriculum for One Image to 3D Generation**|Xuanyu Yi et.al.|[2404.04562](http://arxiv.org/abs/2404.04562)|**[link](https://github.com/yxymessi/dtc123)**|
 |**2024-04-03**|**Design2Cloth: 3D Cloth Generation from 2D Masks**|Jiali Zheng et.al.|[2404.02686](http://arxiv.org/abs/2404.02686)|null|
@@ -108,6 +111,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/abs/2404.06270)|null|
+|**2024-04-09**|**Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction**|Sierra Bonilla et.al.|[2404.06128](http://arxiv.org/abs/2404.06128)|**[link](https://github.com/smbonilla/gaussianpancakes)**|
+|**2024-04-09**|**Revising Densification in Gaussian Splatting**|Samuel Rota Bulò et.al.|[2404.06109](http://arxiv.org/abs/2404.06109)|null|
+|**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091](http://arxiv.org/abs/2404.06091)|**[link](https://github.com/Adamdad/hash3D)**|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
 |**2024-04-06**|**Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion**|Ziyuan Qu et.al.|[2404.04687](http://arxiv.org/abs/2404.04687)|null|
 |**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
