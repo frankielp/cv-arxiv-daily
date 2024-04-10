@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -177,7 +177,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-08**|**Action-conditioned video data improves predictability**|Meenakshi Sarkar et.al.|[2404.05439](http://arxiv.org/abs/2404.05439)|null|
-|**2024-04-07**|**MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**|Shenghai Yuan et.al.|[2404.05014](http://arxiv.org/abs/2404.05014)|null|
+|**2024-04-07**|**MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**|Shenghai Yuan et.al.|[2404.05014](http://arxiv.org/abs/2404.05014)|**[link](https://github.com/pku-yuangroup/magictime)**|
 |**2024-04-07**|**AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via Subject Alignment**|Yuanfeng Xu et.al.|[2404.04946](http://arxiv.org/abs/2404.04946)|null|
 |**2024-04-02**|**CameraCtrl: Enabling Camera Control for Text-to-Video Generation**|Hao He et.al.|[2404.02101](http://arxiv.org/abs/2404.02101)|**[link](https://github.com/hehao13/cameractrl)**|
 |**2024-04-02**|**Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model**|Xu He et.al.|[2404.01862](http://arxiv.org/abs/2404.01862)|**[link](https://github.com/thuhcsi/s2g-mddiffusion)**|
