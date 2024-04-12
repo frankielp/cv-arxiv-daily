@@ -189,6 +189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**A Transformer-Based Model for the Prediction of Human Gaze Behavior on Videos**|Suleyman Ozdel et.al.|[2404.07351](http://arxiv.org/abs/2404.07351)|null|
 |**2024-04-08**|**Action-conditioned video data improves predictability**|Meenakshi Sarkar et.al.|[2404.05439](http://arxiv.org/abs/2404.05439)|null|
 |**2024-04-07**|**MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**|Shenghai Yuan et.al.|[2404.05014](http://arxiv.org/abs/2404.05014)|**[link](https://github.com/pku-yuangroup/magictime)**|
 |**2024-04-07**|**AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via Subject Alignment**|Yuanfeng Xu et.al.|[2404.04946](http://arxiv.org/abs/2404.04946)|null|
