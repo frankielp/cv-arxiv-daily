@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -36,7 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-15**|**Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints**|Faraz Faruqi et.al.|[2404.10142](http://arxiv.org/abs/2404.10142)|null|
+|**2024-04-17**|**Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints**|Faraz Faruqi et.al.|[2404.10142](http://arxiv.org/abs/2404.10142)|null|
 |**2024-04-14**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu et.al.|[2404.07191](http://arxiv.org/abs/2404.07191)|**[link](https://github.com/tencentarc/instantmesh)**|
 |**2024-04-10**|**Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**|Fan Lu et.al.|[2404.06780](http://arxiv.org/abs/2404.06780)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
