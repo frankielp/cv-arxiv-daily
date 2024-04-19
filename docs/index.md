@@ -36,6 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
 |**2024-04-17**|**Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints**|Faraz Faruqi et.al.|[2404.10142](http://arxiv.org/abs/2404.10142)|null|
 |**2024-04-14**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu et.al.|[2404.07191](http://arxiv.org/abs/2404.07191)|**[link](https://github.com/tencentarc/instantmesh)**|
 |**2024-04-10**|**Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**|Fan Lu et.al.|[2404.06780](http://arxiv.org/abs/2404.06780)|null|
@@ -104,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos**|Isabella Liu et.al.|[2404.12379](http://arxiv.org/abs/2404.12379)|null|
 |**2024-04-17**|**RainyScape: Unsupervised Rainy Scene Reconstruction using Decoupled Neural Rendering**|Xianqiang Lyu et.al.|[2404.11401](http://arxiv.org/abs/2404.11401)|null|
 |**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
 |**2024-04-17**|**Novel View Synthesis for Cinematic Anatomy on Mobile and Immersive Displays**|Simon Niedermayr et.al.|[2404.11285](http://arxiv.org/abs/2404.11285)|null|
@@ -201,6 +203,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391](http://arxiv.org/abs/2404.12391)|null|
+|**2024-04-18**|**RoboDreamer: Learning Compositional World Models for Robot Imagination**|Siyuan Zhou et.al.|[2404.12377](http://arxiv.org/abs/2404.12377)|null|
+|**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
 |**2024-04-15**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967](http://arxiv.org/abs/2404.09967)|null|
 |**2024-04-16**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
 |**2024-04-13**|**THQA: A Perceptual Quality Assessment Database for Talking Heads**|Yingjie Zhou et.al.|[2404.09003](http://arxiv.org/abs/2404.09003)|**[link](https://github.com/zyj-2000/thqa)**|
