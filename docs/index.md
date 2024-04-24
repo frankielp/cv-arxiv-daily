@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -212,7 +212,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-22**|**TAVGBench: Benchmarking Text to Audible-Video Generation**|Yuxin Mao et.al.|[2404.14381](http://arxiv.org/abs/2404.14381)|**[link](https://github.com/opennlplab/tavgbench)**|
-|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
+|**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
 |**2024-04-21**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|null|
 |**2024-04-21**|**Motion-aware Latent Diffusion Models for Video Frame Interpolation**|Zhilin Huang et.al.|[2404.13534](http://arxiv.org/abs/2404.13534)|null|
 |**2024-04-20**|**Music Consistency Models**|Zhengcong Fei et.al.|[2404.13358](http://arxiv.org/abs/2404.13358)|null|
