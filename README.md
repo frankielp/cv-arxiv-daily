@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
 |**2023-11-05**|**Charging solid partitions**|Dmitry Galakhov et.al.|[2311.02751](http://arxiv.org/abs/2311.02751)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -112,7 +112,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -123,7 +123,7 @@
 |**2024-04-25**|**OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation**|Lizhi Wang et.al.|[2404.15891](http://arxiv.org/abs/2404.15891)|**[link](https://github.com/crystalwlz/omegas)**|
 |**2024-04-22**|**Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses**|Inhee Lee et.al.|[2404.14410](http://arxiv.org/abs/2404.14410)|null|
 |**2024-04-22**|**CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding**|Guibiao Liao et.al.|[2404.14249](http://arxiv.org/abs/2404.14249)|**[link](https://github.com/gbliao/clip-gs)**|
-|**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
+|**2024-04-28**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-21**|**GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal**|Yuxin Wang et.al.|[2404.13679](http://arxiv.org/abs/2404.13679)|null|
 |**2024-04-19**|**Learn2Talk: 3D Talking Face Learns from 2D Talking Face**|Yixiang Zhuang et.al.|[2404.12888](http://arxiv.org/abs/2404.12888)|null|
 |**2024-04-19**|**EfficientGS: Streamlining Gaussian Splatting for Large-Scale High-Resolution Scene Representation**|Wenkai Liu et.al.|[2404.12777](http://arxiv.org/abs/2404.12777)|null|
@@ -222,7 +222,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -235,7 +235,7 @@
 |**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275](http://arxiv.org/abs/2404.15275)|**[link](https://github.com/id-animator/id-animator)**|
 |**2024-04-22**|**TAVGBench: Benchmarking Text to Audible-Video Generation**|Yuxin Mao et.al.|[2404.14381](http://arxiv.org/abs/2404.14381)|**[link](https://github.com/opennlplab/tavgbench)**|
 |**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
-|**2024-04-21**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|null|
+|**2024-04-27**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|null|
 |**2024-04-21**|**Motion-aware Latent Diffusion Models for Video Frame Interpolation**|Zhilin Huang et.al.|[2404.13534](http://arxiv.org/abs/2404.13534)|null|
 |**2024-04-20**|**Music Consistency Models**|Zhengcong Fei et.al.|[2404.13358](http://arxiv.org/abs/2404.13358)|null|
 |**2024-04-19**|**PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**|Tianyuan Zhang et.al.|[2404.13026](http://arxiv.org/abs/2404.13026)|null|
@@ -323,7 +323,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
