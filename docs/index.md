@@ -36,6 +36,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting**|Kai Zhang et.al.|[2404.19702](http://arxiv.org/abs/2404.19702)|null|
+|**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$ 20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525](http://arxiv.org/abs/2404.19525)|**[link](https://github.com/ml-gsai/microdreamer)**|
 |**2024-04-26**|**Multi-view Image Prompted Multi-view Diffusion for Improved 3D Generation**|Seungwook Kim et.al.|[2404.17419](http://arxiv.org/abs/2404.17419)|null|
 |**2024-04-25**|**Interactive3D: Create What You Want by Interactive 3D Generation**|Shaocong Dong et.al.|[2404.16510](http://arxiv.org/abs/2404.16510)|null|
 |**2024-04-22**|**X-Ray: A Sequential 3D Representation for Generation**|Tao Hu et.al.|[2404.14329](http://arxiv.org/abs/2404.14329)|null|
@@ -108,6 +110,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting**|Kai Zhang et.al.|[2404.19702](http://arxiv.org/abs/2404.19702)|null|
+|**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149](http://arxiv.org/abs/2404.19149)|null|
+|**2024-04-29**|**MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing**|Cong Wang et.al.|[2404.19026](http://arxiv.org/abs/2404.19026)|null|
 |**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929](http://arxiv.org/abs/2404.18929)|null|
 |**2024-04-29**|**Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**|Yifei Gao et.al.|[2404.18669](http://arxiv.org/abs/2404.18669)|null|
 |**2024-04-29**|**3D Gaussian Splatting with Deferred Reflection**|Keyang Ye et.al.|[2404.18454](http://arxiv.org/abs/2404.18454)|null|
@@ -220,6 +225,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
+|**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277](http://arxiv.org/abs/2404.19277)|null|
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
 |**2024-04-25**|**Synthesizing Audio from Silent Video using Sequence to Sequence Modeling**|Hugo Garrido-Lestache Belinchon et.al.|[2404.17608](http://arxiv.org/abs/2404.17608)|**[link](https://github.com/Adam-Haile/vita-research-group)**|
 |**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
