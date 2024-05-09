@@ -240,6 +240,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Reviewing Intelligent Cinematography: AI research for camera-based video production**|Adrian Azzarelli et.al.|[2405.05039](http://arxiv.org/abs/2405.05039)|null|
+|**2024-05-07**|**TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation**|Hritik Bansal et.al.|[2405.04682](http://arxiv.org/abs/2405.04682)|null|
 |**2024-05-07**|**Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation**|Dogucan Yaman et.al.|[2405.04327](http://arxiv.org/abs/2405.04327)|null|
 |**2024-05-07**|**Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models**|Fan Bao et.al.|[2405.04233](http://arxiv.org/abs/2405.04233)|null|
 |**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
