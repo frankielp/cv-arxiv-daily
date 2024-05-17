@@ -36,6 +36,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Dual3D: Efficient and Consistent Text-to-3D Generation with Dual-mode Multi-view Latent Diffusion**|Xinyang Li et.al.|[2405.09874](http://arxiv.org/abs/2405.09874)|null|
+|**2024-05-16**|**The metallicity and carbon-to-oxygen ratio of the ultra-hot Jupiter WASP-76b from Gemini-S/IGRINS**|Megan Weiner Mansfield et.al.|[2405.09769](http://arxiv.org/abs/2405.09769)|null|
 |**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
 |**2024-05-15**|**3D Shape Augmentation with Content-Aware Shape Resizing**|Mingxiang Chen et.al.|[2405.09050](http://arxiv.org/abs/2405.09050)|null|
 |**2024-05-13**|**DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation**|Ziang Cao et.al.|[2405.08055](http://arxiv.org/abs/2405.08055)|**[link](https://github.com/ziangcao0312/DiffTF)**|
@@ -115,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction**|Rui Jin et.al.|[2405.10142](http://arxiv.org/abs/2405.10142)|null|
 |**2024-05-11**|**Direct Learning of Mesh and Appearance via 3D Gaussian Splatting**|Ancheng Lin et.al.|[2405.06945](http://arxiv.org/abs/2405.06945)|null|
 |**2024-05-10**|**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**|Jinwei Lin et.al.|[2405.06408](http://arxiv.org/abs/2405.06408)|null|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
