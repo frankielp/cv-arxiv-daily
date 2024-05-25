@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -274,7 +274,7 @@ layout: default
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
 |**2024-05-22**|**Enhanced Creativity and Ideation through Stable Video Synthesis**|Elijah Miller et.al.|[2405.13357](http://arxiv.org/abs/2405.13357)|null|
 |**2024-05-21**|**CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers**|Andrew Marmon et.al.|[2405.13195](http://arxiv.org/abs/2405.13195)|null|
-|**2024-05-21**|**OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models**|Zhaojian Yu et.al.|[2405.12843](http://arxiv.org/abs/2405.12843)|null|
+|**2024-05-21**|**OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models**|Zhaojian Yu et.al.|[2405.12843](http://arxiv.org/abs/2405.12843)|**[link](https://github.com/answers111/opencarboneval)**|
 |**2024-05-21**|**DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control**|Hong Chen et.al.|[2405.12796](http://arxiv.org/abs/2405.12796)|null|
 |**2024-05-19**|**FIFO-Diffusion: Generating Infinite Videos from Text without Training**|Jihwan Kim et.al.|[2405.11473](http://arxiv.org/abs/2405.11473)|null|
 |**2024-05-17**|**From Sora What We Can See: A Survey of Text-to-Video Generation**|Rui Sun et.al.|[2405.10674](http://arxiv.org/abs/2405.10674)|**[link](https://github.com/soraw-ai/awesome-text-to-video-generation)**|
