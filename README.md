@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
 |**2023-11-05**|**Charging solid partitions**|Dmitry Galakhov et.al.|[2311.02751](http://arxiv.org/abs/2311.02751)|null|
 
-<p align=right>(<a href=#updated-on-20240526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -51,7 +51,7 @@
 |**2024-05-22**|**Metabook: An Automatically Generated Augmented Reality Storybook Interaction System to Improve Children's Engagement in Storytelling**|Yibo Wang et.al.|[2405.13701](http://arxiv.org/abs/2405.13701)|null|
 |**2024-05-18**|**Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching**|Xingyu Miao et.al.|[2405.11252](http://arxiv.org/abs/2405.11252)|**[link](https://github.com/xingy038/dreamer-xl)**|
 |**2024-05-16**|**Flow Score Distillation for Diverse Text-to-3D Generation**|Runjie Yan et.al.|[2405.10988](http://arxiv.org/abs/2405.10988)|null|
-|**2024-05-16**|**Describing heat dissipation in the resistive state of three-dimensional superconductors**|Leonardo Rodrigues Cadorim et.al.|[2405.10415](http://arxiv.org/abs/2405.10415)|null|
+|**2024-05-23**|**Describing heat dissipation in the resistive state of three-dimensional superconductors**|Leonardo Rodrigues Cadorim et.al.|[2405.10415](http://arxiv.org/abs/2405.10415)|null|
 |**2024-05-16**|**Dual3D: Efficient and Consistent Text-to-3D Generation with Dual-mode Multi-view Latent Diffusion**|Xinyang Li et.al.|[2405.09874](http://arxiv.org/abs/2405.09874)|null|
 |**2024-05-16**|**The metallicity and carbon-to-oxygen ratio of the ultra-hot Jupiter WASP-76b from Gemini-S/IGRINS**|Megan Weiner Mansfield et.al.|[2405.09769](http://arxiv.org/abs/2405.09769)|null|
 |**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
@@ -129,14 +129,14 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20240526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-23**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455](http://arxiv.org/abs/2405.14455)|null|
-|**2024-05-23**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|null|
+|**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|null|
 |**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943](http://arxiv.org/abs/2405.13943)|null|
 |**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694](http://arxiv.org/abs/2405.13694)|null|
 |**2024-05-21**|**Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery**|Hongsheng Wang et.al.|[2405.12477](http://arxiv.org/abs/2405.12477)|null|
@@ -272,7 +272,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20240526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -280,7 +280,7 @@
 |---|---|---|---|---|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
 |**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664](http://arxiv.org/abs/2405.14664)|null|
-|**2024-05-23**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Poses**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
+|**2024-05-24**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/abs/2405.14475)|null|
 |**2024-05-22**|**ReVideo: Remake a Video with Motion and Content Control**|Chong Mou et.al.|[2405.13865](http://arxiv.org/abs/2405.13865)|null|
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
@@ -402,7 +402,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20240526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
