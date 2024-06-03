@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
 |**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337](http://arxiv.org/abs/2405.20337)|**[link](https://github.com/wzzheng/occsora)**|
 |**2024-05-30**|**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models**|Lukas Uzolas et.al.|[2405.20155](http://arxiv.org/abs/2405.20155)|null|
 |**2024-05-27**|**Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation**|Zhoujie Fu et.al.|[2405.16849](http://arxiv.org/abs/2405.16849)|null|
@@ -51,6 +52,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|null|
+|**2024-05-30**|**What makes a cosmic filament? The dynamical origin and identity of filaments I. fundamentals in 2D**|Job Feldbrugge et.al.|[2405.20475](http://arxiv.org/abs/2405.20475)|null|
 |**2024-05-30**|**GECO: Generative Image-to-3D within a SECOnd**|Chen Wang et.al.|[2405.20327](http://arxiv.org/abs/2405.20327)|null|
 |**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957](http://arxiv.org/abs/2405.19957)|null|
 |**2024-05-28**|**Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication**|Yunuo Chen et.al.|[2405.18515](http://arxiv.org/abs/2405.18515)|null|
@@ -151,6 +154,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
+|**2024-05-31**|**R $^2$ -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693](http://arxiv.org/abs/2405.20693)|null|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-31**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
 |**2024-05-29**|**EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images**|Wangbo Yu et.al.|[2405.20224](http://arxiv.org/abs/2405.20224)|null|
@@ -322,6 +327,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
 |**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320](http://arxiv.org/abs/2405.20320)|**[link](https://github.com/sangyun884/rfpp)**|
 |**2024-05-30**|**CV-VAE: A Compatible Video VAE for Latent Generative Video Models**|Sijie Zhao et.al.|[2405.20279](http://arxiv.org/abs/2405.20279)|**[link](https://github.com/ailab-cvc/cv-vae)**|
 |**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|null|
