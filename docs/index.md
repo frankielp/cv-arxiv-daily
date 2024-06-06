@@ -44,6 +44,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Text-to-Image Rectified Flow as Plug-and-Play Priors**|Xiaofeng Yang et.al.|[2406.03293](http://arxiv.org/abs/2406.03293)|**[link](https://github.com/yangxiaofeng/rectified_flow_prior)**|
+|**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184](http://arxiv.org/abs/2406.03184)|null|
+|**2024-06-05**|**Adversarial Generation of Hierarchical Gaussians for 3D Generative Model**|Sangeek Hyun et.al.|[2406.02968](http://arxiv.org/abs/2406.02968)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
 |**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579](http://arxiv.org/abs/2406.01579)|**[link](https://github.com/fudan-zvg/tet-splatting)**|
 |**2024-06-04**|**Towards Practical Single-shot Motion Synthesis**|Konstantinos Roditakis et.al.|[2406.01136](http://arxiv.org/abs/2406.01136)|null|
@@ -149,6 +152,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion**|Tianyi Xiong et.al.|[2406.02972](http://arxiv.org/abs/2406.02972)|null|
+|**2024-06-05**|**Adversarial Generation of Hierarchical Gaussians for 3D Generative Model**|Sangeek Hyun et.al.|[2406.02968](http://arxiv.org/abs/2406.02968)|null|
+|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720](http://arxiv.org/abs/2406.02720)|null|
 |**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**|Van Minh Nguyen et.al.|[2406.02533](http://arxiv.org/abs/2406.02533)|null|
 |**2024-06-04**|**DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering**|Zhongpai Gao et.al.|[2406.02518](http://arxiv.org/abs/2406.02518)|null|
@@ -330,6 +336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
 |**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511](http://arxiv.org/abs/2406.02511)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
