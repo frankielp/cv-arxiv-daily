@@ -182,7 +182,7 @@
 |**2024-06-03**|**DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors**|Tianyu Huang et.al.|[2406.01476](http://arxiv.org/abs/2406.01476)|**[link](https://github.com/tyhuang0428/dreamphysics)**|
 |**2024-06-03**|**RaDe-GS: Rasterizing Depth in Gaussian Splatting**|Baowen Zhang et.al.|[2406.01467](http://arxiv.org/abs/2406.01467)|null|
 |**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
-|**2024-05-31**|**R $^2$ -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693](http://arxiv.org/abs/2405.20693)|null|
+|**2024-05-31**|**R $^2$ -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693](http://arxiv.org/abs/2405.20693)|**[link](https://github.com/ruyi-zha/r2_gaussian)**|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-06-03**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
 |**2024-05-29**|**EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images**|Wangbo Yu et.al.|[2405.20224](http://arxiv.org/abs/2405.20224)|null|
@@ -242,7 +242,7 @@
 |**2024-04-29**|**MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing**|Cong Wang et.al.|[2404.19026](http://arxiv.org/abs/2404.19026)|null|
 |**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929](http://arxiv.org/abs/2404.18929)|null|
 |**2024-04-29**|**Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**|Yifei Gao et.al.|[2404.18669](http://arxiv.org/abs/2404.18669)|null|
-|**2024-04-29**|**3D Gaussian Splatting with Deferred Reflection**|Keyang Ye et.al.|[2404.18454](http://arxiv.org/abs/2404.18454)|null|
+|**2024-04-29**|**3D Gaussian Splatting with Deferred Reflection**|Keyang Ye et.al.|[2404.18454](http://arxiv.org/abs/2404.18454)|**[link](https://github.com/gapszju/3DGS-DR)**|
 |**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394](http://arxiv.org/abs/2404.18394)|null|
 |**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215](http://arxiv.org/abs/2404.17215)|null|
 |**2024-04-25**|**GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting**|Kyusun Cho et.al.|[2404.16012](http://arxiv.org/abs/2404.16012)|**[link](https://github.com/ku-cvlab/gaussiantalker)**|
@@ -294,7 +294,7 @@
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
 |**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
 |**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898](http://arxiv.org/abs/2403.17898)|**[link](https://github.com/city-super/Octree-GS)**|
-|**2024-03-26**|**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**|Binbin Huang et.al.|[2403.17888](http://arxiv.org/abs/2403.17888)|null|
+|**2024-03-26**|**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**|Binbin Huang et.al.|[2403.17888](http://arxiv.org/abs/2403.17888)|**[link](https://github.com/hbb1/2d-gaussian-splatting)**|
 |**2024-03-26**|**DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing**|Matias Turkulainen et.al.|[2403.17822](http://arxiv.org/abs/2403.17822)|**[link](https://github.com/maturk/dn-splatter)**|
 |**2024-03-25**|**GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction**|Mulin Yu et.al.|[2403.16964](http://arxiv.org/abs/2403.16964)|null|
 |**2024-03-23**|**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**|Dongbin Zhang et.al.|[2403.15704](http://arxiv.org/abs/2403.15704)|null|
@@ -384,7 +384,7 @@
 |**2024-05-28**|**MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling**|Bowen Zhang et.al.|[2405.18003](http://arxiv.org/abs/2405.18003)|**[link](https://github.com/18445864529/mavin)**|
 |**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842](http://arxiv.org/abs/2405.17842)|null|
 |**2024-05-27**|**RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance**|Jiaojiao Fan et.al.|[2405.17661](http://arxiv.org/abs/2405.17661)|null|
-|**2024-05-27**|**ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance**|Jiannan Huang et.al.|[2405.17532](http://arxiv.org/abs/2405.17532)|null|
+|**2024-05-27**|**ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance**|Jiannan Huang et.al.|[2405.17532](http://arxiv.org/abs/2405.17532)|**[link](https://github.com/Rbrq03/ClassDiffusion)**|
 |**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
 |**2024-05-27**|**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**|Ruizhi Shao et.al.|[2405.17405](http://arxiv.org/abs/2405.17405)|null|
 |**2024-05-27**|**Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability**|Shenyuan Gao et.al.|[2405.17398](http://arxiv.org/abs/2405.17398)|**[link](https://github.com/opendrivelab/vista)**|
