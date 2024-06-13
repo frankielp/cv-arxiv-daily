@@ -44,6 +44,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
+|**2024-06-12**|**Outdoor Scene Extrapolation with Hierarchical Generative Cellular Automata**|Dongsu Zhang et.al.|[2406.08292](http://arxiv.org/abs/2406.08292)|null|
+|**2024-06-12**|**SynthForge: Synthesizing High-Quality Face Dataset with Controllable 3D Generative Models**|Abhay Rawat et.al.|[2406.07840](http://arxiv.org/abs/2406.07840)|null|
+|**2024-06-11**|**C3DAG: Controlled 3D Animal Generation using 3D pose guidance**|Sandeep Mishra et.al.|[2406.07742](http://arxiv.org/abs/2406.07742)|null|
 |**2024-06-11**|**Instant 3D Human Avatar Generation using Image Diffusion Models**|Nikos Kolotouros et.al.|[2406.07516](http://arxiv.org/abs/2406.07516)|null|
 |**2024-06-11**|**4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models**|Heng Yu et.al.|[2406.07472](http://arxiv.org/abs/2406.07472)|null|
 |**2024-06-11**|**Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport**|Ross Irwin et.al.|[2406.07266](http://arxiv.org/abs/2406.07266)|null|
@@ -162,6 +166,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
+|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
+|**2024-06-12**|**From Chaos to Clarity: 3DGS in the Dark**|Zhihao Li et.al.|[2406.08300](http://arxiv.org/abs/2406.08300)|null|
 |**2024-06-11**|**Trim 3D Gaussian Splatting for Accurate Geometry Representation**|Lue Fan et.al.|[2406.07499](http://arxiv.org/abs/2406.07499)|null|
 |**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329](http://arxiv.org/abs/2406.07329)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
@@ -357,6 +364,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Hierarchical Patch Diffusion Models for High-Resolution Video Generation**|Ivan Skorokhodov et.al.|[2406.07792](http://arxiv.org/abs/2406.07792)|null|
+|**2024-06-11**|**HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness**|Zihui Xue et.al.|[2406.07754](http://arxiv.org/abs/2406.07754)|null|
+|**2024-06-11**|**AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation**|Kai Wang et.al.|[2406.07686](http://arxiv.org/abs/2406.07686)|null|
 |**2024-06-11**|**4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models**|Heng Yu et.al.|[2406.07472](http://arxiv.org/abs/2406.07472)|null|
 |**2024-06-11**|**Visual Representation Learning with Stochastic Frame Prediction**|Huiwon Jang et.al.|[2406.07398](http://arxiv.org/abs/2406.07398)|null|
 |**2024-06-09**|**Ctrl-V: Higher Fidelity Video Generation with Bounding-Box Controlled Object Motion**|Ge Ya Luo et.al.|[2406.05630](http://arxiv.org/abs/2406.05630)|null|
