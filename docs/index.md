@@ -66,7 +66,7 @@ layout: default
 |**2024-06-04**|**Towards Practical Single-shot Motion Synthesis**|Konstantinos Roditakis et.al.|[2406.01136](http://arxiv.org/abs/2406.01136)|null|
 |**2024-06-02**|**Freeplane: Unlocking Free Lunch in Triplane-Based Sparse-View Reconstruction Models**|Wenqiang Sun et.al.|[2406.00750](http://arxiv.org/abs/2406.00750)|null|
 |**2024-06-04**|**Lay-A-Scene: Personalized 3D Object Arrangement Using Text-to-Image Priors**|Ohad Rahamim et.al.|[2406.00687](http://arxiv.org/abs/2406.00687)|null|
-|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|null|
+|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|**[link](https://github.com/Ysz2022/Fourier123)**|
 |**2024-05-30**|**What makes a cosmic filament? The dynamical origin and identity of filaments I. fundamentals in 2D**|Job Feldbrugge et.al.|[2405.20475](http://arxiv.org/abs/2405.20475)|null|
 |**2024-05-30**|**GECO: Generative Image-to-3D within a SECOnd**|Chen Wang et.al.|[2405.20327](http://arxiv.org/abs/2405.20327)|null|
 |**2024-06-05**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957](http://arxiv.org/abs/2405.19957)|null|
@@ -185,7 +185,7 @@ layout: default
 |**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|null|
 |**2024-06-10**|**Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion**|Tianyi Xiong et.al.|[2406.02972](http://arxiv.org/abs/2406.02972)|null|
 |**2024-06-05**|**Adversarial Generation of Hierarchical Gaussians for 3D Generative Model**|Sangeek Hyun et.al.|[2406.02968](http://arxiv.org/abs/2406.02968)|null|
-|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720](http://arxiv.org/abs/2406.02720)|null|
+|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720](http://arxiv.org/abs/2406.02720)|**[link](https://github.com/lihaolin88/3d-half-gaussian-splatting)**|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**|Van Minh Nguyen et.al.|[2406.02533](http://arxiv.org/abs/2406.02533)|null|
 |**2024-06-04**|**DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering**|Zhongpai Gao et.al.|[2406.02518](http://arxiv.org/abs/2406.02518)|null|
