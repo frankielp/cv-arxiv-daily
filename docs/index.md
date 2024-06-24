@@ -391,7 +391,7 @@ layout: default
 |**2024-06-19**|**Neural Residual Diffusion Models for Deep Scalable Vision Generation**|Zhiyuan Ma et.al.|[2406.13215](http://arxiv.org/abs/2406.13215)|null|
 |**2024-06-18**|**Generative Artificial Intelligence-Guided User Studies: An Application for Air Taxi Services**|Shengdi Xiao et.al.|[2406.12296](http://arxiv.org/abs/2406.12296)|null|
 |**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
-|**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/abs/2406.11196)|null|
+|**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/abs/2406.11196)|**[link](https://github.com/rishab-partha/Vid3D)**|
 |**2024-06-16**|**ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models**|Kaifeng Gao et.al.|[2406.10981](http://arxiv.org/abs/2406.10981)|null|
 |**2024-06-14**|**VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs**|Rohit Bharadwaj et.al.|[2406.10326](http://arxiv.org/abs/2406.10326)|**[link](https://github.com/rohit901/VANE-Bench)**|
 |**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
@@ -425,7 +425,7 @@ layout: default
 |**2024-06-04**|**Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation**|Enhui Ma et.al.|[2406.01349](http://arxiv.org/abs/2406.01349)|null|
 |**2024-06-03**|**UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**|Xiang Wang et.al.|[2406.01188](http://arxiv.org/abs/2406.01188)|null|
 |**2024-06-03**|**ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation**|Shaoshu Yang et.al.|[2406.00908](http://arxiv.org/abs/2406.00908)|**[link](https://github.com/ssyang2020/ZeroSmooth)**|
-|**2024-06-02**|**EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing**|Hadrien Reynaud et.al.|[2406.00808](http://arxiv.org/abs/2406.00808)|null|
+|**2024-06-02**|**EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing**|Hadrien Reynaud et.al.|[2406.00808](http://arxiv.org/abs/2406.00808)|**[link](https://github.com/hreynaud/echonet-synthetic)**|
 |**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
 |**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320](http://arxiv.org/abs/2405.20320)|**[link](https://github.com/sangyun884/rfpp)**|
 |**2024-05-30**|**CV-VAE: A Compatible Video VAE for Latent Generative Video Models**|Sijie Zhao et.al.|[2405.20279](http://arxiv.org/abs/2405.20279)|**[link](https://github.com/ailab-cvc/cv-vae)**|
@@ -433,7 +433,7 @@ layout: default
 |**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
 |**2024-05-30**|**DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**|Haoxing Chen et.al.|[2405.19707](http://arxiv.org/abs/2405.19707)|**[link](https://github.com/chenhaoxing/DeMamba)**|
 |**2024-05-29**|**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture**|Jiaqi Xu et.al.|[2405.18991](http://arxiv.org/abs/2405.18991)|**[link](https://github.com/aigc-apps/easyanimate)**|
-|**2024-05-29**|**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback**|Jiachen Li et.al.|[2405.18750](http://arxiv.org/abs/2405.18750)|null|
+|**2024-05-29**|**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback**|Jiachen Li et.al.|[2405.18750](http://arxiv.org/abs/2405.18750)|**[link](https://github.com/Ji4chenLi/t2v-turbo)**|
 |**2024-05-28**|**Phased Consistency Model**|Fu-Yun Wang et.al.|[2405.18407](http://arxiv.org/abs/2405.18407)|null|
 |**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406](http://arxiv.org/abs/2405.18406)|**[link](https://github.com/jaehong31/raccoon)**|
 |**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326](http://arxiv.org/abs/2405.18326)|null|
@@ -476,14 +476,14 @@ layout: default
 |**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|**[link](https://github.com/truthai-lab/soradetector)**|
 |**2024-05-07**|**Exposing AI-generated Videos: A Benchmark Dataset and a Local-and-Global Temporal Defect Based Detection Method**|Peisong He et.al.|[2405.04133](http://arxiv.org/abs/2405.04133)|null|
 |**2024-05-06**|**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**|Zheng Zhu et.al.|[2405.03520](http://arxiv.org/abs/2405.03520)|**[link](https://github.com/gigaai-research/general-world-models-survey)**|
-|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|null|
+|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|**[link](https://github.com/ndrwmlnk/awesome-video-diffusion-models)**|
 |**2024-05-10**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025](http://arxiv.org/abs/2405.03025)|null|
 |**2024-05-02**|**StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation**|Yupeng Zhou et.al.|[2405.01434](http://arxiv.org/abs/2405.01434)|**[link](https://github.com/hvision-nku/storydiffusion)**|
 |**2024-05-05**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|**[link](https://github.com/Yuliang-Liu/VimTS)**|
 |**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277](http://arxiv.org/abs/2404.19277)|null|
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
 |**2024-04-25**|**Synthesizing Audio from Silent Video using Sequence to Sequence Modeling**|Hugo Garrido-Lestache Belinchon et.al.|[2404.17608](http://arxiv.org/abs/2404.17608)|**[link](https://github.com/Adam-Haile/vita-research-group)**|
-|**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
+|**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|**[link](https://github.com/merlresearch/TI2V-Zero)**|
 |**2024-04-26**|**Semantically consistent Video-to-Audio Generation using Multimodal Language Large Model**|Gehui Chen et.al.|[2404.16305](http://arxiv.org/abs/2404.16305)|null|
 |**2024-04-24**|**Beyond Deepfake Images: Detecting AI-Generated Videos**|Danial Samadi Vahdati et.al.|[2404.15955](http://arxiv.org/abs/2404.15955)|null|
 |**2024-05-01**|**MotionMaster: Training-free Camera Motion Transfer For Video Generation**|Teng Hu et.al.|[2404.15789](http://arxiv.org/abs/2404.15789)|null|
