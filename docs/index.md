@@ -411,7 +411,7 @@ layout: default
 |**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
 |**2024-06-20**|**SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**|Josef Dai et.al.|[2406.14477](http://arxiv.org/abs/2406.14477)|**[link](https://github.com/pku-alignment/safe-sora)**|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
-|**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|null|
+|**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
 |**2024-06-19**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870](http://arxiv.org/abs/2406.13870)|null|
 |**2024-06-21**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|**[link](https://github.com/linzhiqiu/t2v_metrics)**|
 |**2024-06-19**|**ARDuP: Active Region Video Diffusion for Universal Policies**|Shuaiyi Huang et.al.|[2406.13301](http://arxiv.org/abs/2406.13301)|null|
