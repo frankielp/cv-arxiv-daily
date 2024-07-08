@@ -254,7 +254,7 @@
 |**2024-06-04**|**FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping**|Yuzhou Ji et.al.|[2406.01916](http://arxiv.org/abs/2406.01916)|null|
 |**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579](http://arxiv.org/abs/2406.01579)|**[link](https://github.com/fudan-zvg/tet-splatting)**|
 |**2024-06-03**|**DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors**|Tianyu Huang et.al.|[2406.01476](http://arxiv.org/abs/2406.01476)|**[link](https://github.com/tyhuang0428/dreamphysics)**|
-|**2024-06-03**|**RaDe-GS: Rasterizing Depth in Gaussian Splatting**|Baowen Zhang et.al.|[2406.01467](http://arxiv.org/abs/2406.01467)|null|
+|**2024-06-03**|**RaDe-GS: Rasterizing Depth in Gaussian Splatting**|Baowen Zhang et.al.|[2406.01467](http://arxiv.org/abs/2406.01467)|**[link](https://github.com/BaowenZ/RaDe-GS)**|
 |**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
 |**2024-05-31**|**R $^2$ -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693](http://arxiv.org/abs/2405.20693)|**[link](https://github.com/ruyi-zha/r2_gaussian)**|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
@@ -286,7 +286,7 @@
 |**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
 |**2024-05-24**|**GS-Hider: Hiding Messages into 3D Gaussian Splatting**|Xuanyu Zhang et.al.|[2405.15118](http://arxiv.org/abs/2405.15118)|null|
 |**2024-05-23**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455](http://arxiv.org/abs/2405.14455)|null|
-|**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|null|
+|**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|**[link](https://github.com/fzhiheng/RoGS)**|
 |**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943](http://arxiv.org/abs/2405.13943)|null|
 |**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694](http://arxiv.org/abs/2405.13694)|null|
 |**2024-05-21**|**Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery**|Hongsheng Wang et.al.|[2405.12477](http://arxiv.org/abs/2405.12477)|null|
@@ -349,7 +349,7 @@
 |**2024-04-09**|**Revising Densification in Gaussian Splatting**|Samuel Rota Bulò et.al.|[2404.06109](http://arxiv.org/abs/2404.06109)|null|
 |**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091](http://arxiv.org/abs/2404.06091)|**[link](https://github.com/Adamdad/hash3D)**|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
-|**2024-04-06**|**Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion**|Ziyuan Qu et.al.|[2404.04687](http://arxiv.org/abs/2404.04687)|null|
+|**2024-04-06**|**Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion**|Ziyuan Qu et.al.|[2404.04687](http://arxiv.org/abs/2404.04687)|**[link](https://github.com/QuintonQu/gaussian-splatting-with-depth)**|
 |**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
 |**2024-04-04**|**Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting**|Jeongmin Bae et.al.|[2404.03613](http://arxiv.org/abs/2404.03613)|null|
 |**2024-04-08**|**OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images**|Longwei Li et.al.|[2404.03202](http://arxiv.org/abs/2404.03202)|null|
@@ -386,7 +386,7 @@
 |**2024-03-20**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868](http://arxiv.org/abs/2403.11868)|null|
 |**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
 |**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679](http://arxiv.org/abs/2403.11679)|null|
-|**2024-03-20**|**GaussNav: Gaussian Splatting for Visual Navigation**|Xiaohan Lei et.al.|[2403.11625](http://arxiv.org/abs/2403.11625)|null|
+|**2024-03-20**|**GaussNav: Gaussian Splatting for Visual Navigation**|Xiaohan Lei et.al.|[2403.11625](http://arxiv.org/abs/2403.11625)|**[link](https://github.com/XiaohanLei/GaussNav)**|
 |**2024-03-18**|**3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**|Quentin Herau et.al.|[2403.11577](http://arxiv.org/abs/2403.11577)|null|
 |**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460](http://arxiv.org/abs/2403.11460)|**[link](https://github.com/densoitlab/fed3dgs)**|
 |**2024-03-18**|**Bridging 3D Gaussian and Mesh for Freeview Video Rendering**|Yuting Xiao et.al.|[2403.11453](http://arxiv.org/abs/2403.11453)|null|
@@ -469,7 +469,7 @@
 |**2024-06-11**|**4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models**|Heng Yu et.al.|[2406.07472](http://arxiv.org/abs/2406.07472)|null|
 |**2024-06-11**|**Visual Representation Learning with Stochastic Frame Prediction**|Huiwon Jang et.al.|[2406.07398](http://arxiv.org/abs/2406.07398)|null|
 |**2024-06-09**|**Ctrl-V: Higher Fidelity Video Generation with Bounding-Box Controlled Object Motion**|Ge Ya Luo et.al.|[2406.05630](http://arxiv.org/abs/2406.05630)|**[link](https://github.com/oooolga/Ctrl-V)**|
-|**2024-06-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|null|
+|**2024-06-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|**[link](https://github.com/bujiazi/motionclone)**|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
 |**2024-06-07**|**Zero-Shot Video Editing through Adaptive Sliding Score Distillation**|Lianghan Zhu et.al.|[2406.04888](http://arxiv.org/abs/2406.04888)|null|
 |**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814](http://arxiv.org/abs/2406.04814)|null|
@@ -479,7 +479,7 @@
 |**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277](http://arxiv.org/abs/2406.04277)|**[link](https://github.com/yangling0818/videotetris)**|
 |**2024-06-05**|**VideoPhy: Evaluating Physical Commonsense for Video Generation**|Hritik Bansal et.al.|[2406.03520](http://arxiv.org/abs/2406.03520)|null|
 |**2024-06-05**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
-|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
+|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|**[link](https://github.com/a-suozhang/vidit-q)**|
 |**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511](http://arxiv.org/abs/2406.02511)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-06-04**|**I4VGen: Image as Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
