@@ -46,6 +46,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters**|Benoit Baillif et.al.|[2407.04424](http://arxiv.org/abs/2407.04424)|null|
+|**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384](http://arxiv.org/abs/2407.04384)|**[link](https://github.com/genintel/uns-obj-pose3d)**|
+|**2024-07-03**|**NEBULA: Neural Empirical Bayes Under Latent Representations for Efficient and Controllable Design of Molecular Libraries**|Ewa M. Nowara et.al.|[2407.03428](http://arxiv.org/abs/2407.03428)|**[link](https://github.com/prescient-design/nebula)**|
 |**2024-07-02**|**Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials**|Yawar Siddiqui et.al.|[2407.02445](http://arxiv.org/abs/2407.02445)|null|
 |**2024-07-02**|**ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation**|Zhiyuan Ma et.al.|[2407.02040](http://arxiv.org/abs/2407.02040)|**[link](https://github.com/theericma/scaledreamer)**|
 |**2024-07-01**|**fVDB: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence**|Francis Williams et.al.|[2407.01781](http://arxiv.org/abs/2407.01781)|null|
@@ -185,6 +188,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504](http://arxiv.org/abs/2407.04504)|null|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|null|
+|**2024-07-04**|**SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors**|Yijia Guo et.al.|[2407.03771](http://arxiv.org/abs/2407.03771)|null|
 |**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-04**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598](http://arxiv.org/abs/2407.02598)|null|
@@ -416,6 +422,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator**|Mehryar Abbasi et.al.|[2407.04258](http://arxiv.org/abs/2407.04258)|null|
 |**2024-07-03**|**Robot Shape and Location Retention in Video Generation Using Diffusion Models**|Peng Wang et.al.|[2407.02873](http://arxiv.org/abs/2407.02873)|null|
 |**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371](http://arxiv.org/abs/2407.02371)|null|
 |**2024-07-04**|**GVDIFF: Grounded Text-to-Video Generation with Diffusion Models**|Huanzhang Dou et.al.|[2407.01921](http://arxiv.org/abs/2407.01921)|null|
