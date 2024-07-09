@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -19,7 +19,7 @@ layout: default
 |**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
 |**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337](http://arxiv.org/abs/2405.20337)|**[link](https://github.com/wzzheng/occsora)**|
 |**2024-05-30**|**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models**|Lukas Uzolas et.al.|[2405.20155](http://arxiv.org/abs/2405.20155)|null|
-|**2024-06-06**|**Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation**|Zhoujie Fu et.al.|[2405.16849](http://arxiv.org/abs/2405.16849)|null|
+|**2024-07-07**|**Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation**|Zhoujie Fu et.al.|[2405.16849](http://arxiv.org/abs/2405.16849)|null|
 |**2024-05-27**|**Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels**|Yikai Wang et.al.|[2405.16822](http://arxiv.org/abs/2405.16822)|null|
 |**2024-05-26**|**Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models**|Hanwen Liang et.al.|[2405.16645](http://arxiv.org/abs/2405.16645)|null|
 |**2024-05-23**|**ElastoGen: 4D Generative Elastodynamics**|Yutao Feng et.al.|[2405.15056](http://arxiv.org/abs/2405.15056)|null|
