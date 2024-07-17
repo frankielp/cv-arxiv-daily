@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -439,7 +439,7 @@ layout: default
 |**2024-07-15**|**A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication**|Jingyi Deng et.al.|[2407.10575](http://arxiv.org/abs/2407.10575)|null|
 |**2024-07-13**|**Learning Online Scale Transformation for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2407.09965](http://arxiv.org/abs/2407.09965)|null|
 |**2024-07-12**|**Inference Optimization of Foundation Models on AI Accelerators**|Youngsuk Park et.al.|[2407.09111](http://arxiv.org/abs/2407.09111)|null|
-|**2024-07-12**|**Bora: Biomedical Generalist Video Generation Model**|Weixiang Sun et.al.|[2407.08944](http://arxiv.org/abs/2407.08944)|null|
+|**2024-07-16**|**Bora: Biomedical Generalist Video Generation Model**|Weixiang Sun et.al.|[2407.08944](http://arxiv.org/abs/2407.08944)|null|
 |**2024-07-11**|**Still-Moving: Customized Video Generation without Customized Video Data**|Hila Chefer et.al.|[2407.08674](http://arxiv.org/abs/2407.08674)|null|
 |**2024-07-11**|**A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights**|Wentao Lei et.al.|[2407.08428](http://arxiv.org/abs/2407.08428)|**[link](https://github.com/wentaol86/awesome-human-body-video-generation)**|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|

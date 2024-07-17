@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -48,7 +48,7 @@
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
 |**2023-11-05**|**Charging solid partitions**|Dmitry Galakhov et.al.|[2311.02751](http://arxiv.org/abs/2311.02751)|null|
 
-<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -195,7 +195,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -441,7 +441,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -451,7 +451,7 @@
 |**2024-07-15**|**A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication**|Jingyi Deng et.al.|[2407.10575](http://arxiv.org/abs/2407.10575)|null|
 |**2024-07-13**|**Learning Online Scale Transformation for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2407.09965](http://arxiv.org/abs/2407.09965)|null|
 |**2024-07-12**|**Inference Optimization of Foundation Models on AI Accelerators**|Youngsuk Park et.al.|[2407.09111](http://arxiv.org/abs/2407.09111)|null|
-|**2024-07-12**|**Bora: Biomedical Generalist Video Generation Model**|Weixiang Sun et.al.|[2407.08944](http://arxiv.org/abs/2407.08944)|null|
+|**2024-07-16**|**Bora: Biomedical Generalist Video Generation Model**|Weixiang Sun et.al.|[2407.08944](http://arxiv.org/abs/2407.08944)|null|
 |**2024-07-11**|**Still-Moving: Customized Video Generation without Customized Video Data**|Hila Chefer et.al.|[2407.08674](http://arxiv.org/abs/2407.08674)|null|
 |**2024-07-11**|**A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights**|Wentao Lei et.al.|[2407.08428](http://arxiv.org/abs/2407.08428)|**[link](https://github.com/wentaol86/awesome-human-body-video-generation)**|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
@@ -678,7 +678,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
