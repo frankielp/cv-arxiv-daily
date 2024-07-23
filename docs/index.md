@@ -199,6 +199,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484](http://arxiv.org/abs/2407.15484)|null|
+|**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
+|**2024-07-21**|**HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions**|Haiyang Zhou et.al.|[2407.15187](http://arxiv.org/abs/2407.15187)|null|
+|**2024-07-20**|**Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting**|Tianle Zeng et.al.|[2407.14846](http://arxiv.org/abs/2407.14846)|null|
 |**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
 |**2024-07-20**|**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**|Zongrui Li et.al.|[2407.13584](http://arxiv.org/abs/2407.13584)|null|
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
@@ -451,6 +455,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-21**|**Flow as the Cross-Domain Manipulation Interface**|Mengda Xu et.al.|[2407.15208](http://arxiv.org/abs/2407.15208)|null|
+|**2024-07-21**|**Anchored Diffusion for Video Face Reenactment**|Idan Kligvasser et.al.|[2407.15153](http://arxiv.org/abs/2407.15153)|null|
 |**2024-07-19**|**T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation**|Kaiyue Sun et.al.|[2407.14505](http://arxiv.org/abs/2407.14505)|null|
 |**2024-07-19**|**Unlearning Concepts from Text-to-Video Diffusion Models**|Shiqi Liu et.al.|[2407.14209](http://arxiv.org/abs/2407.14209)|null|
 |**2024-07-18**|**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion**|Boyang Deng et.al.|[2407.13759](http://arxiv.org/abs/2407.13759)|null|
