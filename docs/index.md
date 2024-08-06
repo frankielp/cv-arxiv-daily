@@ -49,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements**|Hou In Ivan Tam et.al.|[2408.02211](http://arxiv.org/abs/2408.02211)|null|
 |**2024-08-02**|**A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness**|Lutao Jiang et.al.|[2408.01269](http://arxiv.org/abs/2408.01269)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-28**|**Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle**|Zhenyu Tang et.al.|[2407.19548](http://arxiv.org/abs/2407.19548)|null|
@@ -473,6 +474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 |**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458](http://arxiv.org/abs/2408.00458)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
