@@ -209,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**|Xin-Yi Yu et.al.|[2408.04249](http://arxiv.org/abs/2408.04249)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822](http://arxiv.org/abs/2408.03822)|null|
 |**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753](http://arxiv.org/abs/2408.03753)|null|
@@ -480,6 +481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631](http://arxiv.org/abs/2408.04631)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 |**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458](http://arxiv.org/abs/2408.00458)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
