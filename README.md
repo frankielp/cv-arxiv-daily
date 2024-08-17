@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -51,7 +51,7 @@
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
 |**2023-11-05**|**Charging solid partitions**|Dmitry Galakhov et.al.|[2311.02751](http://arxiv.org/abs/2311.02751)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -59,7 +59,7 @@
 |---|---|---|---|---|
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086](http://arxiv.org/abs/2408.08086)|null|
 |**2024-08-15**|**MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing**|Chenjie Cao et.al.|[2408.08000](http://arxiv.org/abs/2408.08000)|null|
-|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|null|
+|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|**[link](https://github.com/johnromanelis/spvd)**|
 |**2024-08-12**|**Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation**|Utkarsh Nath et.al.|[2408.05938](http://arxiv.org/abs/2408.05938)|null|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
 |**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178](http://arxiv.org/abs/2408.03178)|null|
@@ -218,17 +218,17 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
-|**2024-08-15**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967](http://arxiv.org/abs/2408.07967)|null|
+|**2024-08-15**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967](http://arxiv.org/abs/2408.07967)|**[link](https://github.com/internlandmark/flashgs)**|
 |**2024-08-14**|**3D Gaussian Editing with A Single Image**|Guan Luo et.al.|[2408.07540](http://arxiv.org/abs/2408.07540)|null|
 |**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975](http://arxiv.org/abs/2408.06975)|null|
-|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|null|
+|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|**[link](https://github.com/renaissanceee/mipmap-gs)**|
 |**2024-08-12**|**Developing Smart MAVs for Autonomous Inspection in GPS-denied Constructions**|Paoqiang Pan et.al.|[2408.06030](http://arxiv.org/abs/2408.06030)|null|
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
@@ -500,7 +500,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -770,7 +770,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
