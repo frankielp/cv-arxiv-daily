@@ -27,7 +27,7 @@ layout: default
 |**2024-05-26**|**Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models**|Hanwen Liang et.al.|[2405.16645](http://arxiv.org/abs/2405.16645)|null|
 |**2024-05-23**|**ElastoGen: 4D Generative Elastodynamics**|Yutao Feng et.al.|[2405.15056](http://arxiv.org/abs/2405.15056)|null|
 |**2024-05-22**|**MagicPose4D: Crafting Articulated Models with Appearance and Motion Control**|Hao Zhang et.al.|[2405.14017](http://arxiv.org/abs/2405.14017)|null|
-|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/abs/2404.03736)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/abs/2404.03736)|**[link](https://github.com/jarrentwu1031/sc4d)**|
 |**2024-05-22**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-11**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920](http://arxiv.org/abs/2403.17920)|null|
 |**2024-03-25**|**Comp4D: LLM-Guided Compositional 4D Scene Generation**|Dejia Xu et.al.|[2403.16993](http://arxiv.org/abs/2403.16993)|null|
@@ -180,7 +180,7 @@ layout: default
 |**2024-03-19**|**ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance**|Yongwei Chen et.al.|[2403.12409](http://arxiv.org/abs/2403.12409)|null|
 |**2024-03-18**|**VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models**|Junlin Han et.al.|[2403.12034](http://arxiv.org/abs/2403.12034)|null|
 |**2024-03-19**|**Generic 3D Diffusion Adapter Using Controlled Multi-View Editing**|Hansheng Chen et.al.|[2403.12032](http://arxiv.org/abs/2403.12032)|**[link](https://github.com/Lakonik/MVEdit)**|
-|**2024-03-18**|**LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation**|Yushi Lan et.al.|[2403.12019](http://arxiv.org/abs/2403.12019)|null|
+|**2024-03-18**|**LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation**|Yushi Lan et.al.|[2403.12019](http://arxiv.org/abs/2403.12019)|**[link](https://github.com/nirvanalan/ln3diff)**|
 |**2024-03-18**|**SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion**|Vikram Voleti et.al.|[2403.12008](http://arxiv.org/abs/2403.12008)|null|
 |**2024-03-17**|**BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis**|Lutao Jiang et.al.|[2403.11273](http://arxiv.org/abs/2403.11273)|**[link](https://github.com/lutao2021/BrightDreamer)**|
 |**2024-03-15**|**Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding**|Pengkun Liu et.al.|[2403.10395](http://arxiv.org/abs/2403.10395)|**[link](https://github.com/pkunliu/isotropic3d)**|
@@ -225,10 +225,10 @@ layout: default
 |**2024-08-08**|**InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**|Xin-Yi Yu et.al.|[2408.04249](http://arxiv.org/abs/2408.04249)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822](http://arxiv.org/abs/2408.03822)|null|
-|**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753](http://arxiv.org/abs/2408.03753)|null|
+|**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753](http://arxiv.org/abs/2408.03753)|**[link](https://github.com/TangZJ/3iGS)**|
 |**2024-08-07**|**PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting**|Yijia Guo et.al.|[2408.03538](http://arxiv.org/abs/2408.03538)|null|
 |**2024-08-02**|**A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness**|Lutao Jiang et.al.|[2408.01269](http://arxiv.org/abs/2408.01269)|null|
-|**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/abs/2408.01225)|null|
+|**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/abs/2408.01225)|**[link](https://github.com/uhhhci/realityfusion)**|
 |**2024-08-07**|**IG-SLAM: Instant Gaussian SLAM**|F. Aykut Sarikamis et.al.|[2408.01126](http://arxiv.org/abs/2408.01126)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-07-31**|**Localized Gaussian Splatting Editing with Contextual Awareness**|Hanyuan Xiao et.al.|[2408.00083](http://arxiv.org/abs/2408.00083)|null|
@@ -275,7 +275,7 @@ layout: default
 |**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
 |**2024-06-26**|**GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality**|Taoran Yi et.al.|[2406.18462](http://arxiv.org/abs/2406.18462)|null|
-|**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214](http://arxiv.org/abs/2406.18214)|null|
+|**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214](http://arxiv.org/abs/2406.18214)|**[link](https://github.com/salmanali96/trimming-the-fat)**|
 |**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199](http://arxiv.org/abs/2406.18199)|null|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
 |**2024-06-24**|**Reducing the Memory Footprint of 3D Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2406.17074](http://arxiv.org/abs/2406.17074)|null|
@@ -403,7 +403,7 @@ layout: default
 |**2024-04-16**|**Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes**|Zehao Yu et.al.|[2404.10772](http://arxiv.org/abs/2404.10772)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
 |**2024-04-16**|**AbsGS: Recovering Fine Details for 3D Gaussian Splatting**|Zongxin Ye et.al.|[2404.10484](http://arxiv.org/abs/2404.10484)|null|
-|**2024-04-16**|**SRGS: Super-Resolution 3D Gaussian Splatting**|Xiang Feng et.al.|[2404.10318](http://arxiv.org/abs/2404.10318)|null|
+|**2024-04-16**|**SRGS: Super-Resolution 3D Gaussian Splatting**|Xiang Feng et.al.|[2404.10318](http://arxiv.org/abs/2404.10318)|**[link](https://github.com/XiangFeng66/SR-GS)**|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
 |**2024-04-15**|**3D Gaussian Splatting as Markov Chain Monte Carlo**|Shakiba Kheradmand et.al.|[2404.09591](http://arxiv.org/abs/2404.09591)|null|
 |**2024-04-16**|**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**|Jiyang Li et.al.|[2404.08966](http://arxiv.org/abs/2404.08966)|**[link](https://github.com/Pokerlishao/LoopGaussian)**|
@@ -511,7 +511,7 @@ layout: default
 |**2024-07-30**|**EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos**|Aashish Rai et.al.|[2407.20592](http://arxiv.org/abs/2407.20592)|null|
 |**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
 |**2024-07-29**|**Synthetic Thermal and RGB Videos for Automatic Pain Assessment utilizing a Vision-MLP Architecture**|Stefanos Gkikas et.al.|[2407.19811](http://arxiv.org/abs/2407.19811)|null|
-|**2024-07-28**|**FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models**|Changgu Chen et.al.|[2407.19453](http://arxiv.org/abs/2407.19453)|null|
+|**2024-07-28**|**FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models**|Changgu Chen et.al.|[2407.19453](http://arxiv.org/abs/2407.19453)|**[link](https://github.com/vpx-ecnu/find-website)**|
 |**2024-07-27**|**Faster Image2Video Generation: A Closer Look at CLIP Image Embedding's Impact on Spatio-Temporal Cross-Attentions**|Ashkan Taghipour et.al.|[2407.19205](http://arxiv.org/abs/2407.19205)|null|
 |**2024-07-26**|**UniForensics: Face Forgery Detection via General Facial Representation**|Ziyuan Fang et.al.|[2407.19079](http://arxiv.org/abs/2407.19079)|null|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
