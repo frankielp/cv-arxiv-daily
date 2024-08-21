@@ -58,6 +58,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Large Point-to-Gaussian Model for Image-to-3D Generation**|Longfei Lu et.al.|[2408.10935](http://arxiv.org/abs/2408.10935)|null|
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195](http://arxiv.org/abs/2408.10195)|null|
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086](http://arxiv.org/abs/2408.08086)|null|
 |**2024-08-15**|**MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing**|Chenjie Cao et.al.|[2408.08000](http://arxiv.org/abs/2408.08000)|null|
@@ -226,8 +227,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**|Qi Ma et.al.|[2408.10906](http://arxiv.org/abs/2408.10906)|null|
+|**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588](http://arxiv.org/abs/2408.10588)|null|
 |**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154](http://arxiv.org/abs/2408.10154)|null|
-|**2024-08-20**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130](http://arxiv.org/abs/2408.09130)|null|
+|**2024-08-20**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130](http://arxiv.org/abs/2408.09130)|**[link](https://github.com/yec22/Gaussian-DK)**|
 |**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
 |**2024-08-19**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967](http://arxiv.org/abs/2408.07967)|**[link](https://github.com/internlandmark/flashgs)**|
@@ -511,6 +514,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation**|Liu He et.al.|[2408.10453](http://arxiv.org/abs/2408.10453)|null|
 |**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119](http://arxiv.org/abs/2408.10119)|null|
 |**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
 |**2024-08-18**|**SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama**|Jing Tang et.al.|[2408.09333](http://arxiv.org/abs/2408.09333)|**[link](https://github.com/vaew/skyscript-100m)**|
