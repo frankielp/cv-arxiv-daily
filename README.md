@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -52,14 +52,14 @@
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
 |**2023-11-05**|**Charging solid partitions**|Dmitry Galakhov et.al.|[2311.02751](http://arxiv.org/abs/2311.02751)|null|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## 3D Generative
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732](http://arxiv.org/abs/2408.14732)|**[link](https://github.com/octree-nn/octfusion)**|
-|**2024-08-25**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
+|**2024-08-28**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
 |**2024-08-26**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
 |**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055](http://arxiv.org/abs/2408.13055)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
@@ -227,7 +227,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -529,7 +529,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -538,7 +538,7 @@
 |**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
 |**2024-08-27**|**Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**|Weiyi Zhang et.al.|[2408.15217](http://arxiv.org/abs/2408.15217)|null|
-|**2024-08-26**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
+|**2024-08-28**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
 |**2024-08-27**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-24**|**TVG: A Training-free Transition Video Generation Method with Diffusion Models**|Rui Zhang et.al.|[2408.13413](http://arxiv.org/abs/2408.13413)|null|
 |**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
@@ -816,7 +816,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

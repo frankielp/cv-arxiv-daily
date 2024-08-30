@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -51,7 +51,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732](http://arxiv.org/abs/2408.14732)|**[link](https://github.com/octree-nn/octfusion)**|
-|**2024-08-25**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
+|**2024-08-28**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
 |**2024-08-26**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
 |**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055](http://arxiv.org/abs/2408.13055)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
@@ -526,7 +526,7 @@ layout: default
 |**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
 |**2024-08-27**|**Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**|Weiyi Zhang et.al.|[2408.15217](http://arxiv.org/abs/2408.15217)|null|
-|**2024-08-26**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
+|**2024-08-28**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
 |**2024-08-27**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-24**|**TVG: A Training-free Transition Video Generation Method with Diffusion Models**|Rui Zhang et.al.|[2408.13413](http://arxiv.org/abs/2408.13413)|null|
 |**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
