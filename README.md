@@ -569,7 +569,7 @@
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
 |**2024-07-31**|**Benchmarking AIGC Video Quality Assessment: A Dataset and Unified Model**|Zhichao Zhang et.al.|[2407.21408](http://arxiv.org/abs/2407.21408)|null|
-|**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|null|
+|**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|**[link](https://github.com/cure-lab/MotionCraft)**|
 |**2024-07-30**|**EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos**|Aashish Rai et.al.|[2407.20592](http://arxiv.org/abs/2407.20592)|null|
 |**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
 |**2024-07-29**|**Synthetic Thermal and RGB Videos for Automatic Pain Assessment utilizing a Vision-MLP Architecture**|Stefanos Gkikas et.al.|[2407.19811](http://arxiv.org/abs/2407.19811)|null|
@@ -610,7 +610,7 @@
 |**2024-07-03**|**Robot Shape and Location Retention in Video Generation Using Diffusion Models**|Peng Wang et.al.|[2407.02873](http://arxiv.org/abs/2407.02873)|**[link](https://github.com/pengpaulwang/diffusion-robots)**|
 |**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371](http://arxiv.org/abs/2407.02371)|null|
 |**2024-07-04**|**GVDIFF: Grounded Text-to-Video Generation with Diffusion Models**|Huanzhang Dou et.al.|[2407.01921](http://arxiv.org/abs/2407.01921)|null|
-|**2024-07-01**|**Evaluation of Text-to-Video Generation Models: A Dynamics Perspective**|Mingxiang Liao et.al.|[2407.01094](http://arxiv.org/abs/2407.01094)|null|
+|**2024-07-01**|**Evaluation of Text-to-Video Generation Models: A Dynamics Perspective**|Mingxiang Liao et.al.|[2407.01094](http://arxiv.org/abs/2407.01094)|**[link](https://github.com/mingxiangl/devil)**|
 |**2024-06-29**|**SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix**|Peng Dai et.al.|[2407.00367](http://arxiv.org/abs/2407.00367)|null|
 |**2024-06-28**|**MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance**|Yuang Zhang et.al.|[2406.19680](http://arxiv.org/abs/2406.19680)|null|
 |**2024-06-27**|**What Matters in Detecting AI-Generated Videos like Sora?**|Chirui Chang et.al.|[2406.19568](http://arxiv.org/abs/2406.19568)|null|
