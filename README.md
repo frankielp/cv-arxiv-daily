@@ -546,7 +546,7 @@
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
 |**2024-08-27**|**Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**|Weiyi Zhang et.al.|[2408.15217](http://arxiv.org/abs/2408.15217)|null|
 |**2024-08-28**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
-|**2024-08-27**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
+|**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-24**|**TVG: A Training-free Transition Video Generation Method with Diffusion Models**|Rui Zhang et.al.|[2408.13413](http://arxiv.org/abs/2408.13413)|null|
 |**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
