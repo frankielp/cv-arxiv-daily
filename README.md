@@ -58,6 +58,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-03**|**ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis**|Wangbo Yu et.al.|[2409.02048](http://arxiv.org/abs/2409.02048)|null|
 |**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732](http://arxiv.org/abs/2408.14732)|**[link](https://github.com/octree-nn/octfusion)**|
 |**2024-08-28**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
 |**2024-08-26**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
@@ -233,6 +235,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
+|**2024-09-04**|**GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving**|Huasong Han et.al.|[2409.02382](http://arxiv.org/abs/2409.02382)|null|
+|**2024-09-03**|**DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction**|Jenny Seidenschwarz et.al.|[2409.02104](http://arxiv.org/abs/2409.02104)|null|
+|**2024-09-03**|**PRoGS: Progressive Rendering of Gaussian Splats**|Brent Zoomers et.al.|[2409.01761](http://arxiv.org/abs/2409.01761)|null|
+|**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
+|**2024-09-02**|**Free-DyGS: Camera-Pose-Free Scene Reconstruction based on Gaussian Splatting for Dynamic Surgical Videos**|Qian Li et.al.|[2409.01003](http://arxiv.org/abs/2409.01003)|null|
+|**2024-08-31**|**3D Gaussian Splatting for Large-scale 3D Surface Reconstruction from Aerial Images**|YuanZheng Wu et.al.|[2409.00381](http://arxiv.org/abs/2409.00381)|null|
 |**2024-08-30**|**OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping**|Meng Wang et.al.|[2408.17223](http://arxiv.org/abs/2408.17223)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708](http://arxiv.org/abs/2408.15708)|null|
@@ -537,6 +546,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**|Jun Ling et.al.|[2409.02657](http://arxiv.org/abs/2409.02657)|null|
+|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|null|
+|**2024-09-03**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
+|**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/abs/2409.01595)|null|
+|**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
+|**2024-09-02**|**OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model**|Liuhan Chen et.al.|[2409.01199](http://arxiv.org/abs/2409.01199)|null|
+|**2024-08-31**|**Compositional 3D-aware Video Generation with LLM Director**|Hanxin Zhu et.al.|[2409.00558](http://arxiv.org/abs/2409.00558)|null|
 |**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
