@@ -235,6 +235,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
+|**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213](http://arxiv.org/abs/2409.03213)|null|
 |**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
 |**2024-09-04**|**GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving**|Huasong Han et.al.|[2409.02382](http://arxiv.org/abs/2409.02382)|null|
 |**2024-09-03**|**DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction**|Jenny Seidenschwarz et.al.|[2409.02104](http://arxiv.org/abs/2409.02104)|null|
@@ -552,7 +554,7 @@
 |**2024-09-05**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
 |**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/abs/2409.01595)|null|
 |**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
-|**2024-09-02**|**OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model**|Liuhan Chen et.al.|[2409.01199](http://arxiv.org/abs/2409.01199)|null|
+|**2024-09-02**|**OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model**|Liuhan Chen et.al.|[2409.01199](http://arxiv.org/abs/2409.01199)|**[link](https://github.com/pku-yuangroup/open-sora-plan)**|
 |**2024-08-31**|**Compositional 3D-aware Video Generation with LLM Director**|Hanxin Zhu et.al.|[2409.00558](http://arxiv.org/abs/2409.00558)|null|
 |**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
