@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -233,7 +233,7 @@ layout: default
 |**2024-09-03**|**PRoGS: Progressive Rendering of Gaussian Splats**|Brent Zoomers et.al.|[2409.01761](http://arxiv.org/abs/2409.01761)|null|
 |**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
 |**2024-09-02**|**Free-DyGS: Camera-Pose-Free Scene Reconstruction based on Gaussian Splatting for Dynamic Surgical Videos**|Qian Li et.al.|[2409.01003](http://arxiv.org/abs/2409.01003)|null|
-|**2024-08-31**|**3D Gaussian Splatting for Large-scale 3D Surface Reconstruction from Aerial Images**|YuanZheng Wu et.al.|[2409.00381](http://arxiv.org/abs/2409.00381)|null|
+|**2024-09-06**|**3D Gaussian Splatting for Large-scale 3D Surface Reconstruction from Aerial Images**|YuanZheng Wu et.al.|[2409.00381](http://arxiv.org/abs/2409.00381)|null|
 |**2024-08-30**|**OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping**|Meng Wang et.al.|[2408.17223](http://arxiv.org/abs/2408.17223)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708](http://arxiv.org/abs/2408.15708)|null|
