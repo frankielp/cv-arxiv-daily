@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -17,7 +17,7 @@ layout: default
 |**2024-08-15**|**CT4D: Consistent Text-to-4D Generation with Animatable Meshes**|Ce Chen et.al.|[2408.08342](http://arxiv.org/abs/2408.08342)|null|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 |**2024-07-17**|**4Dynamic: Text-to-4D Generation with Hybrid Priors**|Yu-Jie Yuan et.al.|[2407.12684](http://arxiv.org/abs/2407.12684)|null|
-|**2024-07-16**|**Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**|Yanqin Jiang et.al.|[2407.11398](http://arxiv.org/abs/2407.11398)|null|
+|**2024-09-09**|**Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**|Yanqin Jiang et.al.|[2407.11398](http://arxiv.org/abs/2407.11398)|null|
 |**2024-07-04**|**4K4DGen: Panoramic 4D Generation at 4K Resolution**|Renjie Li et.al.|[2406.13527](http://arxiv.org/abs/2406.13527)|null|
 |**2024-07-29**|**Unfolding Time: Generative Modeling for Turbulent Flows in 4D**|Abdullah Saydemir et.al.|[2406.11390](http://arxiv.org/abs/2406.11390)|null|
 |**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
