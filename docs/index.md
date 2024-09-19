@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -571,7 +571,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
-|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|null|
+|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-16**|**Embodiment-Agnostic Action Planning via Object-Part Scene Flow**|Weiliang Tang et.al.|[2409.10032](http://arxiv.org/abs/2409.10032)|null|
 |**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
 |**2024-09-11**|**DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures**|Steven Hogue et.al.|[2409.07649](http://arxiv.org/abs/2409.07649)|null|
