@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -53,7 +53,7 @@
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
 |**2023-11-05**|**Charging solid partitions**|Dmitry Galakhov et.al.|[2311.02751](http://arxiv.org/abs/2311.02751)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -241,7 +241,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -250,7 +250,7 @@
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
-|**2024-09-23**|**Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
+|**2024-09-26**|**Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
 |**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
@@ -590,7 +590,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -913,7 +913,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
