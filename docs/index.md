@@ -434,7 +434,7 @@ layout: default
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 |**2024-05-28**|**SafeguardGS: 3D Gaussian Primitive Pruning While Avoiding Catastrophic Scene Destruction**|Yongjae Lee et.al.|[2405.17793](http://arxiv.org/abs/2405.17793)|**[link](https://github.com/nfyfamr/SafeguardGS)**|
-|**2024-05-29**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705](http://arxiv.org/abs/2405.17705)|null|
+|**2024-05-29**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705](http://arxiv.org/abs/2405.17705)|**[link](https://github.com/linhanwang/DC-Gaussian)**|
 |**2024-05-27**|**GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane**|Yansong Qu et.al.|[2405.17596](http://arxiv.org/abs/2405.17596)|null|
 |**2024-05-27**|**DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Refocusing,Defocus Rendering and Blur Removal**|Yujie Wang et.al.|[2405.17351](http://arxiv.org/abs/2405.17351)|null|
 |**2024-05-27**|**Memorize What Matters: Emergent Scene Decomposition from Multitraverse**|Yiming Li et.al.|[2405.17187](http://arxiv.org/abs/2405.17187)|**[link](https://github.com/nvlabs/3dgm)**|
@@ -614,7 +614,7 @@ layout: default
 |**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003](http://arxiv.org/abs/2409.04003)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
 |**2024-09-04**|**PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**|Jun Ling et.al.|[2409.02657](http://arxiv.org/abs/2409.02657)|null|
 |**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
-|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|null|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|**[link](https://github.com/Tencent/DepthCrafter)**|
 |**2024-09-05**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
 |**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/abs/2409.01595)|null|
 |**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
@@ -787,7 +787,7 @@ layout: default
 |**2024-05-24**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/abs/2405.14475)|null|
 |**2024-05-22**|**ReVideo: Remake a Video with Motion and Content Control**|Chong Mou et.al.|[2405.13865](http://arxiv.org/abs/2405.13865)|null|
-|**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
+|**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|**[link](https://github.com/mezzelfo/MotionCraft)**|
 |**2024-05-22**|**Enhanced Creativity and Ideation through Stable Video Synthesis**|Elijah Miller et.al.|[2405.13357](http://arxiv.org/abs/2405.13357)|null|
 |**2024-05-21**|**CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers**|Andrew Marmon et.al.|[2405.13195](http://arxiv.org/abs/2405.13195)|null|
 |**2024-05-21**|**OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models**|Zhaojian Yu et.al.|[2405.12843](http://arxiv.org/abs/2405.12843)|**[link](https://github.com/answers111/opencarboneval)**|
@@ -883,7 +883,7 @@ layout: default
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
 |**2024-03-08**|**Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation**|Joseph Cho et.al.|[2403.05131](http://arxiv.org/abs/2403.05131)|null|
 |**2024-03-07**|**A spatiotemporal style transfer algorithm for dynamic visual stimulus generation**|Antonino Greco et.al.|[2403.04940](http://arxiv.org/abs/2403.04940)|null|
-|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|**[link](https://github.com/XuweiyiChen/Pix2Gif)**|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-03-06**|**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control**|Xuweiyi Chen et.al.|[2403.02332](http://arxiv.org/abs/2403.02332)|**[link](https://github.com/XuweiyiChen/UniCtrl)**|
 |**2024-03-05**|**AtomoVideo: High Fidelity Image-to-Video Generation**|Litong Gong et.al.|[2403.01800](http://arxiv.org/abs/2403.01800)|null|
