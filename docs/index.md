@@ -51,6 +51,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Speech to Reality: On-Demand Production using Natural Language, 3D Generative AI, and Discrete Robotic Assembly**|Alexander Htet Kyaw et.al.|[2409.18390](http://arxiv.org/abs/2409.18390)|null|
+|**2024-09-26**|**Long-lived neutron-star remnants from asymmetric binary neutron star mergers: element formation, kilonova signals and gravitational waves**|Sebastiano Bernuzzi et.al.|[2409.18185](http://arxiv.org/abs/2409.18185)|null|
 |**2024-09-25**|**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image**|Hui En Pang et.al.|[2409.17280](http://arxiv.org/abs/2409.17280)|null|
 |**2024-09-19**|**3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion**|Zhaoxi Chen et.al.|[2409.12957](http://arxiv.org/abs/2409.12957)|**[link](https://github.com/3dtopia/3dtopia-xl)**|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
@@ -587,6 +589,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804](http://arxiv.org/abs/2409.18804)|null|
 |**2024-09-26**|**Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation**|Huan Yang et.al.|[2409.17674](http://arxiv.org/abs/2409.17674)|null|
 |**2024-09-26**|**A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation**|Masato Ishii et.al.|[2409.17550](http://arxiv.org/abs/2409.17550)|null|
 |**2024-09-25**|**Pose-Guided Fine-Grained Sign Language Video Generation**|Tongkai Shi et.al.|[2409.16709](http://arxiv.org/abs/2409.16709)|null|
