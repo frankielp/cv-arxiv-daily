@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -595,7 +595,7 @@ layout: default
 |**2024-09-23**|**Advancing Video Quality Assessment for AIGC**|Xinli Yue et.al.|[2409.14888](http://arxiv.org/abs/2409.14888)|null|
 |**2024-09-23**|**Video-to-Audio Generation with Fine-grained Temporal Semantics**|Yuchen Hu et.al.|[2409.14709](http://arxiv.org/abs/2409.14709)|null|
 |**2024-09-22**|**Dormant: Defending against Pose-driven Human Image Animation**|Jiachen Zhou et.al.|[2409.14424](http://arxiv.org/abs/2409.14424)|null|
-|**2024-09-21**|**JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation**|Hadrien Reynaud et.al.|[2409.14149](http://arxiv.org/abs/2409.14149)|null|
+|**2024-09-27**|**JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation**|Hadrien Reynaud et.al.|[2409.14149](http://arxiv.org/abs/2409.14149)|null|
 |**2024-09-20**|**JoyHallo: Digital human model for Mandarin**|Sheng Shi et.al.|[2409.13268](http://arxiv.org/abs/2409.13268)|null|
 |**2024-09-19**|**Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Latent Generation**|Chenyu Wang et.al.|[2409.12532](http://arxiv.org/abs/2409.12532)|null|
 |**2024-09-19**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
