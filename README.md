@@ -59,6 +59,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Towards Native Generative Model for 3D Head Avatar**|Yiyu Zhuang et.al.|[2410.01226](http://arxiv.org/abs/2410.01226)|null|
+|**2024-10-01**|**Extreme scale height variations and nozzle shocks in warped disks**|Nicholas Kaaz et.al.|[2410.00961](http://arxiv.org/abs/2410.00961)|null|
+|**2024-10-02**|**Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model And Input View Curation**|Junlin Han et.al.|[2410.00890](http://arxiv.org/abs/2410.00890)|null|
+|**2024-09-29**|**Global well-posedness of the fractional dissipative system in the framework of variable Fourier--Besov spaces**|Gastón Vergara-Hermosilla et.al.|[2410.00060](http://arxiv.org/abs/2410.00060)|null|
 |**2024-09-30**|**Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images**|Bahri Batuhan Bilecen et.al.|[2409.20530](http://arxiv.org/abs/2409.20530)|null|
 |**2024-09-27**|**Speech to Reality: On-Demand Production using Natural Language, 3D Generative AI, and Discrete Robotic Assembly**|Alexander Htet Kyaw et.al.|[2409.18390](http://arxiv.org/abs/2409.18390)|null|
 |**2024-09-26**|**Long-lived neutron-star remnants from asymmetric binary neutron star mergers: element formation, kilonova signals and gravitational waves**|Sebastiano Bernuzzi et.al.|[2409.18185](http://arxiv.org/abs/2409.18185)|null|
@@ -251,6 +255,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
+|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
+|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
+|**2024-10-02**|**UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction**|Haoran Wang et.al.|[2410.01517](http://arxiv.org/abs/2410.01517)|null|
+|**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425](http://arxiv.org/abs/2410.01425)|null|
+|**2024-10-02**|**CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM**|Dapeng Feng et.al.|[2410.00486](http://arxiv.org/abs/2410.00486)|null|
+|**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
+|**2024-10-01**|**GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**|Zhangshuo Qi et.al.|[2410.00299](http://arxiv.org/abs/2410.00299)|null|
 |**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291](http://arxiv.org/abs/2409.20291)|null|
 |**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111](http://arxiv.org/abs/2409.20111)|null|
 |**2024-10-01**|**RNG: Relightable Neural Gaussians**|Jiahui Fan et.al.|[2409.19702](http://arxiv.org/abs/2409.19702)|null|
@@ -606,6 +618,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**COMUNI: Decomposing Common and Unique Video Signals for Diffusion-based Video Generation**|Mingzhen Sun et.al.|[2410.01718](http://arxiv.org/abs/2410.01718)|null|
+|**2024-10-02**|**MM-LDM: Multi-Modal Latent Diffusion Model for Sounding Video Generation**|Mingzhen Sun et.al.|[2410.01594](http://arxiv.org/abs/2410.01594)|**[link](https://github.com/iva-mzsun/mm-ldm)**|
+|**2024-10-01**|**Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining**|Jie Cheng et.al.|[2410.00564](http://arxiv.org/abs/2410.00564)|**[link](https://github.com/cjreinforce/jowa)**|
+|**2024-09-30**|**ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning**|Jian Shi et.al.|[2410.00262](http://arxiv.org/abs/2410.00262)|null|
 |**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063](http://arxiv.org/abs/2409.20063)|null|
 |**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911](http://arxiv.org/abs/2409.19911)|null|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
