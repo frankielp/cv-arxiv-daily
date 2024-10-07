@@ -256,6 +256,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Variational Bayes Gaussian Splatting**|Toon Van de Maele et.al.|[2410.03592](http://arxiv.org/abs/2410.03592)|**[link](https://github.com/versestech/vbgs)**|
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764](http://arxiv.org/abs/2410.02764)|null|
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619](http://arxiv.org/abs/2410.02619)|null|
 |**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
@@ -623,6 +624,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach**|Yaofang Liu et.al.|[2410.03160](http://arxiv.org/abs/2410.03160)|**[link](https://github.com/yaofang-liu/fvdm)**|
+|**2024-10-04**|**ECHOPulse: ECG controlled echocardio-grams video generation**|Yiwei Li et.al.|[2410.03143](http://arxiv.org/abs/2410.03143)|**[link](https://github.com/levyisthebest/echopulse_prelease)**|
 |**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
 |**2024-10-03**|**SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2410.02367](http://arxiv.org/abs/2410.02367)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-10-02**|**COMUNI: Decomposing Common and Unique Video Signals for Diffusion-based Video Generation**|Mingzhen Sun et.al.|[2410.01718](http://arxiv.org/abs/2410.01718)|null|
