@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
+|**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-09-11**|**Phy124: Fast Physics-Driven 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2409.07179](http://arxiv.org/abs/2409.07179)|null|
 |**2024-08-15**|**CT4D: Consistent Text-to-4D Generation with Animatable Meshes**|Ce Chen et.al.|[2408.08342](http://arxiv.org/abs/2408.08342)|null|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
@@ -51,6 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-02**|**OCC-MLLM-Alpha:Empowering Multi-modal Large Language Model for the Understanding of Occluded Objects with Self-Supervised Test-Time Learning**|Shuxin Yang et.al.|[2410.01861](http://arxiv.org/abs/2410.01861)|null|
 |**2024-10-02**|**Towards Native Generative Model for 3D Head Avatar**|Yiyu Zhuang et.al.|[2410.01226](http://arxiv.org/abs/2410.01226)|null|
 |**2024-10-01**|**Extreme scale height variations and nozzle shocks in warped disks**|Nicholas Kaaz et.al.|[2410.00961](http://arxiv.org/abs/2410.00961)|null|
@@ -246,6 +249,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
+|**2024-10-08**|**HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction**|Shengji Tang et.al.|[2410.06245](http://arxiv.org/abs/2410.06245)|null|
+|**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev et.al.|[2410.06165](http://arxiv.org/abs/2410.06165)|null|
+|**2024-10-08**|**Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**|Guoji Tian et.al.|[2410.05772](http://arxiv.org/abs/2410.05772)|null|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097](http://arxiv.org/abs/2410.05097)|**[link](https://github.com/arclab-mit/space-nvs)**|
 |**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044](http://arxiv.org/abs/2410.05044)|null|
@@ -618,6 +625,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
+|**2024-10-08**|**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**|Jiazi Bu et.al.|[2410.06241](http://arxiv.org/abs/2410.06241)|null|
+|**2024-10-08**|**GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**|Chi-Lam Cheang et.al.|[2410.06158](http://arxiv.org/abs/2410.06158)|null|
+|**2024-10-08**|**Pyramidal Flow Matching for Efficient Video Generative Modeling**|Yang Jin et.al.|[2410.05954](http://arxiv.org/abs/2410.05954)|null|
+|**2024-10-08**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799](http://arxiv.org/abs/2410.05799)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
+|**2024-10-08**|**T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design**|Jiachen Li et.al.|[2410.05677](http://arxiv.org/abs/2410.05677)|null|
+|**2024-10-08**|**ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler**|Serin Yang et.al.|[2410.05651](http://arxiv.org/abs/2410.05651)|null|
+|**2024-10-08**|**TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation**|Gihyun Kwon et.al.|[2410.05591](http://arxiv.org/abs/2410.05591)|**[link](https://github.com/kwongihyun/tweediemix)**|
+|**2024-10-07**|**Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation**|Fanqing Meng et.al.|[2410.05363](http://arxiv.org/abs/2410.05363)|**[link](https://github.com/opengvlab/phygenbench)**|
 |**2024-10-07**|**The Dawn of Video Generation: Preliminary Explorations with SORA-like Models**|Ailing Zeng et.al.|[2410.05227](http://arxiv.org/abs/2410.05227)|null|
 |**2024-10-07**|**Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality**|Ge Ya et.al.|[2410.05203](http://arxiv.org/abs/2410.05203)|**[link](https://github.com/oooolga/JEDi)**|
 |**2024-10-07**|**ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction**|Hyungjin Chung et.al.|[2410.04721](http://arxiv.org/abs/2410.04721)|null|
