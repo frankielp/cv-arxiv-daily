@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -634,7 +634,7 @@ layout: default
 |**2024-10-08**|**ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler**|Serin Yang et.al.|[2410.05651](http://arxiv.org/abs/2410.05651)|null|
 |**2024-10-08**|**TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation**|Gihyun Kwon et.al.|[2410.05591](http://arxiv.org/abs/2410.05591)|**[link](https://github.com/kwongihyun/tweediemix)**|
 |**2024-10-07**|**Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation**|Fanqing Meng et.al.|[2410.05363](http://arxiv.org/abs/2410.05363)|**[link](https://github.com/opengvlab/phygenbench)**|
-|**2024-10-07**|**The Dawn of Video Generation: Preliminary Explorations with SORA-like Models**|Ailing Zeng et.al.|[2410.05227](http://arxiv.org/abs/2410.05227)|null|
+|**2024-10-10**|**The Dawn of Video Generation: Preliminary Explorations with SORA-like Models**|Ailing Zeng et.al.|[2410.05227](http://arxiv.org/abs/2410.05227)|null|
 |**2024-10-07**|**Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality**|Ge Ya et.al.|[2410.05203](http://arxiv.org/abs/2410.05203)|**[link](https://github.com/oooolga/JEDi)**|
 |**2024-10-07**|**ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction**|Hyungjin Chung et.al.|[2410.04721](http://arxiv.org/abs/2410.04721)|null|
 |**2024-10-06**|**Realizing Video Summarization from the Path of Language-based Semantic Understanding**|Kuan-Chen Mu et.al.|[2410.04511](http://arxiv.org/abs/2410.04511)|null|
