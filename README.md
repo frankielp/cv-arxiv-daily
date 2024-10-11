@@ -61,6 +61,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
+|**2024-10-10**|**SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors**|Xiao Cai et.al.|[2410.07658](http://arxiv.org/abs/2410.07658)|null|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-02**|**OCC-MLLM-Alpha:Empowering Multi-modal Large Language Model for the Understanding of Occluded Objects with Self-Supervised Test-Time Learning**|Shuxin Yang et.al.|[2410.01861](http://arxiv.org/abs/2410.01861)|null|
 |**2024-10-02**|**Towards Native Generative Model for 3D Head Avatar**|Yiyu Zhuang et.al.|[2410.01226](http://arxiv.org/abs/2410.01226)|null|
@@ -259,6 +261,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Poison-splat: Computation Cost Attack on 3D Gaussian Splatting**|Jiahao Lu et.al.|[2410.08190](http://arxiv.org/abs/2410.08190)|**[link](https://github.com/jiahaolu97/poison-splat)**|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
+|**2024-10-10**|**Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency**|Florian Hahlbohm et.al.|[2410.08129](http://arxiv.org/abs/2410.08129)|null|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
+|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|null|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|null|
+|**2024-10-09**|**Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting**|Weixing Zhang et.al.|[2410.07266](http://arxiv.org/abs/2410.07266)|**[link](https://github.com/shippot/spiking_gs)**|
 |**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
 |**2024-10-08**|**HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction**|Shengji Tang et.al.|[2410.06245](http://arxiv.org/abs/2410.06245)|null|
 |**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev et.al.|[2410.06165](http://arxiv.org/abs/2410.06165)|null|
@@ -637,6 +646,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Scaling Laws For Diffusion Transformers**|Zhengyang Liang et.al.|[2410.08184](http://arxiv.org/abs/2410.08184)|null|
+|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|null|
+|**2024-10-10**|**HARIVO: Harnessing Text-to-Image Models for Video Generation**|Mingi Kwon et.al.|[2410.07763](http://arxiv.org/abs/2410.07763)|null|
+|**2024-10-10**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718](http://arxiv.org/abs/2410.07718)|null|
+|**2024-10-10**|**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion**|Onkar Susladkar et.al.|[2410.07659](http://arxiv.org/abs/2410.07659)|null|
 |**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
 |**2024-10-08**|**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**|Jiazi Bu et.al.|[2410.06241](http://arxiv.org/abs/2410.06241)|null|
 |**2024-10-08**|**GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**|Chi-Lam Cheang et.al.|[2410.06158](http://arxiv.org/abs/2410.06158)|null|
