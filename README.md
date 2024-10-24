@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
 |**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-09-11**|**Phy124: Fast Physics-Driven 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2409.07179](http://arxiv.org/abs/2409.07179)|null|
@@ -61,6 +62,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**GenUDC: High Quality 3D Mesh Generation with Unsigned Dual Contouring Representation**|Ruowei Wang et.al.|[2410.17802](http://arxiv.org/abs/2410.17802)|**[link](https://github.com/trepangcat/genudc)**|
+|**2024-10-23**|**Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**|Sven Kiefer et.al.|[2410.17716](http://arxiv.org/abs/2410.17716)|null|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
 |**2024-10-22**|**LucidFusion: Generating 3D Gaussians with Arbitrary Unposed Images**|Hao He et.al.|[2410.15636](http://arxiv.org/abs/2410.15636)|null|
 |**2024-10-20**|**Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint**|Junwei Zhou et.al.|[2410.15391](http://arxiv.org/abs/2410.15391)|null|
@@ -273,6 +276,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932](http://arxiv.org/abs/2410.17932)|null|
+|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
+|**2024-10-22**|**AG-SLAM: Active Gaussian Splatting SLAM**|Wen Jiang et.al.|[2410.17422](http://arxiv.org/abs/2410.17422)|null|
 |**2024-10-22**|**SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**|Cheng-De Fan et.al.|[2410.17249](http://arxiv.org/abs/2410.17249)|null|
 |**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
@@ -682,6 +688,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072](http://arxiv.org/abs/2410.18072)|null|
+|**2024-10-23**|**VISAGE: Video Synthesis using Action Graphs for Surgery**|Yousef Yeganeh et.al.|[2410.17751](http://arxiv.org/abs/2410.17751)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266](http://arxiv.org/abs/2410.16266)|null|
 |**2024-10-20**|**EVA: An Embodied World Model for Future Video Anticipation**|Xiaowei Chi et.al.|[2410.15461](http://arxiv.org/abs/2410.15461)|null|
 |**2024-10-20**|**Allegro: Open the Black Box of Commercial-Level Video Generation Model**|Yuan Zhou et.al.|[2410.15458](http://arxiv.org/abs/2410.15458)|**[link](https://github.com/rhymes-ai/allegro)**|
