@@ -56,6 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**|Zhengyi Wang et.al.|[2411.09595](http://arxiv.org/abs/2411.09595)|null|
 |**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
 |**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|**[link](https://github.com/autodeskailab/wala)**|
@@ -283,10 +284,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction**|Shengchao Zhao et.al.|[2411.09156](http://arxiv.org/abs/2411.09156)|null|
 |**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
-|**2024-11-13**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
+|**2024-11-14**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
 |**2024-11-12**|**GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting**|Umangi Jain et.al.|[2411.07555](http://arxiv.org/abs/2411.07555)|null|
 |**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541](http://arxiv.org/abs/2411.07541)|**[link](https://github.com/gqk/hicom)**|
 |**2024-11-12**|**GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering**|Zhihao Liang et.al.|[2411.07478](http://arxiv.org/abs/2411.07478)|null|
@@ -738,6 +740,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174](http://arxiv.org/abs/2411.09174)|null|
+|**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
 |**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
 |**2024-11-13**|**EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation**|Xiaofeng Wang et.al.|[2411.08380](http://arxiv.org/abs/2411.08380)|null|
 |**2024-11-13**|**Motion Control for Enhanced Complex Action Video Generation**|Qiang Zhou et.al.|[2411.08328](http://arxiv.org/abs/2411.08328)|null|
