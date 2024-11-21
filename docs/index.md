@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -290,7 +290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510](http://arxiv.org/abs/2411.12510)|null|
+|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510](http://arxiv.org/abs/2411.12510)|**[link](https://github.com/SanoScience/PR-ENDO)**|
 |**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
 |**2024-11-19**|**Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels**|Haodong Chen et.al.|[2411.12440](http://arxiv.org/abs/2411.12440)|null|
 |**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185](http://arxiv.org/abs/2411.12185)|null|
