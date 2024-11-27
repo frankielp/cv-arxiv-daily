@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800](http://arxiv.org/abs/2411.16800)|null|
 |**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
 |**2024-11-05**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319](http://arxiv.org/abs/2411.02319)|null|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
@@ -56,11 +57,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|null|
+|**2024-11-25**|**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**|Yongwei Chen et.al.|[2411.16856](http://arxiv.org/abs/2411.16856)|null|
+|**2024-11-25**|**DetailGen3D: Generative 3D Geometry Enhancement via Data-Dependent Flow**|Ken Deng et.al.|[2411.16820](http://arxiv.org/abs/2411.16820)|null|
+|**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|**[link](https://github.com/gohyojun15/SplatFlow)**|
 |**2024-11-24**|**Fixing the Perspective: A Critical Examination of Zero-1-to-3**|Jack Yu et.al.|[2411.15706](http://arxiv.org/abs/2411.15706)|null|
-|**2024-11-22**|**Efficient Long Video Tokenization via Coordinated-based Patch Reconstruction**|Huiwon Jang et.al.|[2411.14762](http://arxiv.org/abs/2411.14762)|null|
+|**2024-11-26**|**Efficient Long Video Tokenization via Coordinate-based Patch Reconstruction**|Huiwon Jang et.al.|[2411.14762](http://arxiv.org/abs/2411.14762)|null|
 |**2024-11-22**|**Any-to-3D Generation via Hybrid Diffusion Supervision**|Yijun Fan et.al.|[2411.14715](http://arxiv.org/abs/2411.14715)|null|
-|**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
+|**2024-11-26**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
 |**2024-11-19**|**Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**|Haoyu Zhao et.al.|[2411.12789](http://arxiv.org/abs/2411.12789)|null|
 |**2024-11-21**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089](http://arxiv.org/abs/2411.12089)|null|
 |**2024-11-18**|**sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI**|Yunhao Xing et.al.|[2411.11752](http://arxiv.org/abs/2411.11752)|null|
@@ -296,7 +299,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|null|
+|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
+|**2024-11-26**|**Distractor-free Generalizable 3D Gaussian Splatting**|Yanqi Bao et.al.|[2411.17605](http://arxiv.org/abs/2411.17605)|**[link](https://github.com/bbbbby-99/dggs)**|
+|**2024-11-26**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
+|**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898](http://arxiv.org/abs/2411.16898)|null|
+|**2024-11-25**|**PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence**|Zequn Chen et.al.|[2411.16877](http://arxiv.org/abs/2411.16877)|null|
+|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
+|**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|**[link](https://github.com/gohyojun15/SplatFlow)**|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
 |**2024-11-25**|**Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction**|Wenhao Xu et.al.|[2411.16180](http://arxiv.org/abs/2411.16180)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
@@ -785,6 +794,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2024-11-26**|**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**|Shenghai Yuan et.al.|[2411.17440](http://arxiv.org/abs/2411.17440)|null|
+|**2024-11-26**|**AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation**|Ziyi Xu et.al.|[2411.17383](http://arxiv.org/abs/2411.17383)|null|
+|**2024-11-26**|**AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM**|Jiarui Wang et.al.|[2411.17221](http://arxiv.org/abs/2411.17221)|**[link](https://github.com/wangjiarui153/AIGV-Assessor)**|
+|**2024-11-26**|**PhysMotion: Physics-Grounded Dynamics From a Single Image**|Xiyang Tan et.al.|[2411.17189](http://arxiv.org/abs/2411.17189)|null|
+|**2024-11-26**|**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation**|Hengjia Li et.al.|[2411.17048](http://arxiv.org/abs/2411.17048)|null|
+|**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|Jaemin Kim et.al.|[2411.17041](http://arxiv.org/abs/2411.17041)|null|
+|**2024-11-25**|**Pathways on the Image Manifold: Image Editing via Video Generation**|Noam Rotstein et.al.|[2411.16819](http://arxiv.org/abs/2411.16819)|null|
 |**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
 |**2024-11-25**|**Human-Activity AGV Quality Assessment: A Benchmark Dataset and an Objective Evaluation Metric**|Zhichao Zhang et.al.|[2411.16619](http://arxiv.org/abs/2411.16619)|null|
 |**2024-11-25**|**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing**|Kaifeng Gao et.al.|[2411.16375](http://arxiv.org/abs/2411.16375)|**[link](https://github.com/dawn-lx/causalcache-vdm)**|
