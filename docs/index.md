@@ -808,7 +808,7 @@ layout: default
 |**2024-11-27**|**MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation**|Haopeng Fang et.al.|[2411.18281](http://arxiv.org/abs/2411.18281)|null|
 |**2024-11-26**|**Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey**|Hong-Hanh Nguyen-Le et.al.|[2411.17911](http://arxiv.org/abs/2411.17911)|null|
 |**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
-|**2024-11-26**|**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**|Shenghai Yuan et.al.|[2411.17440](http://arxiv.org/abs/2411.17440)|null|
+|**2024-11-26**|**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**|Shenghai Yuan et.al.|[2411.17440](http://arxiv.org/abs/2411.17440)|**[link](https://github.com/PKU-YuanGroup/ConsisID)**|
 |**2024-11-26**|**AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation**|Ziyi Xu et.al.|[2411.17383](http://arxiv.org/abs/2411.17383)|null|
 |**2024-11-26**|**AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM**|Jiarui Wang et.al.|[2411.17221](http://arxiv.org/abs/2411.17221)|**[link](https://github.com/wangjiarui153/AIGV-Assessor)**|
 |**2024-11-26**|**PhysMotion: Physics-Grounded Dynamics From a Single Image**|Xiyang Tan et.al.|[2411.17189](http://arxiv.org/abs/2411.17189)|null|
