@@ -57,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
+|**2024-12-04**|**CLAS: A Machine Learning Enhanced Framework for Exploring Large 3D Design Datasets**|XiuYu Zhang et.al.|[2412.02996](http://arxiv.org/abs/2412.02996)|null|
 |**2024-12-03**|**Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**|Yiftach Edelstein et.al.|[2412.02631](http://arxiv.org/abs/2412.02631)|null|
 |**2024-12-03**|**Continual Learning of Personalized Generative Face Models with Experience Replay**|Annie N. Wang et.al.|[2412.02627](http://arxiv.org/abs/2412.02627)|null|
 |**2024-12-03**|**HumanRig: Learning Automatic Rigging for Humanoid Character in a Large Scale Dataset**|Zedong Chu et.al.|[2412.02317](http://arxiv.org/abs/2412.02317)|**[link](https://github.com/c8241998/humanrig)**|
@@ -313,6 +315,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos**|Hanxue Liang et.al.|[2412.03526](http://arxiv.org/abs/2412.03526)|null|
+|**2024-12-04**|**2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction**|Wanting Zhang et.al.|[2412.03428](http://arxiv.org/abs/2412.03428)|null|
+|**2024-12-04**|**Volumetrically Consistent 3D Gaussian Rasterization**|Chinmay Talegaonkar et.al.|[2412.03378](http://arxiv.org/abs/2412.03378)|null|
+|**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371](http://arxiv.org/abs/2412.03371)|null|
+|**2024-12-04**|**Splats in Splats: Embedding Invisible 3D Watermark within Gaussian Splatting**|Yijia Guo et.al.|[2412.03121](http://arxiv.org/abs/2412.03121)|null|
+|**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
 |**2024-12-03**|**RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians**|Qiankun Gao et.al.|[2412.02493](http://arxiv.org/abs/2412.02493)|null|
 |**2024-12-03**|**GSGTrack: Gaussian Splatting-Guided Object Pose Tracking from RGB Videos**|Zhiyuan Chen et.al.|[2412.02267](http://arxiv.org/abs/2412.02267)|null|
 |**2024-12-03**|**Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance**|Jing Zeng et.al.|[2412.02249](http://arxiv.org/abs/2412.02249)|null|
@@ -835,6 +843,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
+|**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
+|**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[2412.03520](http://arxiv.org/abs/2412.03520)|null|
+|**2024-12-04**|**SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model**|Yan Li et.al.|[2412.03430](http://arxiv.org/abs/2412.03430)|null|
+|**2024-12-04**|**MaterialPicker: Multi-Modal Material Generation with Diffusion Transformers**|Xiaohe Ma et.al.|[2412.03225](http://arxiv.org/abs/2412.03225)|null|
+|**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
 |**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
