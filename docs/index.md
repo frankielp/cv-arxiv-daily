@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471](http://arxiv.org/abs/2412.04471)|null|
 |**2024-11-27**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800](http://arxiv.org/abs/2411.16800)|null|
 |**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
 |**2024-11-05**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319](http://arxiv.org/abs/2411.02319)|null|
@@ -57,6 +58,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471](http://arxiv.org/abs/2412.04471)|null|
+|**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470](http://arxiv.org/abs/2412.04470)|null|
+|**2024-12-05**|**InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models**|Yifan Lu et.al.|[2412.03934](http://arxiv.org/abs/2412.03934)|null|
+|**2024-12-04**|**MV-Adapter: Multi-view Consistent Image Generation Made Easy**|Zehuan Huang et.al.|[2412.03632](http://arxiv.org/abs/2412.03632)|null|
 |**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
 |**2024-12-04**|**CLAS: A Machine Learning Enhanced Framework for Exploring Large 3D Design Datasets**|XiuYu Zhang et.al.|[2412.02996](http://arxiv.org/abs/2412.02996)|null|
 |**2024-12-03**|**Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**|Yiftach Edelstein et.al.|[2412.02631](http://arxiv.org/abs/2412.02631)|null|
@@ -315,6 +320,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469](http://arxiv.org/abs/2412.04469)|null|
+|**2024-12-05**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
+|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|null|
+|**2024-12-05**|**HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**|Jingyu Lin et.al.|[2412.03844](http://arxiv.org/abs/2412.03844)|null|
 |**2024-12-04**|**Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos**|Hanxue Liang et.al.|[2412.03526](http://arxiv.org/abs/2412.03526)|null|
 |**2024-12-04**|**2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction**|Wanting Zhang et.al.|[2412.03428](http://arxiv.org/abs/2412.03428)|null|
 |**2024-12-04**|**Volumetrically Consistent 3D Gaussian Rasterization**|Chinmay Talegaonkar et.al.|[2412.03378](http://arxiv.org/abs/2412.03378)|null|
@@ -843,6 +852,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471](http://arxiv.org/abs/2412.04471)|null|
+|**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448](http://arxiv.org/abs/2412.04448)|null|
+|**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446](http://arxiv.org/abs/2412.04446)|null|
+|**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
+|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|null|
+|**2024-12-05**|**Instructional Video Generation**|Yayuan Li et.al.|[2412.04189](http://arxiv.org/abs/2412.04189)|null|
+|**2024-12-05**|**IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation**|Sejong Yang et.al.|[2412.04000](http://arxiv.org/abs/2412.04000)|null|
+|**2024-12-05**|**DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism**|Sudha Krishnamurthy et.al.|[2412.03878](http://arxiv.org/abs/2412.03878)|null|
+|**2024-12-05**|**Movie Gen: SWOT Analysis of Meta's Generative AI Foundation Model for Transforming Media Generation, Advertising, and Entertainment Industries**|Abul Ehtesham et.al.|[2412.03837](http://arxiv.org/abs/2412.03837)|null|
+|**2024-12-04**|**Advancing Auto-Regressive Continuation for Video Frames**|Ruibo Ming et.al.|[2412.03758](http://arxiv.org/abs/2412.03758)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
 |**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
 |**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[2412.03520](http://arxiv.org/abs/2412.03520)|null|
