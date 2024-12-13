@@ -67,6 +67,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545](http://arxiv.org/abs/2412.09545)|null|
 |**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785](http://arxiv.org/abs/2412.06785)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
 |**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780](http://arxiv.org/abs/2412.06780)|null|
 |**2024-12-09**|**You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale**|Baorui Ma et.al.|[2412.06699](http://arxiv.org/abs/2412.06699)|null|
@@ -338,13 +339,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
+|**2024-12-12**|**LIVE-GS: LLM Powers Interactive VR by Enhancing Gaussian Splatting**|Haotian Mao et.al.|[2412.09176](http://arxiv.org/abs/2412.09176)|null|
 |**2024-12-10**|**Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians**|Yixuan Li et.al.|[2412.07660](http://arxiv.org/abs/2412.07660)|null|
 |**2024-12-10**|**Faster and Better 3D Splatting via Group Training**|Chengbo Wang et.al.|[2412.07608](http://arxiv.org/abs/2412.07608)|null|
 |**2024-12-10**|**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**|Yanzhe Lyu et.al.|[2412.07494](http://arxiv.org/abs/2412.07494)|null|
 |**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|**[link](https://github.com/zcsrenlongz/deblur4dgs)**|
 |**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299](http://arxiv.org/abs/2412.06299)|null|
-|**2024-12-09**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257](http://arxiv.org/abs/2412.06257)|null|
+|**2024-12-12**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257](http://arxiv.org/abs/2412.06257)|null|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
 |**2024-12-09**|**Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction**|Seungtae Nam et.al.|[2412.06234](http://arxiv.org/abs/2412.06234)|null|
 |**2024-12-07**|**Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes**|Saqib Javed et.al.|[2412.05700](http://arxiv.org/abs/2412.05700)|null|
@@ -891,6 +894,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
+|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
+|**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600](http://arxiv.org/abs/2412.09600)|**[link](https://github.com/huang-yh/owl)**|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
+|**2024-12-12**|**Video Creation by Demonstration**|Yihong Sun et.al.|[2412.09551](http://arxiv.org/abs/2412.09551)|null|
+|**2024-12-12**|**UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer**|Delong Liu et.al.|[2412.09389](http://arxiv.org/abs/2412.09389)|**[link](https://github.com/delong-liu-bupt/ufo)**|
+|**2024-12-12**|**T-SVG: Text-Driven Stereoscopic Video Generation**|Qiao Jin et.al.|[2412.09323](http://arxiv.org/abs/2412.09323)|null|
+|**2024-12-12**|**InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption**|Tiehan Fan et.al.|[2412.09283](http://arxiv.org/abs/2412.09283)|null|
+|**2024-12-12**|**LVMark: Robust Watermark for latent video diffusion models**|MinHyuk Jang et.al.|[2412.09122](http://arxiv.org/abs/2412.09122)|null|
+|**2024-12-12**|**Enhancing Facial Consistency in Conditional Video Generation via Facial Landmark Transformation**|Lianrui Mu et.al.|[2412.08976](http://arxiv.org/abs/2412.08976)|null|
 |**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
 |**2024-12-11**|**FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks**|Chongkai Gao et.al.|[2412.08261](http://arxiv.org/abs/2412.08261)|null|
 |**2024-12-11**|**VSD2M: A Large-scale Vision-language Sticker Dataset for Multi-frame Animated Sticker Generation**|Zhiqiang Yuan et.al.|[2412.08259](http://arxiv.org/abs/2412.08259)|null|
