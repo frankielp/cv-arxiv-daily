@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 4D Generative
@@ -62,7 +62,7 @@ layout: default
 |**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545](http://arxiv.org/abs/2412.09545)|null|
 |**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785](http://arxiv.org/abs/2412.06785)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
 |**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780](http://arxiv.org/abs/2412.06780)|null|
-|**2024-12-09**|**You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale**|Baorui Ma et.al.|[2412.06699](http://arxiv.org/abs/2412.06699)|null|
+|**2024-12-09**|**You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale**|Baorui Ma et.al.|[2412.06699](http://arxiv.org/abs/2412.06699)|**[link](https://github.com/baaivision/See3D)**|
 |**2024-12-09**|**Gen-3Diffusion: Realistic Image-to-3D Generation via 2D & 3D Diffusion Synergy**|Yuxuan Xue et.al.|[2412.06698](http://arxiv.org/abs/2412.06698)|null|
 |**2024-12-08**|**Enhanced 3D Generation by 2D Editing**|Haoran Li et.al.|[2412.05929](http://arxiv.org/abs/2412.05929)|null|
 |**2024-12-07**|**Text-to-3D Gaussian Splatting with Physics-Grounded Motion Generation**|Wenqing Wang et.al.|[2412.05560](http://arxiv.org/abs/2412.05560)|null|
