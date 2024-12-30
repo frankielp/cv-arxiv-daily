@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-06**|**DNF: Unconditional 4D Generation with Dictionary-based Neural Fields**|Xinyi Zhang et.al.|[2412.05161](http://arxiv.org/abs/2412.05161)|null|
 |**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471](http://arxiv.org/abs/2412.04471)|null|
-|**2024-11-27**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800](http://arxiv.org/abs/2411.16800)|null|
+|**2024-12-26**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800](http://arxiv.org/abs/2411.16800)|null|
 |**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
 |**2024-11-05**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319](http://arxiv.org/abs/2411.02319)|null|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
@@ -59,6 +59,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**Habitability in 4-D: Predicting the Climates of Earth Analogs across Rotation and Orbital Configurations**|Arthur D. Adams et.al.|[2412.19357](http://arxiv.org/abs/2412.19357)|null|
 |**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
 |**2024-12-23**|**ArchComplete: Autoregressive 3D Architectural Design Generation with Hierarchical Diffusion-Based Upsampling**|S. Rasoulzadeh et.al.|[2412.17957](http://arxiv.org/abs/2412.17957)|null|
 |**2024-12-21**|**GANFusion: Feed-Forward Text-to-3D with Diffusion in GAN Space**|Souhaib Attaiki et.al.|[2412.16717](http://arxiv.org/abs/2412.16717)|null|
@@ -342,6 +343,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518](http://arxiv.org/abs/2412.19518)|null|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
+|**2024-12-26**|**BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
+|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
+|**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142](http://arxiv.org/abs/2412.19142)|null|
+|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|
+|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|null|
+|**2024-12-25**|**GSAVS: Gaussian Splatting-based Autonomous Vehicle Simulator**|Rami Wilson et.al.|[2412.18816](http://arxiv.org/abs/2412.18816)|null|
+|**2024-12-25**|**ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization**|Zixiao Gu et.al.|[2412.18783](http://arxiv.org/abs/2412.18783)|null|
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
 |**2024-12-23**|**GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance**|Jingqiu Zhou et.al.|[2412.17715](http://arxiv.org/abs/2412.17715)|null|
 |**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612](http://arxiv.org/abs/2412.17612)|null|
@@ -925,6 +935,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Generative Video Propagation**|Shaoteng Liu et.al.|[2412.19761](http://arxiv.org/abs/2412.19761)|null|
+|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
+|**2024-12-27**|**DrivingWorld: ConstructingWorld Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[2412.19505](http://arxiv.org/abs/2412.19505)|**[link](https://github.com/yvanyin/drivingworld)**|
+|**2024-12-25**|**Accelerating Diffusion Transformers with Dual Feature Caching**|Chang Zou et.al.|[2412.18911](http://arxiv.org/abs/2412.18911)|**[link](https://github.com/shenyi-z/duca)**|
+|**2024-12-24**|**Video Is Worth a Thousand Images: Exploring the Latest Trends in Long Video Generation**|Faraz Waseem et.al.|[2412.18688](http://arxiv.org/abs/2412.18688)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600](http://arxiv.org/abs/2412.18600)|null|
 |**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
