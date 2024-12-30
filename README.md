@@ -249,7 +249,7 @@
 |**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579](http://arxiv.org/abs/2406.01579)|**[link](https://github.com/fudan-zvg/tet-splatting)**|
 |**2024-06-04**|**Towards Practical Single-shot Motion Synthesis**|Konstantinos Roditakis et.al.|[2406.01136](http://arxiv.org/abs/2406.01136)|null|
 |**2024-06-02**|**Freeplane: Unlocking Free Lunch in Triplane-Based Sparse-View Reconstruction Models**|Wenqiang Sun et.al.|[2406.00750](http://arxiv.org/abs/2406.00750)|null|
-|**2024-06-04**|**Lay-A-Scene: Personalized 3D Object Arrangement Using Text-to-Image Priors**|Ohad Rahamim et.al.|[2406.00687](http://arxiv.org/abs/2406.00687)|null|
+|**2024-06-04**|**Lay-A-Scene: Personalized 3D Object Arrangement Using Text-to-Image Priors**|Ohad Rahamim et.al.|[2406.00687](http://arxiv.org/abs/2406.00687)|**[link](https://github.com/ohad204/Lay-A-Scene)**|
 |**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|**[link](https://github.com/Ysz2022/Fourier123)**|
 |**2024-05-30**|**What makes a cosmic filament? The dynamical origin and identity of filaments I. fundamentals in 2D**|Job Feldbrugge et.al.|[2405.20475](http://arxiv.org/abs/2405.20475)|null|
 |**2024-05-30**|**GECO: Generative Image-to-3D within a SECOnd**|Chen Wang et.al.|[2405.20327](http://arxiv.org/abs/2405.20327)|null|
@@ -285,7 +285,7 @@
 |**2024-04-17**|**Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints**|Faraz Faruqi et.al.|[2404.10142](http://arxiv.org/abs/2404.10142)|null|
 |**2024-04-14**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu et.al.|[2404.07191](http://arxiv.org/abs/2404.07191)|**[link](https://github.com/tencentarc/instantmesh)**|
 |**2024-04-10**|**Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**|Fan Lu et.al.|[2404.06780](http://arxiv.org/abs/2404.06780)|null|
-|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|**[link](https://github.com/magic-research/magic-boost)**|
 |**2024-04-09**|**DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation**|Junkai Yan et.al.|[2404.06119](http://arxiv.org/abs/2404.06119)|**[link](https://github.com/isee-laboratory/dreamview)**|
 |**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091](http://arxiv.org/abs/2404.06091)|**[link](https://github.com/Adamdad/hash3D)**|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
@@ -926,7 +926,7 @@
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|**[link](https://github.com/ajhamdi/ges-splatting)**|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-13**|**GS-CLIP: Gaussian Splatting for Contrastive Language-Image-3D Pretraining from Real-World Data**|Haoyuan Li et.al.|[2402.06198](http://arxiv.org/abs/2402.06198)|null|
-|**2024-02-09**|**HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting**|Zhenglin Zhou et.al.|[2402.06149](http://arxiv.org/abs/2402.06149)|null|
+|**2024-02-09**|**HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting**|Zhenglin Zhou et.al.|[2402.06149](http://arxiv.org/abs/2402.06149)|**[link](https://github.com/zhenglinzhou/headstudio)**|
 |**2024-02-06**|**Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos**|Alfredo Rivero et.al.|[2402.03723](http://arxiv.org/abs/2402.03723)|null|
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
@@ -1218,7 +1218,7 @@
 |**2024-08-28**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-24**|**TVG: A Training-free Transition Video Generation Method with Diffusion Models**|Rui Zhang et.al.|[2408.13413](http://arxiv.org/abs/2408.13413)|null|
-|**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
+|**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|**[link](https://github.com/wutao-cs/customcrafter)**|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 |**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/abs/2408.12588)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
