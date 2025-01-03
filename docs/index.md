@@ -62,7 +62,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206](http://arxiv.org/abs/2412.21206)|null|
-|**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
+|**2025-01-02**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
 |**2024-12-29**|**Toward Scene Graph and Layout Guided Complex 3D Scene Generation**|Yu-Hsiang Huang et.al.|[2412.20473](http://arxiv.org/abs/2412.20473)|null|
 |**2024-12-26**|**Habitability in 4-D: Predicting the Climates of Earth Analogs across Rotation and Orbital Configurations**|Arthur D. Adams et.al.|[2412.19357](http://arxiv.org/abs/2412.19357)|**[link](https://github.com/adadams/habitability_metrics)**|
 |**2024-12-29**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
