@@ -374,7 +374,7 @@
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142](http://arxiv.org/abs/2412.19142)|null|
 |**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|
-|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|null|
+|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|**[link](https://github.com/Jumponthemoon/WeatherGS)**|
 |**2024-12-25**|**GSAVS: Gaussian Splatting-based Autonomous Vehicle Simulator**|Rami Wilson et.al.|[2412.18816](http://arxiv.org/abs/2412.18816)|null|
 |**2024-12-25**|**ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization**|Zixiao Gu et.al.|[2412.18783](http://arxiv.org/abs/2412.18783)|null|
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
@@ -1233,7 +1233,7 @@
 |**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
 |**2024-09-11**|**DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures**|Steven Hogue et.al.|[2409.07649](http://arxiv.org/abs/2409.07649)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
-|**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|null|
+|**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|**[link](https://github.com/JianZhang-chick/EMOdiffhead)**|
 |**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
 |**2024-09-10**|**G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer**|Jinzhi Zhang et.al.|[2409.06322](http://arxiv.org/abs/2409.06322)|null|
 |**2024-09-11**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189](http://arxiv.org/abs/2409.06189)|null|
