@@ -70,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation**|Kam Woh Ng et.al.|[2501.04144](http://arxiv.org/abs/2501.04144)|**[link](https://github.com/kamwoh/chirpy3d)**|
 |**2025-01-04**|**Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models**|Suttisak Wizadwongsa et.al.|[2501.00651](http://arxiv.org/abs/2501.00651)|null|
 |**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206](http://arxiv.org/abs/2412.21206)|null|
 |**2025-01-02**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
@@ -971,6 +972,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
+|**2025-01-08**|**LipGen: Viseme-Guided Lip Video Generation for Enhancing Visual Speech Recognition**|Bowen Hao et.al.|[2501.04204](http://arxiv.org/abs/2501.04204)|null|
 |**2025-01-07**|**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers**|Yuechen Zhang et.al.|[2501.03931](http://arxiv.org/abs/2501.03931)|**[link](https://github.com/dvlab-research/magicmirror)**|
 |**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847](http://arxiv.org/abs/2501.03847)|**[link](https://github.com/igl-hkust/diffusionasshader)**|
 |**2025-01-07**|**Motion-Aware Generative Frame Interpolation**|Guozhen Zhang et.al.|[2501.03699](http://arxiv.org/abs/2501.03699)|null|
