@@ -62,6 +62,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087](http://arxiv.org/abs/2501.13087)|null|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
 |**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](http://arxiv.org/abs/2501.09433)|**[link](https://github.com/ncsoft/CaPa)**|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
@@ -357,9 +358,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes**|Yuang Shi et.al.|[2501.13045](http://arxiv.org/abs/2501.13045)|null|
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
-|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
-|**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
+|**2025-01-22**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-22**|**GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
 |**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
 |**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|null|
@@ -988,7 +990,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-21**|**Taming Teacher Forcing for Masked Autoregressive Video Generation**|Deyu Zhou et.al.|[2501.12389](http://arxiv.org/abs/2501.12389)|null|
-|**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
+|**2025-01-22**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
 |**2025-01-20**|**GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video**|Zhenliang Ni et.al.|[2501.11340](http://arxiv.org/abs/2501.11340)|null|
 |**2025-01-20**|**CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation**|Zheng Chong et.al.|[2501.11325](http://arxiv.org/abs/2501.11325)|null|
 |**2025-01-18**|**EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**|Linrui Tian et.al.|[2501.10687](http://arxiv.org/abs/2501.10687)|null|
