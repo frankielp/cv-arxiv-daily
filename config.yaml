@@ -22,10 +22,12 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "4D Generative":
-        filters: ["Image-to-4D", "Text-to-4D", "4D Generation"]
+    "3D Segmentation":
+        filters: ["3D Segmentation", "3D open vocabulary understanding", "3D understanding"]
+    "Reasoning Segmentation":
+        filters: ["Reasoning Segmentation", "Large Language Model Segmentation"]
     "3D Generative":
-        filters: ["Image-to-4D", "Text-to-3D", "3D Generation"]
+        filters: ["Image-to-3D", "Text-to-3D", "3D Generation"]
     "3D Gaussian Splatting":
         filters: ["3D Gaussian Splatting", "GS3D"]
     "Text-to-Video":
