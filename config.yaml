@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "3D Segmentation":
-        filters: ["3D Segmentation", "3D open vocabulary understanding", "3D understanding"]
+        filters: ["3D segmentation", "3D visual grounding", "3D gaussian segmentation"]
     "Reasoning Segmentation":
         filters: ["Reasoning Segmentation", "Large Language Model Segmentation"]
     "3D Generative":
