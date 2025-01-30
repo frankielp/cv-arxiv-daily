@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model**|Maxime Mérizette et.al.|[2501.17534](http://arxiv.org/abs/2501.17534)|null|
 |**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
 |**2025-01-18**|**No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-k Patch Sampling**|Young Seok Jeon et.al.|[2501.10814](http://arxiv.org/abs/2501.10814)|null|
 |**2025-01-16**|**AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring**|Xinyi Wang et.al.|[2501.09428](http://arxiv.org/abs/2501.09428)|null|
@@ -49,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Towards Training-Free Open-World Classification with 3D Generative Models**|Xinzhe Xia et.al.|[2501.17547](http://arxiv.org/abs/2501.17547)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
 |**2025-01-27**|**BAG: Body-Aligned 3D Wearable Asset Generation**|Zhongjin Luo et.al.|[2501.16177](http://arxiv.org/abs/2501.16177)|null|
@@ -350,6 +352,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering**|Xiaohan Sun et.al.|[2501.17792](http://arxiv.org/abs/2501.17792)|null|
+|**2025-01-29**|**FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction**|Miriam Jäger et.al.|[2501.17655](http://arxiv.org/abs/2501.17655)|null|
 |**2025-01-28**|**Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds**|Xiaohan Sun et.al.|[2501.17085](http://arxiv.org/abs/2501.17085)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
 |**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
