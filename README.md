@@ -66,6 +66,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization**|Zhenglin Zhou et.al.|[2502.04370](http://arxiv.org/abs/2502.04370)|null|
 |**2025-02-04**|**ShapeShifter: 3D Variations Using Multiscale and Sparse Point-Voxel Diffusion**|Nissim Maruani et.al.|[2502.02187](http://arxiv.org/abs/2502.02187)|null|
 |**2025-01-31**|**TRAPPIST-1 d: Exo-Venus, Exo-Earth or Exo-Dead?**|M. J. Way et.al.|[2502.00132](http://arxiv.org/abs/2502.00132)|null|
 |**2025-01-29**|**Towards Training-Free Open-World Classification with 3D Generative Models**|Xinzhe Xia et.al.|[2501.17547](http://arxiv.org/abs/2501.17547)|null|
@@ -1032,6 +1033,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|null|
+|**2025-02-07**|**Goku: Flow Based Video Generative Foundation Models**|Shoufa Chen et.al.|[2502.04896](http://arxiv.org/abs/2502.04896)|null|
+|**2025-02-07**|**HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation**|Qijun Gan et.al.|[2502.04847](http://arxiv.org/abs/2502.04847)|null|
+|**2025-02-06**|**Fast Video Generation with Sliding Tile Attention**|Peiyuan Zhang et.al.|[2502.04507](http://arxiv.org/abs/2502.04507)|null|
+|**2025-02-06**|**UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation**|Wenzhang Sun et.al.|[2502.04393](http://arxiv.org/abs/2502.04393)|null|
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
 |**2025-02-06**|**Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression**|Lirui Wang et.al.|[2502.04296](http://arxiv.org/abs/2502.04296)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
