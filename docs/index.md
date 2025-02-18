@@ -57,8 +57,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text**|Gyumin Shim et.al.|[2502.11642](http://arxiv.org/abs/2502.11642)|null|
+|**2025-02-13**|**X-SG $^2$ S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks**|Zihang Cheng et.al.|[2502.10475](http://arxiv.org/abs/2502.10475)|null|
 |**2025-02-13**|**Latent Radiance Fields with 3D-aware 2D Representations**|Chaoyi Zhou et.al.|[2502.09613](http://arxiv.org/abs/2502.09613)|null|
-|**2025-02-13**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278](http://arxiv.org/abs/2502.09278)|null|
+|**2025-02-17**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278](http://arxiv.org/abs/2502.09278)|null|
 |**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007](http://arxiv.org/abs/2502.07007)|null|
 |**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[2502.06682](http://arxiv.org/abs/2502.06682)|null|
 |**2025-02-10**|**TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**|Yangguang Li et.al.|[2502.06608](http://arxiv.org/abs/2502.06608)|null|
@@ -368,6 +370,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801](http://arxiv.org/abs/2502.11801)|null|
+|**2025-02-17**|**Exploring the Versal AI Engine for 3D Gaussian Splatting**|Kotaro Shimamura et.al.|[2502.11782](http://arxiv.org/abs/2502.11782)|null|
+|**2025-02-17**|**GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text**|Gyumin Shim et.al.|[2502.11642](http://arxiv.org/abs/2502.11642)|null|
+|**2025-02-16**|**OMG: Opacity Matters in Material Modeling with Gaussian Splatting**|Silong Yong et.al.|[2502.10988](http://arxiv.org/abs/2502.10988)|null|
+|**2025-02-16**|**GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**|Zelin Zhou et.al.|[2502.10975](http://arxiv.org/abs/2502.10975)|null|
+|**2025-02-15**|**E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting**|Sohaib Zahid et.al.|[2502.10827](http://arxiv.org/abs/2502.10827)|null|
+|**2025-02-13**|**X-SG $^2$ S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks**|Zihang Cheng et.al.|[2502.10475](http://arxiv.org/abs/2502.10475)|null|
 |**2025-02-12**|**Interactive Holographic Visualization for 3D Facial Avatar**|Tri Tung Nguyen Nguyen et.al.|[2502.08085](http://arxiv.org/abs/2502.08085)|null|
 |**2025-02-11**|**TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation**|Jeongyun Kim et.al.|[2502.07840](http://arxiv.org/abs/2502.07840)|**[link](https://github.com/jeongyun0609/TranSplat)**|
 |**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615](http://arxiv.org/abs/2502.07615)|null|
@@ -1029,7 +1038,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
+|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
+|**2025-02-17**|**DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**|Zhihang Yuan et.al.|[2502.11897](http://arxiv.org/abs/2502.11897)|null|
+|**2025-02-17**|**Object-Centric Image to Video Generation with Language Guidance**|Angel Villar-Corrales et.al.|[2502.11655](http://arxiv.org/abs/2502.11655)|null|
+|**2025-02-16**|**MaskFlow: Discrete Flows For Flexible and Efficient Long Video Generation**|Michael Fuest et.al.|[2502.11234](http://arxiv.org/abs/2502.11234)|null|
+|**2025-02-16**|**Phantom: Subject-consistent video generation via cross-modal alignment**|Lijie Liu et.al.|[2502.11079](http://arxiv.org/abs/2502.11079)|null|
+|**2025-02-17**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
 |**2025-02-14**|**RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control**|Teng Li et.al.|[2502.10059](http://arxiv.org/abs/2502.10059)|null|
 |**2025-02-14**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268](http://arxiv.org/abs/2502.09268)|null|
 |**2025-02-12**|**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**|Qinghe Wang et.al.|[2502.08639](http://arxiv.org/abs/2502.08639)|null|
