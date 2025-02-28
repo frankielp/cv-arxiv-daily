@@ -14,7 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-26**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
+|**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
+|**2025-02-27**|**Deep Learning-Based Approach for Automatic 2D and 3D MRI Segmentation of Gliomas**|Kiranmayee Janardhan et.al.|[2502.19760](http://arxiv.org/abs/2502.19760)|null|
+|**2025-02-27**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
 |**2025-02-26**|**Subclass Classification of Gliomas Using MRI Fusion Technique**|Kiranmayee Janardhan et.al.|[2502.18775](http://arxiv.org/abs/2502.18775)|null|
 |**2025-02-22**|**Pointmap Association and Piecewise-Plane Constraint for Consistent and Compact 3D Gaussian Segmentation Field**|Wenhao Hu et.al.|[2502.16303](http://arxiv.org/abs/2502.16303)|null|
 |**2025-02-20**|**Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing**|Yoel Levy et.al.|[2502.14789](http://arxiv.org/abs/2502.14789)|null|
@@ -63,6 +65,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Text2VDM: Text to Vector Displacement Maps for Expressive and Interactive 3D Sculpting**|Hengyu Meng et.al.|[2502.20045](http://arxiv.org/abs/2502.20045)|null|
+|**2025-02-27**|**GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors**|An Li et.al.|[2502.19896](http://arxiv.org/abs/2502.19896)|null|
 |**2025-02-24**|**Evidence for Low Universal Equilibrium Black Hole Spin in Luminous Magnetically Arrested Disks**|Beverly Lowell et.al.|[2502.17559](http://arxiv.org/abs/2502.17559)|null|
 |**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|**[link](https://github.com/claim-berlin/relict)**|
 |**2025-02-25**|**Evolution 6.0: Evolving Robotic Capabilities Through Generative Design**|Muhammad Haris Khan et.al.|[2502.17034](http://arxiv.org/abs/2502.17034)|null|
@@ -388,9 +392,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**No Parameters, No Problem: 3D Gaussian Splatting without Camera Intrinsics and Extrinsics**|Dongbo Shi et.al.|[2502.19800](http://arxiv.org/abs/2502.19800)|null|
+|**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
+|**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
 |**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
-|**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
+|**2025-02-27**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
 |**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou et.al.|[2502.17531](http://arxiv.org/abs/2502.17531)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377](http://arxiv.org/abs/2502.17377)|null|
 |**2025-02-24**|**VR-Pipe: Streamlining Hardware Graphics Pipeline for Volume Rendering**|Junseo Lee et.al.|[2502.17078](http://arxiv.org/abs/2502.17078)|null|
@@ -1072,6 +1079,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-27**|**FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**|Sotiris Anagnostidis et.al.|[2502.20126](http://arxiv.org/abs/2502.20126)|null|
+|**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868](http://arxiv.org/abs/2502.19868)|null|
+|**2025-02-26**|**FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**|Lingzhou Mu et.al.|[2502.19455](http://arxiv.org/abs/2502.19455)|null|
+|**2025-02-26**|**TransVDM: Motion-Constrained Video Diffusion Model for Transparent Video Synthesis**|Menghao Li et.al.|[2502.19454](http://arxiv.org/abs/2502.19454)|null|
 |**2025-02-25**|**SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**|Jintao Zhang et.al.|[2502.18137](http://arxiv.org/abs/2502.18137)|**[link](https://github.com/thu-ml/spargeattn)**|
 |**2025-02-25**|**ASurvey: Spatiotemporal Consistency in Video Generation**|Zhiyu Yin et.al.|[2502.17863](http://arxiv.org/abs/2502.17863)|null|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
