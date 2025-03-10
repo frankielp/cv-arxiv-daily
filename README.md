@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**HexPlane Representation for 3D Semantic Scene Understanding**|Zeren Chen et.al.|[2503.05127](http://arxiv.org/abs/2503.05127)|null|
 |**2025-03-03**|**OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging**|Yijie Tang et.al.|[2503.01309](http://arxiv.org/abs/2503.01309)|null|
 |**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
 |**2025-02-27**|**Deep Learning-Based Approach for Automatic 2D and 3D MRI Segmentation of Gliomas**|Kiranmayee Janardhan et.al.|[2502.19760](http://arxiv.org/abs/2502.19760)|null|
@@ -78,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Decay of solutions of nonlinear Dirac equations**|Sebastian Herr et.al.|[2503.05410](http://arxiv.org/abs/2503.05410)|null|
 |**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
 |**2025-03-03**|**On the behavior of the Generalized Alignment Index (GALI) method for dissipative systems**|Henok Tenaw Moges et.al.|[2503.01784](http://arxiv.org/abs/2503.01784)|null|
 |**2025-03-03**|**The Interplay between Dust Dynamics and Turbulence Induced by the Vertical Shear Instability**|Pinghui Huang et.al.|[2503.01656](http://arxiv.org/abs/2503.01656)|null|
@@ -414,6 +416,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Free Your Hands: Lightweight Relightable Turntable Capture Pipeline**|Jiahui Fan et.al.|[2503.05511](http://arxiv.org/abs/2503.05511)|null|
+|**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
+|**2025-03-07**|**Self-Modeling Robots by Photographing**|Kejun Hu et.al.|[2503.05398](http://arxiv.org/abs/2503.05398)|null|
+|**2025-03-07**|**CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images**|Jungho Lee et.al.|[2503.05332](http://arxiv.org/abs/2503.05332)|null|
+|**2025-03-07**|**STGA: Selective-Training Gaussian Head Avatars**|Hanzhi Guo et.al.|[2503.05196](http://arxiv.org/abs/2503.05196)|null|
+|**2025-03-07**|**MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions**|Qingyuan Zhou et.al.|[2503.05182](http://arxiv.org/abs/2503.05182)|null|
+|**2025-03-07**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174](http://arxiv.org/abs/2503.05174)|null|
+|**2025-03-07**|**SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting**|Xiaotong Huang et.al.|[2503.05168](http://arxiv.org/abs/2503.05168)|null|
+|**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|null|
+|**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
 |**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314](http://arxiv.org/abs/2503.04314)|null|
 |**2025-03-06**|**Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting**|Shuojue Yang et.al.|[2503.04082](http://arxiv.org/abs/2503.04082)|null|
 |**2025-03-06**|**Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details**|Yifei Gao et.al.|[2503.04037](http://arxiv.org/abs/2503.04037)|null|
@@ -1120,6 +1132,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio**|Xuenan Xu et.al.|[2503.05242](http://arxiv.org/abs/2503.05242)|null|
+|**2025-03-07**|**Unified Reward Model for Multimodal Understanding and Generation**|Yibin Wang et.al.|[2503.05236](http://arxiv.org/abs/2503.05236)|null|
+|**2025-03-06**|**Toward Lightweight and Fast Decoders for Diffusion Models in Image and Video Generation**|Alexey Buzovkin et.al.|[2503.04871](http://arxiv.org/abs/2503.04871)|null|
 |**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720](http://arxiv.org/abs/2503.04720)|null|
 |**2025-03-06**|**What Are You Doing? A Closer Look at Controllable Human Video Generation**|Emanuele Bugliarello et.al.|[2503.04666](http://arxiv.org/abs/2503.04666)|null|
 |**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
