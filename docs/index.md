@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -51,6 +51,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts**|Shiu-hong Kao et.al.|[2503.07503](http://arxiv.org/abs/2503.07503)|null|
 |**2025-03-09**|**InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**|Yuchen Yan et.al.|[2503.06692](http://arxiv.org/abs/2503.06692)|null|
 |**2025-03-09**|**Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement**|Yuqi Liu et.al.|[2503.06520](http://arxiv.org/abs/2503.06520)|**[link](https://github.com/dvlab-research/Seg-Zero)**|
 |**2025-03-04**|**UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface**|Hao Tang et.al.|[2503.01342](http://arxiv.org/abs/2503.01342)|**[link](https://github.com/nnnth/UFO)**|
@@ -1137,7 +1138,7 @@ layout: default
 |**2025-03-09**|**VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation**|Hritik Bansal et.al.|[2503.06800](http://arxiv.org/abs/2503.06800)|null|
 |**2025-03-09**|**TR-DQ: Time-Rotation Diffusion Quantization**|Yihua Shao et.al.|[2503.06564](http://arxiv.org/abs/2503.06564)|null|
 |**2025-03-09**|**QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation**|Junyi Wu et.al.|[2503.06545](http://arxiv.org/abs/2503.06545)|null|
-|**2025-03-09**|**A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|null|
+|**2025-03-11**|**LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|null|
 |**2025-03-09**|**Generative Video Bi-flow**|Chen Liu et.al.|[2503.06364](http://arxiv.org/abs/2503.06364)|null|
 |**2025-03-08**|**Text2Story: Advancing Video Storytelling with Text Guidance**|Taewon Kang et.al.|[2503.06310](http://arxiv.org/abs/2503.06310)|null|
 |**2025-03-08**|**Object-Centric World Model for Language-Guided Manipulation**|Youngjoon Jeong et.al.|[2503.06170](http://arxiv.org/abs/2503.06170)|null|
