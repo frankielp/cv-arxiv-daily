@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -58,7 +58,7 @@
 |**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972](http://arxiv.org/abs/2412.10972)|**[link](https://github.com/lusxvr/dcseg)**|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## Reasoning Segmentation
 
@@ -66,7 +66,7 @@
 |---|---|---|---|---|
 |**2025-03-11**|**TSCnet: A Text-driven Semantic-level Controllable Framework for Customized Low-Light Image Enhancement**|Miao Zhang et.al.|[2503.08168](http://arxiv.org/abs/2503.08168)|null|
 |**2025-03-10**|**Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts**|Shiu-hong Kao et.al.|[2503.07503](http://arxiv.org/abs/2503.07503)|null|
-|**2025-03-09**|**InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**|Yuchen Yan et.al.|[2503.06692](http://arxiv.org/abs/2503.06692)|null|
+|**2025-03-13**|**InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**|Yuchen Yan et.al.|[2503.06692](http://arxiv.org/abs/2503.06692)|null|
 |**2025-03-09**|**Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement**|Yuqi Liu et.al.|[2503.06520](http://arxiv.org/abs/2503.06520)|**[link](https://github.com/dvlab-research/Seg-Zero)**|
 |**2025-03-04**|**UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface**|Hao Tang et.al.|[2503.01342](http://arxiv.org/abs/2503.01342)|**[link](https://github.com/nnnth/UFO)**|
 |**2025-02-13**|**Pixel-Level Reasoning Segmentation via Multi-turn Conversations**|Dexian Cai et.al.|[2502.09447](http://arxiv.org/abs/2502.09447)|**[link](https://github.com/ccccai239/pixelrist)**|
@@ -81,13 +81,13 @@
 |**2024-09-20**|**Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model**|Li Zhou et.al.|[2409.13407](http://arxiv.org/abs/2409.13407)|**[link](https://github.com/lizhou-cs/mglmm)**|
 |**2025-02-10**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## 3D Generative
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601](http://arxiv.org/abs/2503.09601)|null|
+|**2025-03-13**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601](http://arxiv.org/abs/2503.09601)|null|
 |**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|null|
 |**2025-03-12**|**CDI3D: Cross-guided Dense-view Interpolation for 3D Reconstruction**|Zhiyuan Wu et.al.|[2503.08005](http://arxiv.org/abs/2503.08005)|null|
 |**2025-03-10**|**DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation**|Xiaoliang Ju et.al.|[2503.06900](http://arxiv.org/abs/2503.06900)|null|
@@ -424,7 +424,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -438,7 +438,7 @@
 |**2025-03-11**|**S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction**|Guangting Zheng et.al.|[2503.08217](http://arxiv.org/abs/2503.08217)|null|
 |**2025-03-11**|**Dynamic Scene Reconstruction: Recent Advance in Real-time Rendering and Streaming**|Jiaxuan Zhu et.al.|[2503.08166](http://arxiv.org/abs/2503.08166)|null|
 |**2025-03-11**|**ArticulatedGS: Self-supervised Digital Twin Modeling of Articulated Objects using 3D Gaussian Splatting**|Junfu Guo et.al.|[2503.08135](http://arxiv.org/abs/2503.08135)|null|
-|**2025-03-11**|**MVGSR: Multi-View Consistency Gaussian Splatting for Robust Surface Reconstruction**|Chenfeng Hou et.al.|[2503.08093](http://arxiv.org/abs/2503.08093)|null|
+|**2025-03-13**|**MVGSR: Multi-View Consistency Gaussian Splatting for Robust Surface Reconstruction**|Chenfeng Hou et.al.|[2503.08093](http://arxiv.org/abs/2503.08093)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
 |**2025-03-11**|**7DGS: Unified Spatial-Temporal-Angular Gaussian Splatting**|Zhongpai Gao et.al.|[2503.07946](http://arxiv.org/abs/2503.07946)|null|
 |**2025-03-10**|**POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**|Joey Wilson et.al.|[2503.07819](http://arxiv.org/abs/2503.07819)|null|
@@ -1162,7 +1162,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -1171,7 +1171,7 @@
 |**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
 |**2025-03-12**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344](http://arxiv.org/abs/2503.09344)|null|
 |**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[2503.09215](http://arxiv.org/abs/2503.09215)|null|
-|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160](http://arxiv.org/abs/2503.09160)|null|
+|**2025-03-13**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160](http://arxiv.org/abs/2503.09160)|null|
 |**2025-03-12**|**Reangle-A-Video: 4D Video Generation as Video-to-Video Translation**|Hyeonho Jeong et.al.|[2503.09151](http://arxiv.org/abs/2503.09151)|null|
 |**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
 |**2025-03-11**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**|Subin Kim et.al.|[2503.08605](http://arxiv.org/abs/2503.08605)|null|
@@ -1904,7 +1904,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
