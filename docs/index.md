@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -86,7 +86,7 @@ layout: default
 |**2025-03-09**|**A Mesh Is Worth 512 Numbers: Spectral-domain Diffusion Modeling for High-dimension Shape Generation**|Jiajie Fan et.al.|[2503.06485](http://arxiv.org/abs/2503.06485)|null|
 |**2025-03-08**|**GSV3D: Gaussian Splatting-based Geometric Distillation with Stable Video Diffusion for Single-Image 3D Object Generation**|Ye Tao et.al.|[2503.06136](http://arxiv.org/abs/2503.06136)|null|
 |**2025-03-07**|**Decay of solutions of nonlinear Dirac equations**|Sebastian Herr et.al.|[2503.05410](http://arxiv.org/abs/2503.05410)|null|
-|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
+|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|**[link](https://github.com/aleeehu/world-simulator)**|
 |**2025-03-03**|**On the behavior of the Generalized Alignment Index (GALI) method for dissipative systems**|Henok Tenaw Moges et.al.|[2503.01784](http://arxiv.org/abs/2503.01784)|null|
 |**2025-03-03**|**The Interplay between Dust Dynamics and Turbulence Induced by the Vertical Shear Instability**|Pinghui Huang et.al.|[2503.01656](http://arxiv.org/abs/2503.01656)|null|
 |**2025-03-03**|**Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation**|Jiantao Lin et.al.|[2503.01370](http://arxiv.org/abs/2503.01370)|**[link](https://github.com/EnVision-Research/Kiss3DGen)**|
