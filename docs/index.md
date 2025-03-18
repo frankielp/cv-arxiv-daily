@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation**|Yanlin Xiang et.al.|[2503.12853](http://arxiv.org/abs/2503.12853)|null|
 |**2025-03-12**|**QuickDraw: Fast Visualization, Analysis and Active Learning for Medical Image Segmentation**|Daniel Syomichev et.al.|[2503.09885](http://arxiv.org/abs/2503.09885)|**[link](https://github.com/qd-seg/quickdraw)**|
-|**2025-03-11**|**WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images**|Yansong Guo et.al.|[2503.08407](http://arxiv.org/abs/2503.08407)|null|
+|**2025-03-17**|**WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images**|Yansong Guo et.al.|[2503.08407](http://arxiv.org/abs/2503.08407)|null|
 |**2025-03-11**|**nnInteractive: Redefining 3D Promptable Segmentation**|Fabian Isensee et.al.|[2503.08373](http://arxiv.org/abs/2503.08373)|**[link](https://github.com/mic-dkfz/nninteractive)**|
 |**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
 |**2025-03-10**|**SegResMamba: An Efficient Architecture for 3D Medical Image Segmentation**|Badhan Kumar Das et.al.|[2503.07766](http://arxiv.org/abs/2503.07766)|null|
@@ -78,6 +79,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439](http://arxiv.org/abs/2503.13439)|null|
+|**2025-03-16**|**VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting**|Songen Gu et.al.|[2503.12383](http://arxiv.org/abs/2503.12383)|null|
+|**2025-03-15**|**DecompDreamer: Advancing Structured 3D Asset Generation with Multi-Object Decomposition and Gaussian Splatting**|Utkarsh Nath et.al.|[2503.11981](http://arxiv.org/abs/2503.11981)|null|
 |**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368](http://arxiv.org/abs/2503.11368)|null|
 |**2025-03-08**|**Text-to-3D Generation using Jensen-Shannon Score Distillation**|Khoi Do et.al.|[2503.10660](http://arxiv.org/abs/2503.10660)|null|
 |**2025-03-13**|**Hyper3D: Efficient 3D Representation via Hybrid Triplane and Octree Feature for Enhanced 3D Shape Variational Auto-Encoders**|Jingyu Guo et.al.|[2503.10403](http://arxiv.org/abs/2503.10403)|null|
@@ -422,6 +426,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
+|**2025-03-17**|**CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.12862](http://arxiv.org/abs/2503.12862)|null|
+|**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
+|**2025-03-17**|**AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**|Hadam Baek et.al.|[2503.12806](http://arxiv.org/abs/2503.12806)|null|
+|**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535](http://arxiv.org/abs/2503.12535)|null|
+|**2025-03-16**|**VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting**|Songen Gu et.al.|[2503.12383](http://arxiv.org/abs/2503.12383)|null|
+|**2025-03-16**|**GS-3I: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images**|Tengfei Wang et.al.|[2503.12335](http://arxiv.org/abs/2503.12335)|null|
+|**2025-03-16**|**Swift4D:Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene**|Jiahao Wu et.al.|[2503.12307](http://arxiv.org/abs/2503.12307)|null|
+|**2025-03-15**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001](http://arxiv.org/abs/2503.12001)|null|
+|**2025-03-15**|**DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes**|Runfa Blark Li et.al.|[2503.11979](http://arxiv.org/abs/2503.11979)|null|
 |**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601](http://arxiv.org/abs/2503.11601)|null|
 |**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345](http://arxiv.org/abs/2503.11345)|null|
 |**2025-03-14**|**Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**|Zhen Tan et.al.|[2503.11172](http://arxiv.org/abs/2503.11172)|null|
@@ -1167,6 +1181,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953](http://arxiv.org/abs/2503.12953)|null|
+|**2025-03-17**|**AUTV: Creating Underwater Video Datasets with Pixel-wise Annotations**|Quang Trung Truong et.al.|[2503.12828](http://arxiv.org/abs/2503.12828)|null|
+|**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535](http://arxiv.org/abs/2503.12535)|null|
+|**2025-03-15**|**A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI**|Paula Andrea Pérez-Toro et.al.|[2503.12102](http://arxiv.org/abs/2503.12102)|null|
+|**2025-03-15**|**SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering**|Byeongjun Park et.al.|[2503.12024](http://arxiv.org/abs/2503.12024)|**[link](https://github.com/byeongjun-park/SteerX)**|
 |**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647](http://arxiv.org/abs/2503.11647)|null|
 |**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
 |**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
