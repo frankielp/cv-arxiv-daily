@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -62,13 +62,13 @@
 |**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972](http://arxiv.org/abs/2412.10972)|**[link](https://github.com/lusxvr/dcseg)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Reasoning Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
+|**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation**|Donggon Jang et.al.|[2503.13881](http://arxiv.org/abs/2503.13881)|**[link](https://github.com/jdg900/mmr)**|
 |**2025-03-13**|**Unveiling the Invisible: Reasoning Complex Occlusions Amodally with AURA**|Zhixuan Li et.al.|[2503.10225](http://arxiv.org/abs/2503.10225)|null|
 |**2025-03-11**|**TSCnet: A Text-driven Semantic-level Controllable Framework for Customized Low-Light Image Enhancement**|Miao Zhang et.al.|[2503.08168](http://arxiv.org/abs/2503.08168)|null|
@@ -88,7 +88,7 @@
 |**2024-09-20**|**Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model**|Li Zhou et.al.|[2409.13407](http://arxiv.org/abs/2409.13407)|**[link](https://github.com/lizhou-cs/mglmm)**|
 |**2025-02-10**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -438,7 +438,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -1200,14 +1200,14 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Text-to-Video
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
-|**2025-03-19**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
+|**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation**|Hongyu Zhang et.al.|[2503.14428](http://arxiv.org/abs/2503.14428)|null|
 |**2025-03-18**|**Impossible Videos**|Zechen Bai et.al.|[2503.14378](http://arxiv.org/abs/2503.14378)|null|
@@ -1971,7 +1971,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -59,7 +59,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
+|**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation**|Donggon Jang et.al.|[2503.13881](http://arxiv.org/abs/2503.13881)|**[link](https://github.com/jdg900/mmr)**|
 |**2025-03-13**|**Unveiling the Invisible: Reasoning Complex Occlusions Amodally with AURA**|Zhixuan Li et.al.|[2503.10225](http://arxiv.org/abs/2503.10225)|null|
 |**2025-03-11**|**TSCnet: A Text-driven Semantic-level Controllable Framework for Customized Low-Light Image Enhancement**|Miao Zhang et.al.|[2503.08168](http://arxiv.org/abs/2503.08168)|null|
@@ -1192,7 +1192,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
-|**2025-03-19**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
+|**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation**|Hongyu Zhang et.al.|[2503.14428](http://arxiv.org/abs/2503.14428)|null|
 |**2025-03-18**|**Impossible Videos**|Zechen Bai et.al.|[2503.14378](http://arxiv.org/abs/2503.14378)|null|
