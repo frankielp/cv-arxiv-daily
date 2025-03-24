@@ -85,8 +85,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420](http://arxiv.org/abs/2503.16420)|null|
-|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|null|
-|**2025-03-21**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|null|
+|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|**[link](https://github.com/tencent/flashvdm)**|
+|**2025-03-21**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|**[link](https://github.com/dptech-corp/uni-3dar)**|
 |**2025-03-20**|**Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation**|Tiange Xiang et.al.|[2503.15877](http://arxiv.org/abs/2503.15877)|null|
 |**2025-03-19**|**Shap-MeD**|Nicolás Laverde et.al.|[2503.15562](http://arxiv.org/abs/2503.15562)|null|
 |**2025-03-18**|**MeshFleet: Filtered and Annotated 3D Vehicle Dataset for Domain Specific Generative Modeling**|Damian Boborzi et.al.|[2503.14002](http://arxiv.org/abs/2503.14002)|**[link](https://github.com/FeMa42/MeshFleet)**|
@@ -437,7 +437,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
+|**2025-03-21**|**TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**|Jianchuan Chen et.al.|[2503.17032](http://arxiv.org/abs/2503.17032)|null|
+|**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
+|**2025-03-21**|**Optimized Minimal 3D Gaussian Splatting**|Joo Chan Lee et.al.|[2503.16924](http://arxiv.org/abs/2503.16924)|null|
+|**2025-03-20**|**SAGE: Semantic-Driven Adaptive Gaussian Splatting in Extended Reality**|Chiara Schiavo et.al.|[2503.16747](http://arxiv.org/abs/2503.16747)|null|
+|**2025-03-20**|**GauRast: Enhancing GPU Triangle Rasterizers to Accelerate 3D Gaussian Splatting**|Sixu Li et.al.|[2503.16681](http://arxiv.org/abs/2503.16681)|null|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|**[link](https://github.com/maureenzou/m3-spatial)**|
 |**2025-03-20**|**Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images**|Shengjun Zhang et.al.|[2503.16338](http://arxiv.org/abs/2503.16338)|null|
 |**2025-03-20**|**OccluGaussian: Occlusion-Aware Gaussian Splatting for Large Scene Reconstruction and Rendering**|Shiyong Liu et.al.|[2503.16177](http://arxiv.org/abs/2503.16177)|null|
 |**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
@@ -1203,12 +1208,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
+|**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359](http://arxiv.org/abs/2503.17359)|null|
+|**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
+|**2025-03-21**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
+|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|**[link](https://github.com/mit-han-lab/x-attention)**|
 |**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421](http://arxiv.org/abs/2503.16421)|null|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
 |**2025-03-20**|**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**|Longbin Ji et.al.|[2503.16068](http://arxiv.org/abs/2503.16068)|null|
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
-|**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[2503.15875](http://arxiv.org/abs/2503.15875)|null|
+|**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[2503.15875](http://arxiv.org/abs/2503.15875)|**[link](https://github.com/xiaomi-mlab/mila.github.io)**|
 |**2025-03-20**|**VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling**|Hyojun Go et.al.|[2503.15855](http://arxiv.org/abs/2503.15855)|null|
 |**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
 |**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
