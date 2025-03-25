@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|null|
+|**2025-03-24**|**ZECO: ZeroFusion Guided 3D MRI Conditional Generation**|Feiran Wang et.al.|[2503.18246](http://arxiv.org/abs/2503.18246)|null|
+|**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073](http://arxiv.org/abs/2503.18073)|null|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-18**|**Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**|Runsong Zhu et.al.|[2503.14029](http://arxiv.org/abs/2503.14029)|**[link](https://github.com/runsong123/unified-lift)**|
@@ -69,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation**|Jiaxin Huang et.al.|[2503.18135](http://arxiv.org/abs/2503.18135)|null|
 |**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation**|Donggon Jang et.al.|[2503.13881](http://arxiv.org/abs/2503.13881)|**[link](https://github.com/jdg900/mmr)**|
 |**2025-03-13**|**Unveiling the Invisible: Reasoning Complex Occlusions Amodally with AURA**|Zhixuan Li et.al.|[2503.10225](http://arxiv.org/abs/2503.10225)|null|
@@ -95,6 +99,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**MuMA: 3D PBR Texturing via Multi-Channel Multi-View Generation and Agentic Post-Processing**|Lingting Zhu et.al.|[2503.18461](http://arxiv.org/abs/2503.18461)|null|
+|**2025-03-23**|**Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook**|Xu Zheng et.al.|[2503.18016](http://arxiv.org/abs/2503.18016)|null|
 |**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420](http://arxiv.org/abs/2503.16420)|null|
 |**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|**[link](https://github.com/tencent/flashvdm)**|
 |**2025-03-21**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|**[link](https://github.com/dptech-corp/uni-3dar)**|
@@ -450,6 +456,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
+|**2025-03-24**|**GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting**|Lijiang Li et.al.|[2503.18718](http://arxiv.org/abs/2503.18718)|null|
+|**2025-03-24**|**Hardware-Rasterized Ray-Based Gaussian Splatting**|Samuel Rota Bulò et.al.|[2503.18682](http://arxiv.org/abs/2503.18682)|null|
+|**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640](http://arxiv.org/abs/2503.18640)|null|
+|**2025-03-24**|**StableGS: A Floater-Free Framework for 3D Gaussian Splatting**|Luchao Wang et.al.|[2503.18458](http://arxiv.org/abs/2503.18458)|null|
+|**2025-03-24**|**4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video**|Qiang Hu et.al.|[2503.18421](http://arxiv.org/abs/2503.18421)|null|
+|**2025-03-24**|**DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds**|Youyu Chen et.al.|[2503.18402](http://arxiv.org/abs/2503.18402)|null|
+|**2025-03-24**|**GI-SLAM: Gaussian-Inertial SLAM**|Xulang Liu et.al.|[2503.18275](http://arxiv.org/abs/2503.18275)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
+|**2025-03-23**|**PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding**|Hongjia Zhai et.al.|[2503.18107](http://arxiv.org/abs/2503.18107)|null|
 |**2025-03-21**|**TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**|Jianchuan Chen et.al.|[2503.17032](http://arxiv.org/abs/2503.17032)|null|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-21**|**Optimized Minimal 3D Gaussian Splatting**|Joo Chan Lee et.al.|[2503.16924](http://arxiv.org/abs/2503.16924)|null|
@@ -1223,6 +1239,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
+|**2025-03-24**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
+|**2025-03-24**|**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**|Qiang Qu et.al.|[2503.18552](http://arxiv.org/abs/2503.18552)|null|
+|**2025-03-24**|**Can Text-to-Video Generation help Video-Language Alignment?**|Luca Zanella et.al.|[2503.18507](http://arxiv.org/abs/2503.18507)|null|
+|**2025-03-24**|**Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation**|Dingcheng Zhen et.al.|[2503.18429](http://arxiv.org/abs/2503.18429)|null|
+|**2025-03-24**|**Resource-Efficient Motion Control for Video Generation via Dynamic Mask Guidance**|Sicong Feng et.al.|[2503.18386](http://arxiv.org/abs/2503.18386)|null|
+|**2025-03-23**|**LongDiff: Training-Free Long Video Generation in One Go**|Zhuoling Li et.al.|[2503.18150](http://arxiv.org/abs/2503.18150)|null|
+|**2025-03-23**|**TransAnimate: Taming Layer Diffusion to Generate RGBA Video**|Xuewei Chen et.al.|[2503.17934](http://arxiv.org/abs/2503.17934)|null|
 |**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359](http://arxiv.org/abs/2503.17359)|null|
 |**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
 |**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
