@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -99,8 +99,8 @@ layout: default
 |**2025-03-28**|**CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**|Yishen Ji et.al.|[2503.22231](http://arxiv.org/abs/2503.22231)|null|
 |**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
 |**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](http://arxiv.org/abs/2503.21694)|**[link](https://github.com/theericma/triplaneturbo)**|
-|**2025-03-27**|**GenFusion: Closing the Loop between Reconstruction and Generation via Videos**|Sibo Wu et.al.|[2503.21219](http://arxiv.org/abs/2503.21219)|null|
-|**2025-03-26**|**FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**|Jinwei Li et.al.|[2503.20784](http://arxiv.org/abs/2503.20784)|null|
+|**2025-03-29**|**GenFusion: Closing the Loop between Reconstruction and Generation via Videos**|Sibo Wu et.al.|[2503.21219](http://arxiv.org/abs/2503.21219)|null|
+|**2025-03-26**|**FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**|Jinwei Li et.al.|[2503.20784](http://arxiv.org/abs/2503.20784)|**[link](https://github.com/dufengfeng/FB-4D)**|
 |**2025-03-27**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519](http://arxiv.org/abs/2503.20519)|null|
 |**2025-03-24**|**MuMA: 3D PBR Texturing via Multi-Channel Multi-View Generation and Agentic Post-Processing**|Lingting Zhu et.al.|[2503.18461](http://arxiv.org/abs/2503.18461)|null|
 |**2025-03-23**|**Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook**|Xu Zheng et.al.|[2503.18016](http://arxiv.org/abs/2503.18016)|null|
@@ -461,9 +461,9 @@ layout: default
 |**2025-03-28**|**AH-GS: Augmented 3D Gaussian Splatting for High-Frequency Detail Representation**|Chenyang Xu et.al.|[2503.22324](http://arxiv.org/abs/2503.22324)|null|
 |**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225](http://arxiv.org/abs/2503.22225)|null|
 |**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218](http://arxiv.org/abs/2503.22218)|null|
-|**2025-03-28**|**Disentangled 4D Gaussian Splatting: Towards Faster and More Efficient Dynamic Scene Rendering**|Hao Feng et.al.|[2503.22159](http://arxiv.org/abs/2503.22159)|null|
+|**2025-03-31**|**Disentangled 4D Gaussian Splatting: Towards Faster and More Efficient Dynamic Scene Rendering**|Hao Feng et.al.|[2503.22159](http://arxiv.org/abs/2503.22159)|null|
 |**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767](http://arxiv.org/abs/2503.21767)|null|
-|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
+|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-27**|**Frequency-Aware Gaussian Splatting Decomposition**|Yishai Lavi et.al.|[2503.21226](http://arxiv.org/abs/2503.21226)|null|
 |**2025-03-26**|**PGC: Physics-Based Gaussian Cloth from a Single Pose**|Michelle Guo et.al.|[2503.20779](http://arxiv.org/abs/2503.20779)|null|
 |**2025-03-26**|**TC-GS: Tri-plane based compression for 3D Gaussian Splatting**|Taorui Wang et.al.|[2503.20221](http://arxiv.org/abs/2503.20221)|**[link](https://github.com/timwang2001/tc-gs)**|
