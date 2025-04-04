@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -72,7 +72,7 @@
 |**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972](http://arxiv.org/abs/2412.10972)|**[link](https://github.com/lusxvr/dcseg)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Reasoning Segmentation
 
@@ -102,7 +102,7 @@
 |**2024-09-20**|**Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model**|Li Zhou et.al.|[2409.13407](http://arxiv.org/abs/2409.13407)|**[link](https://github.com/lizhou-cs/mglmm)**|
 |**2025-02-10**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -110,7 +110,7 @@
 |---|---|---|---|---|
 |**2025-04-02**|**3DBonsai: Structure-Aware Bonsai Modeling Using Conditioned 3D Gaussian Splatting**|Hao Wu et.al.|[2504.01619](http://arxiv.org/abs/2504.01619)|null|
 |**2025-04-02**|**High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model**|Yiyang Shen et.al.|[2504.01512](http://arxiv.org/abs/2504.01512)|null|
-|**2025-04-02**|**Distilling Multi-view Diffusion Models into 3D Generators**|Hao Qin et.al.|[2504.00457](http://arxiv.org/abs/2504.00457)|null|
+|**2025-04-03**|**Distilling Multi-view Diffusion Models into 3D Generators**|Hao Qin et.al.|[2504.00457](http://arxiv.org/abs/2504.00457)|null|
 |**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
 |**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677](http://arxiv.org/abs/2503.22677)|null|
 |**2025-03-28**|**Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere**|Isaac Malsky et.al.|[2503.22608](http://arxiv.org/abs/2503.22608)|null|
@@ -471,7 +471,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -1292,13 +1292,13 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Text-to-Video
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-01**|**WorldScore: A Unified Evaluation Benchmark for World Generation**|Haoyi Duan et.al.|[2504.00983](http://arxiv.org/abs/2504.00983)|null|
 |**2025-04-01**|**DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding**|Chong Li et.al.|[2504.00432](http://arxiv.org/abs/2504.00432)|null|
 |**2025-03-31**|**GazeLLM: Multimodal LLMs incorporating Human Visual Attention**|Jun Rekimoto et.al.|[2504.00221](http://arxiv.org/abs/2504.00221)|null|
@@ -2123,7 +2123,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

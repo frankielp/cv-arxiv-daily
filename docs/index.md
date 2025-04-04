@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -99,7 +99,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-02**|**3DBonsai: Structure-Aware Bonsai Modeling Using Conditioned 3D Gaussian Splatting**|Hao Wu et.al.|[2504.01619](http://arxiv.org/abs/2504.01619)|null|
 |**2025-04-02**|**High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model**|Yiyang Shen et.al.|[2504.01512](http://arxiv.org/abs/2504.01512)|null|
-|**2025-04-02**|**Distilling Multi-view Diffusion Models into 3D Generators**|Hao Qin et.al.|[2504.00457](http://arxiv.org/abs/2504.00457)|null|
+|**2025-04-03**|**Distilling Multi-view Diffusion Models into 3D Generators**|Hao Qin et.al.|[2504.00457](http://arxiv.org/abs/2504.00457)|null|
 |**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
 |**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677](http://arxiv.org/abs/2503.22677)|null|
 |**2025-03-28**|**Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere**|Isaac Malsky et.al.|[2503.22608](http://arxiv.org/abs/2503.22608)|null|
@@ -1283,7 +1283,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-01**|**WorldScore: A Unified Evaluation Benchmark for World Generation**|Haoyi Duan et.al.|[2504.00983](http://arxiv.org/abs/2504.00983)|null|
 |**2025-04-01**|**DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding**|Chong Li et.al.|[2504.00432](http://arxiv.org/abs/2504.00432)|null|
 |**2025-03-31**|**GazeLLM: Multimodal LLMs incorporating Human Visual Attention**|Jun Rekimoto et.al.|[2504.00221](http://arxiv.org/abs/2504.00221)|null|
