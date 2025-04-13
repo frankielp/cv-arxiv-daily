@@ -101,7 +101,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-09**|**Objaverse++: Curated 3D Object Dataset with Quality Annotations**|Chendi Lin et.al.|[2504.07334](http://arxiv.org/abs/2504.07334)|null|
 |**2025-04-10**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|Xin Sun et.al.|[2504.06598](http://arxiv.org/abs/2504.06598)|null|
-|**2025-04-05**|**Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization**|Yikai Wang et.al.|[2504.04153](http://arxiv.org/abs/2504.04153)|null|
+|**2025-04-05**|**Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization**|Yikai Wang et.al.|[2504.04153](http://arxiv.org/abs/2504.04153)|**[link](https://github.com/yikaiw/vidu4d)**|
 |**2025-04-04**|**D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**|Antoine Dumoulin et.al.|[2504.03468](http://arxiv.org/abs/2504.03468)|null|
 |**2025-04-03**|**Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization**|Kangle Deng et.al.|[2504.02817](http://arxiv.org/abs/2504.02817)|null|
 |**2025-04-03**|**ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation**|Yuan Zhou et.al.|[2504.02316](http://arxiv.org/abs/2504.02316)|**[link](https://github.com/GAInuist/ConsDreamer)**|
