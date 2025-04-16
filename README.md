@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -77,7 +77,7 @@
 |**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972](http://arxiv.org/abs/2412.10972)|**[link](https://github.com/lusxvr/dcseg)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Reasoning Segmentation
 
@@ -107,7 +107,7 @@
 |**2024-09-20**|**Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model**|Li Zhou et.al.|[2409.13407](http://arxiv.org/abs/2409.13407)|**[link](https://github.com/lizhou-cs/mglmm)**|
 |**2025-02-10**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -115,12 +115,12 @@
 |---|---|---|---|---|
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466](http://arxiv.org/abs/2504.10466)|null|
 |**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316](http://arxiv.org/abs/2504.10316)|null|
-|**2025-04-14**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
+|**2025-04-15**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
 |**2025-04-11**|**GeoTexBuild: 3D Building Model Generation from Map Footprints**|Ruizhe Wang et.al.|[2504.08419](http://arxiv.org/abs/2504.08419)|null|
 |**2025-04-11**|**Generative AI for Film Creation: A Survey of Recent Advances**|Ruihan Zhang et.al.|[2504.08296](http://arxiv.org/abs/2504.08296)|null|
 |**2025-04-10**|**Gen3DEval: Using vLLMs for Automatic Evaluation of Generated 3D Objects**|Shalini Maiti et.al.|[2504.08125](http://arxiv.org/abs/2504.08125)|null|
-|**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|null|
-|**2025-04-11**|**Objaverse++: Curated 3D Object Dataset with Quality Annotations**|Chendi Lin et.al.|[2504.07334](http://arxiv.org/abs/2504.07334)|null|
+|**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|**[link](https://github.com/yanllan-ljb/contrastivegaussian)**|
+|**2025-04-11**|**Objaverse++: Curated 3D Object Dataset with Quality Annotations**|Chendi Lin et.al.|[2504.07334](http://arxiv.org/abs/2504.07334)|**[link](https://github.com/TCXX/ObjaversePlusPlus)**|
 |**2025-04-10**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|Xin Sun et.al.|[2504.06598](http://arxiv.org/abs/2504.06598)|null|
 |**2025-04-05**|**Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization**|Yikai Wang et.al.|[2504.04153](http://arxiv.org/abs/2504.04153)|**[link](https://github.com/yikaiw/vidu4d)**|
 |**2025-04-04**|**D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**|Antoine Dumoulin et.al.|[2504.03468](http://arxiv.org/abs/2504.03468)|null|
@@ -491,20 +491,20 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
+|**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting**|Yufei Deng et.al.|[2504.10012](http://arxiv.org/abs/2504.10012)|null|
-|**2025-04-14**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
+|**2025-04-15**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
 |**2025-04-13**|**DropoutGS: Dropping Out Gaussians for Better Sparse-view Rendering**|Yexing Xu et.al.|[2504.09491](http://arxiv.org/abs/2504.09491)|null|
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-12**|**BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**|Jeongwan On et.al.|[2504.09097](http://arxiv.org/abs/2504.09097)|null|
 |**2025-04-12**|**You Need a Transition Plane: Bridging Continuous Panoramic 3D Reconstruction with Perspective Gaussian Splatting**|Zhijie Shen et.al.|[2504.09062](http://arxiv.org/abs/2504.09062)|null|
-|**2025-04-12**|**BlockGaussian: Efficient Large-Scale Scene NovelView Synthesis via Adaptive Block-Based Gaussian Splatting**|Yongchang Wu et.al.|[2504.09048](http://arxiv.org/abs/2504.09048)|null|
+|**2025-04-15**|**BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting**|Yongchang Wu et.al.|[2504.09048](http://arxiv.org/abs/2504.09048)|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581](http://arxiv.org/abs/2504.08581)|null|
 |**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949](http://arxiv.org/abs/2504.07949)|null|
 |**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370](http://arxiv.org/abs/2504.07370)|null|
@@ -1341,7 +1341,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -1355,7 +1355,7 @@
 |**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
 |**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-11**|**EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model**|Renda Li et.al.|[2504.08344](http://arxiv.org/abs/2504.08344)|null|
-|**2025-04-11**|**RealCam-Vid: High-resolution Video Dataset with Dynamic Scenes and Metric-scale Camera Movements**|Guangcong Zheng et.al.|[2504.08212](http://arxiv.org/abs/2504.08212)|null|
+|**2025-04-11**|**RealCam-Vid: High-resolution Video Dataset with Dynamic Scenes and Metric-scale Camera Movements**|Guangcong Zheng et.al.|[2504.08212](http://arxiv.org/abs/2504.08212)|**[link](https://github.com/zgctroy/realcam-vid)**|
 |**2025-04-11**|**TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation**|Ruineng Li et.al.|[2504.08181](http://arxiv.org/abs/2504.08181)|null|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
 |**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940](http://arxiv.org/abs/2504.07940)|null|
@@ -2207,7 +2207,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
