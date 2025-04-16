@@ -74,6 +74,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**MediSee: Reasoning-based Pixel-level Perception in Medical Images**|Qinyue Tong et.al.|[2504.11008](http://arxiv.org/abs/2504.11008)|null|
+|**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
 |**2025-04-01**|**POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation**|Lanyun Zhu et.al.|[2504.00640](http://arxiv.org/abs/2504.00640)|null|
 |**2025-03-27**|**Online Reasoning Video Segmentation with Just-in-Time Digital Twins**|Yiqing Shen et.al.|[2503.21056](http://arxiv.org/abs/2503.21056)|null|
 |**2025-03-26**|**Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins**|Yiqing Shen et.al.|[2503.21054](http://arxiv.org/abs/2503.21054)|null|
@@ -484,6 +486,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218](http://arxiv.org/abs/2504.11218)|null|
+|**2025-04-15**|**3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**|Haato Watanabe et.al.|[2504.11003](http://arxiv.org/abs/2504.11003)|null|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting**|Yufei Deng et.al.|[2504.10012](http://arxiv.org/abs/2504.10012)|null|
 |**2025-04-15**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
@@ -1332,6 +1336,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
+|**2025-04-15**|**InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation**|Yukang Lin et.al.|[2504.10905](http://arxiv.org/abs/2504.10905)|null|
+|**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
+|**2025-04-14**|**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**|Zhanbo Huang et.al.|[2504.10676](http://arxiv.org/abs/2504.10676)|null|
+|**2025-04-14**|**H3AE: High Compression, High Speed, and High Quality AutoEncoder for Video Diffusion Models**|Yushu Wu et.al.|[2504.10567](http://arxiv.org/abs/2504.10567)|null|
 |**2025-04-14**|**FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos**|Rui Chen et.al.|[2504.10358](http://arxiv.org/abs/2504.10358)|null|
 |**2025-04-14**|**Aligning Anime Video Generation with Human Feedback**|Bingwen Zhu et.al.|[2504.10044](http://arxiv.org/abs/2504.10044)|null|
 |**2025-04-14**|**EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise**|Chao Liu et.al.|[2504.09789](http://arxiv.org/abs/2504.09789)|null|
