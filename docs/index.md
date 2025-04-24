@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -75,7 +75,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704](http://arxiv.org/abs/2504.12704)|null|
-|**2025-04-15**|**MediSee: Reasoning-based Pixel-level Perception in Medical Images**|Qinyue Tong et.al.|[2504.11008](http://arxiv.org/abs/2504.11008)|null|
+|**2025-04-23**|**MediSee: Reasoning-based Pixel-level Perception in Medical Images**|Qinyue Tong et.al.|[2504.11008](http://arxiv.org/abs/2504.11008)|null|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
 |**2025-04-01**|**POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation**|Lanyun Zhu et.al.|[2504.00640](http://arxiv.org/abs/2504.00640)|null|
 |**2025-03-27**|**Online Reasoning Video Segmentation with Just-in-Time Digital Twins**|Yiqing Shen et.al.|[2503.21056](http://arxiv.org/abs/2503.21056)|null|
@@ -499,7 +499,7 @@ layout: default
 |**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
 |**2025-04-20**|**VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control**|Lifeng Lin et.al.|[2504.14548](http://arxiv.org/abs/2504.14548)|null|
 |**2025-04-20**|**Metamon-GS: Enhancing Representability with Variance-Guided Densification and Light Encoding**|Junyan Su et.al.|[2504.14460](http://arxiv.org/abs/2504.14460)|null|
-|**2025-04-19**|**SEGA: Drivable 3D Gaussian Head Avatar from a Single Image**|Chen Guo et.al.|[2504.14373](http://arxiv.org/abs/2504.14373)|null|
+|**2025-04-23**|**SEGA: Drivable 3D Gaussian Head Avatar from a Single Image**|Chen Guo et.al.|[2504.14373](http://arxiv.org/abs/2504.14373)|null|
 |**2025-04-18**|**EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting**|Beizhen Zhao et.al.|[2504.13540](http://arxiv.org/abs/2504.13540)|null|
 |**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
