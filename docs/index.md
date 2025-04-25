@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-13**|**OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation**|Justin Namuk Kim et.al.|[2504.09655](http://arxiv.org/abs/2504.09655)|null|
+|**2025-04-24**|**OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation**|Justin Namuk Kim et.al.|[2504.09655](http://arxiv.org/abs/2504.09655)|null|
 |**2025-04-13**|**Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding**|Atharv Mahesh Mane et.al.|[2504.09623](http://arxiv.org/abs/2504.09623)|**[link](https://github.com/atharvmane/ges3vig)**|
 |**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
 |**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
