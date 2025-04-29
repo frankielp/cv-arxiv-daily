@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Pixels2Points: Fusing 2D and 3D Features for Facial Skin Segmentation**|Victoria Yue Chen et.al.|[2504.19718](http://arxiv.org/abs/2504.19718)|null|
 |**2025-04-24**|**OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation**|Justin Namuk Kim et.al.|[2504.09655](http://arxiv.org/abs/2504.09655)|null|
 |**2025-04-13**|**Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding**|Atharv Mahesh Mane et.al.|[2504.09623](http://arxiv.org/abs/2504.09623)|**[link](https://github.com/atharvmane/ges3vig)**|
 |**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
@@ -116,6 +117,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860](http://arxiv.org/abs/2504.19860)|null|
+|**2025-04-27**|**Making Physical Objects with Generative AI and Robotic Assembly: Considering Fabrication Constraints, Sustainability, Time, Functionality, and Accessibility**|Alexander Htet Kyaw et.al.|[2504.19131](http://arxiv.org/abs/2504.19131)|null|
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509](http://arxiv.org/abs/2504.18509)|null|
 |**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670](http://arxiv.org/abs/2504.17670)|null|
 |**2025-04-23**|**Global stability for compressible isentropic Navier-Stokes equations in 3D bounded domains with Navier-slip boundary conditions**|Yang Liu et.al.|[2504.17136](http://arxiv.org/abs/2504.17136)|null|
@@ -510,7 +513,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
+|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938](http://arxiv.org/abs/2504.19938)|null|
+|**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
+|**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409](http://arxiv.org/abs/2504.19409)|null|
+|**2025-04-26**|**4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression**|Zicong Chen et.al.|[2504.18925](http://arxiv.org/abs/2504.18925)|null|
+|**2025-04-26**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768](http://arxiv.org/abs/2504.18768)|null|
+|**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan et.al.|[2504.18165](http://arxiv.org/abs/2504.18165)|null|
 |**2025-04-24**|**iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting**|Kaiyuan Tang et.al.|[2504.17954](http://arxiv.org/abs/2504.17954)|null|
 |**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|null|
@@ -1388,6 +1396,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer**|Junpeng Jiang et.al.|[2504.19614](http://arxiv.org/abs/2504.19614)|null|
+|**2025-04-26**|**Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**|Yifan Xie et.al.|[2504.18810](http://arxiv.org/abs/2504.18810)|null|
+|**2025-04-26**|**Stealing Creator's Workflow: A Creator-Inspired Agentic Framework with Iterative Feedback Loop for Improved Scientific Short-form Generation**|Jong Inn Park et.al.|[2504.18805](http://arxiv.org/abs/2504.18805)|null|
 |**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448](http://arxiv.org/abs/2504.18448)|null|
 |**2025-04-23**|**Subject-driven Video Generation via Disentangled Identity and Motion**|Daneul Kim et.al.|[2504.17816](http://arxiv.org/abs/2504.17816)|null|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
