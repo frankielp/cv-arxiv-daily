@@ -516,6 +516,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
+|**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235](http://arxiv.org/abs/2505.01235)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829](http://arxiv.org/abs/2504.20829)|null|
 |**2025-04-29**|**EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian**|Hao Tian et.al.|[2504.20607](http://arxiv.org/abs/2504.20607)|null|
@@ -1404,6 +1407,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation**|Xuyang Guo et.al.|[2505.00337](http://arxiv.org/abs/2505.00337)|null|
 |**2025-04-30**|**Direct Motion Models for Assessing Generated Videos**|Kelsey Allen et.al.|[2505.00209](http://arxiv.org/abs/2505.00209)|null|
