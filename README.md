@@ -121,6 +121,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723](http://arxiv.org/abs/2505.03723)|null|
 |**2025-05-03**|**Rethinking Score Distilling Sampling for 3D Editing and Generation**|Xingyu Miao et.al.|[2505.01888](http://arxiv.org/abs/2505.01888)|null|
 |**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836](http://arxiv.org/abs/2504.21836)|null|
 |**2025-04-29**|**A 3D pocket-aware and affinity-guided diffusion model for lead optimization**|Anjie Qiao et.al.|[2504.21065](http://arxiv.org/abs/2504.21065)|null|
@@ -520,6 +521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 |**2025-05-04**|**SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**|Shubhendu Jena et.al.|[2505.02175](http://arxiv.org/abs/2505.02175)|null|
 |**2025-05-04**|**GarmentGS: Point-Cloud Guided Gaussian Splatting for High-Fidelity Non-Watertight 3D Garment Reconstruction**|Zhihao Tang et.al.|[2505.02126](http://arxiv.org/abs/2505.02126)|null|
 |**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|null|
@@ -1417,6 +1419,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
+|**2025-05-06**|**Transformers for Learning on Noisy and Task-Level Manifolds: Approximation and Generalization Insights**|Zhaiming Shen et.al.|[2505.03205](http://arxiv.org/abs/2505.03205)|null|
 |**2025-05-04**|**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization**|Wenchuan Wang et.al.|[2505.02192](http://arxiv.org/abs/2505.02192)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|null|
