@@ -112,6 +112,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](http://arxiv.org/abs/2505.07747)|null|
+|**2025-05-11**|**CMD: Controllable Multiview Diffusion for 3D Editing and Progressive Generation**|Peng Li et.al.|[2505.07003](http://arxiv.org/abs/2505.07003)|null|
 |**2025-05-07**|**Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation**|Yiming Qin et.al.|[2505.05505](http://arxiv.org/abs/2505.05505)|**[link](https://github.com/wakals/gascol)**|
 |**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
@@ -514,6 +516,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-10**|**Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes**|Xijie Yang et.al.|[2505.06523](http://arxiv.org/abs/2505.06523)|null|
 |**2025-05-08**|**TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling**|Gengyan Li et.al.|[2505.05672](http://arxiv.org/abs/2505.05672)|null|
 |**2025-05-08**|**Steepest Descent Density Control for Compact 3D Gaussian Splatting**|Peihao Wang et.al.|[2505.05587](http://arxiv.org/abs/2505.05587)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
@@ -1416,6 +1419,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652](http://arxiv.org/abs/2505.07652)|null|
+|**2025-05-12**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
+|**2025-05-12**|**Generative Pre-trained Autoregressive Diffusion Transformer**|Yuan Zhang et.al.|[2505.07344](http://arxiv.org/abs/2505.07344)|null|
+|**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
+|**2025-05-11**|**BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation**|Panwen Hu et.al.|[2505.06985](http://arxiv.org/abs/2505.06985)|null|
+|**2025-05-10**|**Jailbreaking the Text-to-Video Generative Models**|Jiayang Liu et.al.|[2505.06679](http://arxiv.org/abs/2505.06679)|null|
+|**2025-05-10**|**ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images**|Xianghao Kong et.al.|[2505.06537](http://arxiv.org/abs/2505.06537)|null|
 |**2025-05-08**|**T2VTextBench: A Human Evaluation Benchmark for Textual Control in Video Generation Models**|Xuyang Guo et.al.|[2505.04946](http://arxiv.org/abs/2505.04946)|null|
 |**2025-05-08**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
