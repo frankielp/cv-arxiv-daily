@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
 |**2025-05-08**|**DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding**|Henry Zheng et.al.|[2505.04965](http://arxiv.org/abs/2505.04965)|null|
 |**2025-05-07**|**AS3D: 2D-Assisted Cross-Modal Understanding with Semantic-Spatial Scene Graphs for 3D Visual Grounding**|Feng Xiao et.al.|[2505.04058](http://arxiv.org/abs/2505.04058)|**[link](https://github.com/onmyoji-xiao/AS3D)**|
@@ -113,6 +114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545](http://arxiv.org/abs/2505.10545)|null|
 |**2025-05-13**|**Long timescale numerical simulations of large, super-critical accretion discs**|P. Chris Fragile et.al.|[2505.08859](http://arxiv.org/abs/2505.08859)|null|
 |**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](http://arxiv.org/abs/2505.07747)|null|
 |**2025-05-11**|**CMD: Controllable Multiview Diffusion for 3D Editing and Progressive Generation**|Peng Li et.al.|[2505.07003](http://arxiv.org/abs/2505.07003)|null|
@@ -518,6 +520,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473](http://arxiv.org/abs/2505.10473)|null|
+|**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
+|**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
 |**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644](http://arxiv.org/abs/2505.08644)|null|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
@@ -1425,6 +1431,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238](http://arxiv.org/abs/2505.10238)|null|
+|**2025-05-15**|**ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars**|Rui-Yang Ju et.al.|[2505.10072](http://arxiv.org/abs/2505.10072)|null|
+|**2025-05-14**|**EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models**|Hu Yue et.al.|[2505.09694](http://arxiv.org/abs/2505.09694)|null|
 |**2025-05-15**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
 |**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[2505.08854](http://arxiv.org/abs/2505.08854)|**[link](https://github.com/taco-group/genai4ad)**|
 |**2025-05-13**|**Symbolically-Guided Visual Plan Inference from Uncurated Video Data**|Wenyan Yang et.al.|[2505.08444](http://arxiv.org/abs/2505.08444)|null|
