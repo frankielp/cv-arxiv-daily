@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -1431,7 +1431,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238](http://arxiv.org/abs/2505.10238)|null|
+|**2025-05-16**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238](http://arxiv.org/abs/2505.10238)|**[link](https://github.com/dingyanb/mtvcrafter)**|
 |**2025-05-15**|**ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars**|Rui-Yang Ju et.al.|[2505.10072](http://arxiv.org/abs/2505.10072)|null|
 |**2025-05-14**|**EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models**|Hu Yue et.al.|[2505.09694](http://arxiv.org/abs/2505.09694)|**[link](https://github.com/agibottech/ewmbench)**|
 |**2025-05-15**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
@@ -1439,7 +1439,7 @@ layout: default
 |**2025-05-13**|**Symbolically-Guided Visual Plan Inference from Uncurated Video Data**|Wenyan Yang et.al.|[2505.08444](http://arxiv.org/abs/2505.08444)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652](http://arxiv.org/abs/2505.07652)|null|
-|**2025-05-13**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
+|**2025-05-16**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
 |**2025-05-15**|**Generative Pre-trained Autoregressive Diffusion Transformer**|Yuan Zhang et.al.|[2505.07344](http://arxiv.org/abs/2505.07344)|null|
 |**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
 |**2025-05-11**|**BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation**|Panwen Hu et.al.|[2505.06985](http://arxiv.org/abs/2505.06985)|null|
