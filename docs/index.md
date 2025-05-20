@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**Attention-Enhanced U-Net for Accurate Segmentation of COVID-19 Infected Lung Regions in CT Scans**|Amal Lahchim et.al.|[2505.12298](http://arxiv.org/abs/2505.12298)|null|
+|**2025-05-17**|**iSegMan: Interactive Segment-and-Manipulate 3D Gaussians**|Yian Zhao et.al.|[2505.11934](http://arxiv.org/abs/2505.11934)|null|
 |**2025-05-15**|**MOSAIC: A Multi-View 2.5D Organ Slice Selector with Cross-Attentional Reasoning for Anatomically-Aware CT Localization in Medical Organ Segmentation**|Hania Ghouse et.al.|[2505.10672](http://arxiv.org/abs/2505.10672)|null|
 |**2025-05-15**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
@@ -83,6 +85,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-17**|**PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging**|Quoc-Huy Trinh et.al.|[2505.11872](http://arxiv.org/abs/2505.11872)|null|
+|**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829](http://arxiv.org/abs/2505.02829)|null|
 |**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704](http://arxiv.org/abs/2504.12704)|null|
 |**2025-04-23**|**MediSee: Reasoning-based Pixel-level Perception in Medical Images**|Qinyue Tong et.al.|[2504.11008](http://arxiv.org/abs/2504.11008)|null|
@@ -115,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction**|Yuanbo Wang et.al.|[2505.13091](http://arxiv.org/abs/2505.13091)|null|
 |**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545](http://arxiv.org/abs/2505.10545)|null|
 |**2025-05-13**|**Long timescale numerical simulations of large, super-critical accretion discs**|P. Chris Fragile et.al.|[2505.08859](http://arxiv.org/abs/2505.08859)|null|
 |**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](http://arxiv.org/abs/2505.07747)|null|
@@ -521,6 +526,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
+|**2025-05-19**|**TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy**|Luyao Lei et.al.|[2505.12693](http://arxiv.org/abs/2505.12693)|null|
+|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
+|**2025-05-17**|**GTR: Gaussian Splatting Tracking and Reconstruction of Unknown Objects Based on Appearance and Geometric Complexity**|Takuya Ikeda et.al.|[2505.11905](http://arxiv.org/abs/2505.11905)|null|
 |**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923](http://arxiv.org/abs/2505.10923)|null|
 |**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-14**|**ExploreGS: a vision-based low overhead framework for 3D scene reconstruction**|Yunji Feng et.al.|[2505.10578](http://arxiv.org/abs/2505.10578)|null|
@@ -1435,6 +1444,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437](http://arxiv.org/abs/2505.13437)|null|
+|**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211](http://arxiv.org/abs/2505.13211)|**[link](https://github.com/sandai-org/magiattention)**|
+|**2025-05-19**|**DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories**|Joel Jang et.al.|[2505.12705](http://arxiv.org/abs/2505.12705)|null|
+|**2025-05-19**|**Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking**|Zihan Su et.al.|[2505.12667](http://arxiv.org/abs/2505.12667)|null|
+|**2025-05-19**|**BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation**|Haiquan Wen et.al.|[2505.12620](http://arxiv.org/abs/2505.12620)|null|
+|**2025-05-18**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
+|**2025-05-17**|**LOVE: Benchmarking and Evaluating Text-to-Video Generation and Video-to-Text Interpretation**|Jiarui Wang et.al.|[2505.12098](http://arxiv.org/abs/2505.12098)|**[link](https://github.com/intmegroup/love)**|
+|**2025-05-17**|**VFRTok: Variable Frame Rates Video Tokenizer with Duration-Proportional Information Assumption**|Tianxiong Zhong et.al.|[2505.12053](http://arxiv.org/abs/2505.12053)|null|
 |**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497](http://arxiv.org/abs/2505.11497)|null|
 |**2025-05-16**|**Face Consistency Benchmark for GenAI Video**|Michal Podstawski et.al.|[2505.11425](http://arxiv.org/abs/2505.11425)|null|
 |**2025-05-14**|**Aquarius: A Family of Industry-Level Video Generation Models for Marketing Scenarios**|Huafeng Shi et.al.|[2505.10584](http://arxiv.org/abs/2505.10584)|null|
