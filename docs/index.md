@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -1456,10 +1456,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|null|
+|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|**[link](https://github.com/dvlab-research/jenga)**|
 |**2025-05-22**|**Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts**|Taewon Kang et.al.|[2505.16819](http://arxiv.org/abs/2505.16819)|null|
 |**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
-|**2025-05-21**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880](http://arxiv.org/abs/2505.15880)|null|
+|**2025-05-23**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880](http://arxiv.org/abs/2505.15880)|null|
 |**2025-05-21**|**Generative AI for Autonomous Driving: A Review**|Katharina Winter et.al.|[2505.15863](http://arxiv.org/abs/2505.15863)|null|
 |**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800](http://arxiv.org/abs/2505.15800)|null|
 |**2025-05-21**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
