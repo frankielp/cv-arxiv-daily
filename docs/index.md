@@ -89,6 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding**|Ansel Blume et.al.|[2505.20759](http://arxiv.org/abs/2505.20759)|null|
 |**2025-05-24**|**Reasoning Segmentation for Images and Videos: A Survey**|Yiqing Shen et.al.|[2505.18816](http://arxiv.org/abs/2505.18816)|null|
 |**2025-05-22**|**PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging**|Quoc-Huy Trinh et.al.|[2505.11872](http://arxiv.org/abs/2505.11872)|null|
 |**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|**[link](https://github.com/yiqings/rvt)**|
@@ -124,6 +125,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Advancing high-fidelity 3D and Texture Generation with 2.5D latents**|Xin Yang et.al.|[2505.21050](http://arxiv.org/abs/2505.21050)|null|
+|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755](http://arxiv.org/abs/2505.20755)|null|
+|**2025-05-26**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](http://arxiv.org/abs/2505.20431)|null|
 |**2025-05-26**|**Harnessing the Power of Training-Free Techniques in Text-to-2D Generation for Text-to-3D Generation via Score Distillation Sampling**|Junhong Lee et.al.|[2505.19868](http://arxiv.org/abs/2505.19868)|null|
 |**2025-05-26**|**Global stability for the compressible isentropic magnetohydrodynamic equations in 3D bounded domains with Navier-slip boundary conditions**|Yang Liu et.al.|[2505.19749](http://arxiv.org/abs/2505.19749)|null|
 |**2025-05-23**|**SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation**|Dekai Zhu et.al.|[2505.17721](http://arxiv.org/abs/2505.17721)|null|
@@ -539,6 +543,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377](http://arxiv.org/abs/2505.21377)|null|
+|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
+|**2025-05-27**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics-Based Appearance-Medium Decouplin**|Jieyu Yuan et.al.|[2505.21238](http://arxiv.org/abs/2505.21238)|null|
+|**2025-05-27**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
+|**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
+|**2025-05-27**|**Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting**|Zechen Li et.al.|[2505.20714](http://arxiv.org/abs/2505.20714)|null|
+|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
 |**2025-05-26**|**K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers**|Haofan Ren et.al.|[2505.19564](http://arxiv.org/abs/2505.19564)|null|
 |**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
@@ -1477,6 +1488,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
+|**2025-05-27**|**Dynamic Vision from EEG Brain Recordings: How much does EEG know?**|Prajwal Singh et.al.|[2505.21385](http://arxiv.org/abs/2505.21385)|null|
+|**2025-05-27**|**SageAttention2++: A More Efficient Implementation of SageAttention2**|Jintao Zhang et.al.|[2505.21136](http://arxiv.org/abs/2505.21136)|null|
+|**2025-05-27**|**Minute-Long Videos with Dual Parallelisms**|Zeqing Wang et.al.|[2505.21070](http://arxiv.org/abs/2505.21070)|null|
+|**2025-05-27**|**RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy**|Aiyue Chen et.al.|[2505.21036](http://arxiv.org/abs/2505.21036)|null|
+|**2025-05-27**|**Frame-Level Captions for Long Video Generation with Complex Multi Scenes**|Guangcong Zheng et.al.|[2505.20827](http://arxiv.org/abs/2505.20827)|null|
+|**2025-05-27**|**Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt**|Xiang Zhu et.al.|[2505.20795](http://arxiv.org/abs/2505.20795)|null|
+|**2025-05-27**|**Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**|Lujian Yao et.al.|[2505.20655](http://arxiv.org/abs/2505.20655)|null|
+|**2025-05-27**|**Incorporating Flexible Image Conditioning into Text-to-Video Diffusion Models without Training**|Bolin Lai et.al.|[2505.20629](http://arxiv.org/abs/2505.20629)|null|
+|**2025-05-27**|**OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation**|Shenghai Yuan et.al.|[2505.20292](http://arxiv.org/abs/2505.20292)|**[link](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)**|
 |**2025-05-27**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
 |**2025-05-26**|**DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving**|Wenchao Sun et.al.|[2505.19692](http://arxiv.org/abs/2505.19692)|null|
 |**2025-05-26**|**TDVE-Assessor: Benchmarking and Evaluating the Quality of Text-Driven Video Editing with LMMs**|Juntong Wang et.al.|[2505.19535](http://arxiv.org/abs/2505.19535)|null|
