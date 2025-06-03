@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -93,7 +93,7 @@
 |**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972](http://arxiv.org/abs/2412.10972)|**[link](https://github.com/lusxvr/dcseg)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Reasoning Segmentation
 
@@ -132,7 +132,7 @@
 |**2024-09-20**|**Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model**|Li Zhou et.al.|[2409.13407](http://arxiv.org/abs/2409.13407)|**[link](https://github.com/lizhou-cs/mglmm)**|
 |**2025-02-10**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## 3D Generative
 
@@ -142,7 +142,7 @@
 |**2025-05-29**|**Universal Radial Scaling of Large-Scale Black Hole Accretion for Magnetically Arrested And Rocking Accretion Disks**|Aretaios Lalakos et.al.|[2505.23888](http://arxiv.org/abs/2505.23888)|null|
 |**2025-05-28**|**Advancing high-fidelity 3D and Texture Generation with 2.5D latents**|Xin Yang et.al.|[2505.21050](http://arxiv.org/abs/2505.21050)|null|
 |**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755](http://arxiv.org/abs/2505.20755)|null|
-|**2025-05-26**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](http://arxiv.org/abs/2505.20431)|null|
+|**2025-05-30**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](http://arxiv.org/abs/2505.20431)|null|
 |**2025-05-26**|**Harnessing the Power of Training-Free Techniques in Text-to-2D Generation for Text-to-3D Generation via Score Distillation Sampling**|Junhong Lee et.al.|[2505.19868](http://arxiv.org/abs/2505.19868)|null|
 |**2025-05-26**|**Global stability for the compressible isentropic magnetohydrodynamic equations in 3D bounded domains with Navier-slip boundary conditions**|Yang Liu et.al.|[2505.19749](http://arxiv.org/abs/2505.19749)|null|
 |**2025-05-23**|**SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation**|Dekai Zhu et.al.|[2505.17721](http://arxiv.org/abs/2505.17721)|null|
@@ -554,7 +554,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -1517,7 +1517,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -2521,7 +2521,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -131,7 +131,7 @@ layout: default
 |**2025-05-29**|**Universal Radial Scaling of Large-Scale Black Hole Accretion for Magnetically Arrested And Rocking Accretion Disks**|Aretaios Lalakos et.al.|[2505.23888](http://arxiv.org/abs/2505.23888)|null|
 |**2025-05-28**|**Advancing high-fidelity 3D and Texture Generation with 2.5D latents**|Xin Yang et.al.|[2505.21050](http://arxiv.org/abs/2505.21050)|null|
 |**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755](http://arxiv.org/abs/2505.20755)|null|
-|**2025-05-26**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](http://arxiv.org/abs/2505.20431)|null|
+|**2025-05-30**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](http://arxiv.org/abs/2505.20431)|null|
 |**2025-05-26**|**Harnessing the Power of Training-Free Techniques in Text-to-2D Generation for Text-to-3D Generation via Score Distillation Sampling**|Junhong Lee et.al.|[2505.19868](http://arxiv.org/abs/2505.19868)|null|
 |**2025-05-26**|**Global stability for the compressible isentropic magnetohydrodynamic equations in 3D bounded domains with Navier-slip boundary conditions**|Yang Liu et.al.|[2505.19749](http://arxiv.org/abs/2505.19749)|null|
 |**2025-05-23**|**SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation**|Dekai Zhu et.al.|[2505.17721](http://arxiv.org/abs/2505.17721)|null|
