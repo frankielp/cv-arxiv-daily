@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -17,7 +17,7 @@ layout: default
 |**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429](http://arxiv.org/abs/2505.22429)|null|
 |**2025-05-26**|**Rep3D: Re-parameterize Large 3D Kernels with Low-Rank Receptive Modeling for Medical Imaging**|Ho Hin Lee et.al.|[2505.19603](http://arxiv.org/abs/2505.19603)|null|
 |**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674](http://arxiv.org/abs/2505.17674)|null|
-|**2025-05-23**|**A Unified Multi-Scale Attention-Based Network for Automatic 3D Segmentation of Lung Parenchyma & Nodules In Thoracic CT Images**|Muhammad Abdullah et.al.|[2505.17602](http://arxiv.org/abs/2505.17602)|**[link](https://github.com/emeraldsnrpu/attention-based-3d-resunet)**|
+|**2025-06-03**|**A Unified Multi-Scale Attention-Based Network for Automatic 3D Segmentation of Lung Parenchyma & Nodules In Thoracic CT Images**|Muhammad Abdullah et.al.|[2505.17602](http://arxiv.org/abs/2505.17602)|**[link](https://github.com/emeraldsnrpu/attention-based-3d-resunet)**|
 |**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
 |**2025-05-18**|**Attention-Enhanced U-Net for Accurate Segmentation of COVID-19 Infected Lung Regions in CT Scans**|Amal Lahchim et.al.|[2505.12298](http://arxiv.org/abs/2505.12298)|null|
 |**2025-05-17**|**iSegMan: Interactive Segment-and-Manipulate 3D Gaussians**|Yian Zhao et.al.|[2505.11934](http://arxiv.org/abs/2505.11934)|null|
