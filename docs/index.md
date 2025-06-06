@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -1528,7 +1528,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
-|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
 |**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
 |**2025-06-03**|**Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas**|Austin Silveria et.al.|[2506.03275](http://arxiv.org/abs/2506.03275)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
