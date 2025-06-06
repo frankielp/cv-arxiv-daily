@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes**|Tianxu Wang et.al.|[2506.04897](http://arxiv.org/abs/2506.04897)|null|
+|**2025-06-05**|**Midplane based 3D single pass unbiased segment-to-segment contact interaction using penalty method**|Indrajeet Sahu et.al.|[2506.04841](http://arxiv.org/abs/2506.04841)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
 |**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429](http://arxiv.org/abs/2505.22429)|null|
 |**2025-05-26**|**Rep3D: Re-parameterize Large 3D Kernels with Low-Rank Receptive Modeling for Medical Imaging**|Ho Hin Lee et.al.|[2505.19603](http://arxiv.org/abs/2505.19603)|null|
 |**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674](http://arxiv.org/abs/2505.17674)|null|
@@ -90,6 +93,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
+|**2025-06-04**|**RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought**|Yi Lu et.al.|[2506.04277](http://arxiv.org/abs/2506.04277)|null|
 |**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
 |**2025-05-27**|**PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding**|Ansel Blume et.al.|[2505.20759](http://arxiv.org/abs/2505.20759)|null|
 |**2025-05-24**|**Reasoning Segmentation for Images and Videos: A Survey**|Yiqing Shen et.al.|[2505.18816](http://arxiv.org/abs/2505.18816)|null|
@@ -549,6 +554,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327](http://arxiv.org/abs/2506.05327)|null|
+|**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092](http://arxiv.org/abs/2506.05092)|null|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009](http://arxiv.org/abs/2506.05009)|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
+|**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789](http://arxiv.org/abs/2506.04789)|null|
 |**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
 |**2025-06-04**|**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**|Hengyu Liu et.al.|[2506.04174](http://arxiv.org/abs/2506.04174)|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
@@ -1526,6 +1536,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
+|**2025-06-05**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
+|**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|null|
+|**2025-06-05**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
+|**2025-06-05**|**FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**|Akide Liu et.al.|[2506.04648](http://arxiv.org/abs/2506.04648)|null|
+|**2025-06-05**|**Follow-Your-Creation: Empowering 4D Creation through Video Inpainting**|Yue Ma et.al.|[2506.04590](http://arxiv.org/abs/2506.04590)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
 |**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
