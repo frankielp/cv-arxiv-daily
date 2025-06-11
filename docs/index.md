@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -1566,7 +1566,7 @@ layout: default
 |**2025-06-09**|**Video Unlearning via Low-Rank Refusal Vector**|Simone Facchiano et.al.|[2506.07891](http://arxiv.org/abs/2506.07891)|null|
 |**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
 |**2025-06-09**|**Consistent Video Editing as Flow-Driven Image-to-Video Generation**|Ge Wang et.al.|[2506.07713](http://arxiv.org/abs/2506.07713)|null|
-|**2025-06-08**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
+|**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
 |**2025-06-08**|**TV-LiVE: Training-Free, Text-Guided Video Editing via Layer Informed Vitality Exploitation**|Min-Jung Kim et.al.|[2506.07205](http://arxiv.org/abs/2506.07205)|null|
 |**2025-06-08**|**Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models**|Sangwon Jang et.al.|[2506.07177](http://arxiv.org/abs/2506.07177)|null|
 |**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
