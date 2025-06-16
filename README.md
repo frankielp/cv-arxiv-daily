@@ -186,7 +186,7 @@
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509](http://arxiv.org/abs/2504.18509)|null|
 |**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670](http://arxiv.org/abs/2504.17670)|**[link](https://github.com/lutao2021/DiMeR)**|
 |**2025-04-23**|**Global stability for compressible isentropic Navier-Stokes equations in 3D bounded domains with Navier-slip boundary conditions**|Yang Liu et.al.|[2504.17136](http://arxiv.org/abs/2504.17136)|null|
-|**2025-04-22**|**Text-based Animatable 3D Avatars with Morphable Model Alignment**|Yiqian Wu et.al.|[2504.15835](http://arxiv.org/abs/2504.15835)|null|
+|**2025-04-22**|**Text-based Animatable 3D Avatars with Morphable Model Alignment**|Yiqian Wu et.al.|[2504.15835](http://arxiv.org/abs/2504.15835)|**[link](https://github.com/onethousand1000/animportrait3d)**|
 |**2025-04-21**|**Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization**|Hongbin Xu et.al.|[2504.14975](http://arxiv.org/abs/2504.14975)|null|
 |**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072](http://arxiv.org/abs/2504.13072)|null|
 |**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Yao Mu et.al.|[2504.13059](http://arxiv.org/abs/2504.13059)|null|
@@ -608,20 +608,20 @@
 |**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009](http://arxiv.org/abs/2506.05009)|null|
 |**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
 |**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789](http://arxiv.org/abs/2506.04789)|null|
-|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
+|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|**[link](https://github.com/autonomousvision/navsim)**|
 |**2025-06-04**|**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**|Hengyu Liu et.al.|[2506.04174](http://arxiv.org/abs/2506.04174)|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
-|**2025-06-04**|**SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting**|Shengjie Lin et.al.|[2506.03594](http://arxiv.org/abs/2506.03594)|null|
+|**2025-06-04**|**SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting**|Shengjie Lin et.al.|[2506.03594](http://arxiv.org/abs/2506.03594)|**[link](https://github.com/ripl/splart)**|
 |**2025-06-04**|**Robust Neural Rendering in the Wild with Asymmetric Dual 3D Gaussian Splatting**|Chengqi Li et.al.|[2506.03538](http://arxiv.org/abs/2506.03538)|null|
 |**2025-06-03**|**Multi-Spectral Gaussian Splatting with Neural Color Representation**|Lukas Meyer et.al.|[2506.03407](http://arxiv.org/abs/2506.03407)|null|
 |**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929](http://arxiv.org/abs/2506.02929)|null|
 |**2025-06-04**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774](http://arxiv.org/abs/2506.02774)|null|
 |**2025-06-03**|**RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS**|Chuanyu Fu et.al.|[2506.02751](http://arxiv.org/abs/2506.02751)|null|
 |**2025-06-03**|**EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR**|Zihao Ding et.al.|[2506.02380](http://arxiv.org/abs/2506.02380)|**[link](https://github.com/symmru/EyeNavGS_Software)**|
-|**2025-06-02**|**GSCodec Studio: A Modular Framework for Gaussian Splat Compression**|Sicheng Li et.al.|[2506.01822](http://arxiv.org/abs/2506.01822)|null|
+|**2025-06-02**|**GSCodec Studio: A Modular Framework for Gaussian Splat Compression**|Sicheng Li et.al.|[2506.01822](http://arxiv.org/abs/2506.01822)|**[link](https://github.com/jasonlsc/gscodec_studio)**|
 |**2025-06-02**|**WorldExplorer: Towards Generating Fully Navigable 3D Scenes**|Manuel-Andreas Schneider et.al.|[2506.01799](http://arxiv.org/abs/2506.01799)|null|
-|**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
-|**2025-05-30**|**3D Gaussian Splat Vulnerabilities**|Matthew Hull et.al.|[2506.00280](http://arxiv.org/abs/2506.00280)|null|
+|**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|**[link](https://github.com/PRBonn/2DGS-SLAM)**|
+|**2025-05-30**|**3D Gaussian Splat Vulnerabilities**|Matthew Hull et.al.|[2506.00280](http://arxiv.org/abs/2506.00280)|**[link](https://github.com/poloclub/3D-Gaussian-Splat-Attack)**|
 |**2025-05-30**|**Adaptive Voxelization for Transform coding of 3D Gaussian splatting data**|Chenjunjie Wang et.al.|[2506.00271](http://arxiv.org/abs/2506.00271)|null|
 |**2025-05-30**|**Understanding while Exploring: Semantics-driven Active Mapping**|Liyan Chen et.al.|[2506.00225](http://arxiv.org/abs/2506.00225)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
@@ -640,7 +640,7 @@
 |**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335](http://arxiv.org/abs/2505.22335)|null|
 |**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279](http://arxiv.org/abs/2505.22279)|null|
 |**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890](http://arxiv.org/abs/2505.21890)|null|
-|**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377](http://arxiv.org/abs/2505.21377)|null|
+|**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377](http://arxiv.org/abs/2505.21377)|**[link](https://github.com/chenxinl/dream3dvg)**|
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
 |**2025-05-29**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics Based Appearance-Medium Decoupling**|Jieyu Yuan et.al.|[2505.21238](http://arxiv.org/abs/2505.21238)|null|
 |**2025-05-28**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
@@ -750,7 +750,7 @@
 |**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370](http://arxiv.org/abs/2504.07370)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827](http://arxiv.org/abs/2504.06827)|null|
-|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|**[link](https://github.com/learner-shx/svg-ir)**|
 |**2025-04-10**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|Xin Sun et.al.|[2504.06598](http://arxiv.org/abs/2504.06598)|null|
 |**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740](http://arxiv.org/abs/2504.05740)|null|
 |**2025-04-07**|**View-Dependent Deformation Fields for 2D Editing of 3D Models**|Martin El Mqirmi et.al.|[2504.05544](http://arxiv.org/abs/2504.05544)|null|
@@ -1599,15 +1599,15 @@
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
 |**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
-|**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
-|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|**[link](https://github.com/zehong-ma/magcache)**|
+|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-10**|**HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**|Ziyao Huang et.al.|[2506.08797](http://arxiv.org/abs/2506.08797)|null|
 |**2025-06-10**|**How Much To Guide: Revisiting Adaptive Guidance in Classifier-Free Guidance Text-to-Vision Diffusion Models**|Huixuan Zhang et.al.|[2506.08351](http://arxiv.org/abs/2506.08351)|null|
 |**2025-06-09**|**Seeing Voices: Generating A-Roll Video from Audio with Mirage**|Aditi Sundararaman et.al.|[2506.08279](http://arxiv.org/abs/2506.08279)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
 |**2025-06-09**|**Audio-Sync Video Generation with Multi-Stream Temporal Control**|Shuchen Weng et.al.|[2506.08003](http://arxiv.org/abs/2506.08003)|null|
-|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998](http://arxiv.org/abs/2506.07998)|null|
+|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998](http://arxiv.org/abs/2506.07998)|**[link](https://github.com/boyazeng/weight_memorization)**|
 |**2025-06-09**|**Video Unlearning via Low-Rank Refusal Vector**|Simone Facchiano et.al.|[2506.07891](http://arxiv.org/abs/2506.07891)|null|
 |**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
 |**2025-06-09**|**Consistent Video Editing as Flow-Driven Image-to-Video Generation**|Ge Wang et.al.|[2506.07713](http://arxiv.org/abs/2506.07713)|null|
