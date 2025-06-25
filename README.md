@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ReCoGNet: Recurrent Context-Guided Network for 3D MRI Prostate Segmentation**|Ahmad Mustafa et.al.|[2506.19687](http://arxiv.org/abs/2506.19687)|null|
 |**2025-06-22**|**Auto-Regressive Surface Cutting**|Yang Li et.al.|[2506.18017](http://arxiv.org/abs/2506.18017)|null|
 |**2025-06-17**|**I Speak and You Find: Robust 3D Visual Grounding with Noisy and Ambiguous Speech Inputs**|Yu Qi et.al.|[2506.14495](http://arxiv.org/abs/2506.14495)|null|
 |**2025-06-20**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|**[link](https://github.com/HBLT-hub/CMGHF)**|
@@ -589,11 +590,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Virtual Memory for 3D Gaussian Splatting**|Jonathan Haberl et.al.|[2506.19415](http://arxiv.org/abs/2506.19415)|null|
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
 |**2025-06-23**|**Reconstructing Tornadoes in 3D with Gaussian Splatting**|Adam Yang et.al.|[2506.18677](http://arxiv.org/abs/2506.18677)|null|
 |**2025-06-21**|**3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene**|Shihan Chen et.al.|[2506.17636](http://arxiv.org/abs/2506.17636)|null|
 |**2025-06-20**|**Part $^{2}$ GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212](http://arxiv.org/abs/2506.17212)|null|
-|**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|null|
+|**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|**[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|
 |**2025-06-24**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang et.al.|[2506.14856](http://arxiv.org/abs/2506.14856)|null|
 |**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|**[link](https://github.com/yukexing/3dgs-ieval-15k)**|
@@ -1616,6 +1618,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
+|**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
+|**2025-06-24**|**Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation**|Jintao Rong et.al.|[2506.19348](http://arxiv.org/abs/2506.19348)|null|
 |**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903](http://arxiv.org/abs/2506.18903)|null|
 |**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901](http://arxiv.org/abs/2506.18901)|null|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
