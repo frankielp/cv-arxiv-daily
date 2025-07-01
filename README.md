@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
 |**2025-06-27**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding**|Zhao Jin et.al.|[2506.21924](http://arxiv.org/abs/2506.21924)|null|
 |**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549](http://arxiv.org/abs/2506.21549)|null|
 |**2025-06-26**|**GroundFlow: A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding**|Zijun Lin et.al.|[2506.21188](http://arxiv.org/abs/2506.21188)|null|
@@ -112,6 +113,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Zhenhua Ning et.al.|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
+|**2025-06-27**|**Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning**|Zuyao You et.al.|[2506.22624](http://arxiv.org/abs/2506.22624)|null|
 |**2025-06-12**|**MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models**|Yu Huang et.al.|[2506.10465](http://arxiv.org/abs/2506.10465)|null|
 |**2025-06-11**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
 |**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|**[link](https://github.com/zhangkuns/openmaskdino3d)**|
@@ -155,6 +158,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Three-dimensional Transport-induced Chemistry on Temperate sub-Neptune K2-18b, Part I: the Effects of Atmospheric Dynamics**|Jiachen Liu et.al.|[2506.23891](http://arxiv.org/abs/2506.23891)|null|
+|**2025-06-30**|**Refine Any Object in Any Scene**|Ziwei Chen et.al.|[2506.23835](http://arxiv.org/abs/2506.23835)|null|
+|**2025-06-29**|**AlignCVC: Aligning Cross-View Consistency for Single-Image-to-3D Generation**|Xinyue Liang et.al.|[2506.23150](http://arxiv.org/abs/2506.23150)|null|
 |**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
 |**2025-06-25**|**WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration**|Chaojun Ni et.al.|[2506.20590](http://arxiv.org/abs/2506.20590)|null|
 |**2025-06-23**|**3D Arena: An Open Platform for Generative 3D Evaluation**|Dylan Ebert et.al.|[2506.18787](http://arxiv.org/abs/2506.18787)|null|
@@ -595,6 +601,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
+|**2025-06-29**|**Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting**|Yiming Huang et.al.|[2506.23308](http://arxiv.org/abs/2506.23308)|null|
+|**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
+|**2025-06-29**|**From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting**|Hung Nguyen et.al.|[2506.23042](http://arxiv.org/abs/2506.23042)|null|
+|**2025-06-28**|**Confident Splatting: Confidence-Based Compression of 3D Gaussian Splatting via Learnable Beta Distributions**|AmirHossein Naghi Razlighi et.al.|[2506.22973](http://arxiv.org/abs/2506.22973)|null|
+|**2025-06-28**|**RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors**|Sicong Du et.al.|[2506.22800](http://arxiv.org/abs/2506.22800)|null|
+|**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
+|**2025-06-28**|**RoboPearls: Editable Video Simulation for Robot Manipulation**|Tao Tang et.al.|[2506.22756](http://arxiv.org/abs/2506.22756)|null|
 |**2025-06-25**|**SAR-GS: 3D Gaussian Splatting for Synthetic Aperture Radar Target Reconstruction**|Aobo Li et.al.|[2506.21633](http://arxiv.org/abs/2506.21633)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
 |**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
@@ -1630,6 +1644,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
+|**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
+|**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
+|**2025-06-30**|**ViewPoint: Panoramic Video Generation with Pretrained Diffusion Models**|Zixun Fang et.al.|[2506.23513](http://arxiv.org/abs/2506.23513)|null|
+|**2025-06-29**|**Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**|Lei-lei Li et.al.|[2506.23263](http://arxiv.org/abs/2506.23263)|null|
+|**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135](http://arxiv.org/abs/2506.23135)|null|
+|**2025-06-28**|**Listener-Rewarded Thinking in VLMs for Image Preferences**|Alexander Gambashidze et.al.|[2506.22832](http://arxiv.org/abs/2506.22832)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
 |**2025-06-27**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
