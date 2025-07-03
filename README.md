@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**Audio-3DVG: Unified Audio - Point Cloud Fusion for 3D Visual Grounding**|Duc Cao-Dinh et.al.|[2507.00669](http://arxiv.org/abs/2507.00669)|null|
 |**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
 |**2025-06-27**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding**|Zhao Jin et.al.|[2506.21924](http://arxiv.org/abs/2506.21924)|null|
 |**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549](http://arxiv.org/abs/2506.21549)|null|
@@ -601,6 +602,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
+|**2025-07-01**|**VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting**|Keiko Nagami et.al.|[2507.01125](http://arxiv.org/abs/2507.01125)|null|
+|**2025-07-01**|**Masks make discriminative models great again!**|Tianshi Cao et.al.|[2507.00916](http://arxiv.org/abs/2507.00916)|null|
+|**2025-07-01**|**GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond**|Anna-Maria Halacheva et.al.|[2507.00886](http://arxiv.org/abs/2507.00886)|null|
+|**2025-07-01**|**LOD-GS: Level-of-Detail-Sensitive 3D Gaussian Splatting for Detail Conserved Anti-Aliasing**|Zhenya Yang et.al.|[2507.00554](http://arxiv.org/abs/2507.00554)|null|
+|**2025-07-01**|**GDGS: 3D Gaussian Splatting Via Geometry-Guided Initialization And Dynamic Density Control**|Xingjun Wang et.al.|[2507.00363](http://arxiv.org/abs/2507.00363)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-29**|**Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting**|Yiming Huang et.al.|[2506.23308](http://arxiv.org/abs/2506.23308)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
@@ -1644,6 +1651,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
+|**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
+|**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264](http://arxiv.org/abs/2507.01264)|null|
+|**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
+|**2025-07-01**|**Geometry-aware 4D Video Generation for Robot Manipulation**|Zeyi Liu et.al.|[2507.01099](http://arxiv.org/abs/2507.01099)|null|
+|**2025-07-01**|**Populate-A-Scene: Affordance-Aware Human Video Generation**|Mengyi Shan et.al.|[2507.00334](http://arxiv.org/abs/2507.00334)|null|
+|**2025-06-30**|**FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion**|Yu Lu et.al.|[2507.00162](http://arxiv.org/abs/2507.00162)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
