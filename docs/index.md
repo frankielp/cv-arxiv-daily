@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -148,7 +148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**Three-dimensional Transport-induced Chemistry on Temperate sub-Neptune K2-18b, Part I: the Effects of Atmospheric Dynamics**|Jiachen Liu et.al.|[2506.23891](http://arxiv.org/abs/2506.23891)|null|
+|**2025-07-03**|**Three-dimensional Transport-induced Chemistry on Temperate sub-Neptune K2-18b, Part I: the Effects of Atmospheric Dynamics**|Jiachen Liu et.al.|[2506.23891](http://arxiv.org/abs/2506.23891)|null|
 |**2025-06-30**|**Refine Any Object in Any Scene**|Ziwei Chen et.al.|[2506.23835](http://arxiv.org/abs/2506.23835)|null|
 |**2025-06-29**|**AlignCVC: Aligning Cross-View Consistency for Single-Image-to-3D Generation**|Xinyue Liang et.al.|[2506.23150](http://arxiv.org/abs/2506.23150)|null|
 |**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
@@ -1645,7 +1645,7 @@ layout: default
 |**2025-06-30**|**FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion**|Yu Lu et.al.|[2507.00162](http://arxiv.org/abs/2507.00162)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
-|**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
+|**2025-07-03**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
 |**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
 |**2025-06-30**|**ViewPoint: Panoramic Video Generation with Pretrained Diffusion Models**|Zixun Fang et.al.|[2506.23513](http://arxiv.org/abs/2506.23513)|null|
 |**2025-06-29**|**Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**|Lei-lei Li et.al.|[2506.23263](http://arxiv.org/abs/2506.23263)|null|
