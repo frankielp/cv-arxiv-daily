@@ -167,6 +167,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
+|**2025-07-11**|**InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes**|Zesong Yang et.al.|[2507.08416](http://arxiv.org/abs/2507.08416)|null|
 |**2025-07-08**|**OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion**|Yunhan Yang et.al.|[2507.06165](http://arxiv.org/abs/2507.06165)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-07**|**Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf**|Pascal A. Noti et.al.|[2507.05422](http://arxiv.org/abs/2507.05422)|null|
@@ -614,6 +616,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434](http://arxiv.org/abs/2507.08434)|null|
+|**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
+|**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136](http://arxiv.org/abs/2507.08136)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/abs/2507.07733)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-10**|**Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections**|Yongtang Bao et.al.|[2507.07395](http://arxiv.org/abs/2507.07395)|null|
@@ -1685,6 +1690,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
+|**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
