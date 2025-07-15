@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
@@ -1683,7 +1683,7 @@ layout: default
 |**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
 |**2025-07-09**|**A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality**|Mohamed Elmoghany et.al.|[2507.07202](http://arxiv.org/abs/2507.07202)|null|
 |**2025-07-09**|**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**|Tao Feng et.al.|[2507.06830](http://arxiv.org/abs/2507.06830)|null|
-|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
 |**2025-07-09**|**PromptTea: Let Prompts Tell TeaCache the Optimal Threshold**|Zishen Huang et.al.|[2507.06739](http://arxiv.org/abs/2507.06739)|null|
 |**2025-07-09**|**FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation**|Liqiang Jing et.al.|[2507.06523](http://arxiv.org/abs/2507.06523)|null|
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
