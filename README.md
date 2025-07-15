@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-08**|**OTAS: Open-vocabulary Token Alignment for Outdoor Segmentation**|Simon Schwaiger et.al.|[2507.08851](http://arxiv.org/abs/2507.08851)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Zhenyang Liu et.al.|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
@@ -167,6 +169,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-13**|**Advancing Text-to-3D Generation with Linearized Lookahead Variational Score Distillation**|Yu Lei et.al.|[2507.09748](http://arxiv.org/abs/2507.09748)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
 |**2025-07-11**|**InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes**|Zesong Yang et.al.|[2507.08416](http://arxiv.org/abs/2507.08416)|null|
 |**2025-07-08**|**OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion**|Yunhan Yang et.al.|[2507.06165](http://arxiv.org/abs/2507.06165)|null|
@@ -616,6 +620,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
 |**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434](http://arxiv.org/abs/2507.08434)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
 |**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136](http://arxiv.org/abs/2507.08136)|null|
@@ -1690,8 +1696,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
+|**2025-07-11**|**Taming generative video models for zero-shot optical flow extraction**|Seungwoo Kim et.al.|[2507.09082](http://arxiv.org/abs/2507.09082)|null|
+|**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
+|**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
