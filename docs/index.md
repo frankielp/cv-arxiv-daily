@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D Segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-08**|**OTAS: Open-vocabulary Token Alignment for Outdoor Segmentation**|Simon Schwaiger et.al.|[2507.08851](http://arxiv.org/abs/2507.08851)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
@@ -158,7 +158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-13**|**Advancing Text-to-3D Generation with Linearized Lookahead Variational Score Distillation**|Yu Lei et.al.|[2507.09748](http://arxiv.org/abs/2507.09748)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
 |**2025-07-11**|**InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes**|Zesong Yang et.al.|[2507.08416](http://arxiv.org/abs/2507.08416)|null|

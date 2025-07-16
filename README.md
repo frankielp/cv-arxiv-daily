@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-08**|**OTAS: Open-vocabulary Token Alignment for Outdoor Segmentation**|Simon Schwaiger et.al.|[2507.08851](http://arxiv.org/abs/2507.08851)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
@@ -116,7 +116,7 @@
 |**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972](http://arxiv.org/abs/2412.10972)|**[link](https://github.com/lusxvr/dcseg)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Reasoning Segmentation
 
@@ -163,13 +163,13 @@
 |**2024-09-20**|**Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model**|Li Zhou et.al.|[2409.13407](http://arxiv.org/abs/2409.13407)|**[link](https://github.com/lizhou-cs/mglmm)**|
 |**2025-02-10**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## 3D Generative
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-13**|**Advancing Text-to-3D Generation with Linearized Lookahead Variational Score Distillation**|Yu Lei et.al.|[2507.09748](http://arxiv.org/abs/2507.09748)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
 |**2025-07-11**|**InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes**|Zesong Yang et.al.|[2507.08416](http://arxiv.org/abs/2507.08416)|null|
@@ -614,7 +614,7 @@
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|**[link](https://github.com/KU-CVLAB/RetDream)**|
 |**2024-02-02**|**A Comprehensive Survey on 3D Content Generation**|Jian Liu et.al.|[2402.01166](http://arxiv.org/abs/2402.01166)|**[link](https://github.com/hitcslj/awesome-aigc-3d)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -1690,7 +1690,7 @@
 |**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|**[link](https://github.com/weify627/4D-Rotor-Gaussians)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Text-to-Video
 
@@ -2831,7 +2831,7 @@
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
