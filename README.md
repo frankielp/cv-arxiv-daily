@@ -126,6 +126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction**|Yiqing Shen et.al.|[2507.16718](http://arxiv.org/abs/2507.16718)|null|
 |**2025-07-17**|**HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation**|Weihuang Lin et.al.|[2507.12883](http://arxiv.org/abs/2507.12883)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
 |**2025-07-04**|**Controlling Thinking Speed in Reasoning Models**|Zhengkai Lin et.al.|[2507.03704](http://arxiv.org/abs/2507.03704)|null|
@@ -174,6 +175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
 |**2025-07-20**|**Towards Geometric and Textural Consistency 3D Scene Generation via Single Image-guided Model Generation and Layout Optimization**|Xiang Tang et.al.|[2507.14841](http://arxiv.org/abs/2507.14841)|null|
 |**2025-07-19**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/abs/2507.13346)|null|
 |**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
@@ -628,6 +630,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
+|**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-21**|**Appearance Harmonization via Bilateral Grid Prediction with Transformers for 3DGS**|Jisu Shin et.al.|[2507.15748](http://arxiv.org/abs/2507.15748)|null|
 |**2025-07-21**|**DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting**|Hung Nguyen et.al.|[2507.15690](http://arxiv.org/abs/2507.15690)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
@@ -1721,6 +1725,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
+|**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
 |**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
