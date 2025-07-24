@@ -175,6 +175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention**|Yiwen Chen et.al.|[2507.17745](http://arxiv.org/abs/2507.17745)|null|
 |**2025-07-23**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
 |**2025-07-20**|**Towards Geometric and Textural Consistency 3D Scene Generation via Single Image-guided Model Generation and Layout Optimization**|Xiang Tang et.al.|[2507.14841](http://arxiv.org/abs/2507.14841)|null|
 |**2025-07-19**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/abs/2507.13346)|null|
@@ -630,6 +631,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Temporal Smoothness-Aware Rate-Distortion Optimized 4D Gaussian Splatting**|Hyeongmin Lee et.al.|[2507.17336](http://arxiv.org/abs/2507.17336)|null|
+|**2025-07-22**|**StreamME: Simplify 3D Gaussian Avatar within Live Stream**|Luchuan Song et.al.|[2507.17029](http://arxiv.org/abs/2507.17029)|null|
 |**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-21**|**Appearance Harmonization via Bilateral Grid Prediction with Transformers for 3DGS**|Jisu Shin et.al.|[2507.15748](http://arxiv.org/abs/2507.15748)|null|
@@ -1725,6 +1728,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-23**|**EndoGen: Conditional Autoregressive Endoscopic Video Generation**|Xinyu Liu et.al.|[2507.17388](http://arxiv.org/abs/2507.17388)|null|
+|**2025-07-22**|**Controllable Video Generation: A Survey**|Yue Ma et.al.|[2507.16869](http://arxiv.org/abs/2507.16869)|null|
 |**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
 |**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
